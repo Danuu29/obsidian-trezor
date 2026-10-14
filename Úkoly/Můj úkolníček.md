@@ -23,7 +23,6 @@ kanban-plugin: board
 - [ ] **Hodnocení hráče**
 	– detailní hodnocení hráče
 	– postavit tabular v návaznosti na Wyscout = jedna tabulka
-- [ ] [[Test]]
 
 
 ## Čeká
