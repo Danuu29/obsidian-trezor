@@ -1,4 +1,3 @@
-# Poznámky z porady: Hodnocení hráčů a karta hráče
 
 _Přepis je místy hodně nepřesný (jména, názvy nástrojů). Nejasná místa označuji (?)._
 
