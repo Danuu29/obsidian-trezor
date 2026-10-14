@@ -8,6 +8,7 @@ strana: 102–103
 Při hodnocení hráče je třeba **vždy** použít obě metody – kvalitativní dodává kontext a hloubku číslům, kvantitativní objektivitu a přesnost. Vždy s odpovídající ochranou dat a safeguardingem.
 
 ## Kvalitativní analýza
+
 - **Deskriptivní pozorování** hry a akcí hráče.
 - **Subjektivní vhled** – porozumění hře, rozhodování, kreativita, adaptabilita.
 - **Rozhodování jako výchozí bod** – jak hráč zpracovává informace pod tlakem, leadership, reakce na stres.
@@ -15,6 +16,7 @@ Při hodnocení hráče je třeba **vždy** použít obě metody – kvalitativn
 - **Interpretace chování** – čtení hry, anticipace, provedení akce.
 
 ## Kvantitativní analýza
+
 - **Statistický popis** – úspěšnost přihrávek, góly, naběhaná vzdálenost.
 - **Benchmarking** vůči standardům a vrstevníkům.
 - **Trendy (frekvence) a hodnota (dopad)** akcí → vzorce v čase, projekce budoucího výkonu.

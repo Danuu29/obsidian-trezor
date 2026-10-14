@@ -8,11 +8,13 @@ strana: 36–41
 Seznam klíčových kritérií očekávaných od hráčů organizace, typicky **pro každou pozici** (některá kritéria společná všem). Nejde o vyčerpávající checklist – hráč nemusí splnit vše; jde o hlavní aspekty, které chceme na pozici vidět. Kritéria vychází z [[D1 Filozofie]] a mají být odsouhlasena všemi klíčovými stakeholdery.
 
 ## Dvě možné struktury
+
 **1. Four corner** – technické · taktické · fyzické · psychosociální
 
 **2. In/out of possession** – s míčem · bez míče (technika a taktika dohromady) + obecná fyzická a psychosociální kritéria
 
 ## Příklad: křídlo (fiktivní organizace)
+
 | Technické | Taktické | Fyzické | Psychosociální |
 |---|---|---|---|
 | kombinace ve finální třetině | využít útočné prostory | akcelerace | ochota riskovat |
@@ -22,6 +24,7 @@ Seznam klíčových kritérií očekávaných od hráčů organizace, typicky **
 | 1v1 v obraně – získat míč | rychlá reakce na ztrátu | robustnost v soubojích | emoční kontrola |
 
 ## Otázky při tvorbě
+
 - Specifické dle věku a zrání? Pozice? Pohlaví?
 - Co a jak měříme (KPI)? Objektivně i subjektivně?
 

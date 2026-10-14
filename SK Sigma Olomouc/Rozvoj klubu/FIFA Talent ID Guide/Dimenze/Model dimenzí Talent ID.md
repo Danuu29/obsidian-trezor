@@ -8,6 +8,7 @@ strana: 6–9
 **Talent ID** = proces rozpoznání jedinců s potenciálem stát se v budoucnu úspěšnými profesionálními nebo reprezentačními hráči. Zohledňuje fyzické, technické, taktické, psychologické a sociální kvality – ovlivněné filozofií organizace, cílovými profily, růstem a zráním a vývojem hry.
 
 ## Struktura
+
 Pět navazujících dimenzí v logickém pořadí:
 
 | Dimenze | Subdimenze |
@@ -19,6 +20,7 @@ Pět navazujících dimenzí v logickém pořadí:
 | [[D5 Konstanty]] | Plan-Do-Review · Talent ID vzdělávání (běží průběžně pod vším) |
 
 ## Principy
+
 - Základní principy platí pro velké i malé organizace – liší se jen zdroje, populace a geografie.
 - Klíčoví jsou zapálení a dobře vybavení lidé.
 - Postaveno na empirických důkazech a příkladech dobré praxe.

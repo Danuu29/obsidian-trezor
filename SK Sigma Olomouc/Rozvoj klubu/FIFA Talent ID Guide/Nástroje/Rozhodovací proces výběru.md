@@ -8,6 +8,7 @@ strana: 138–140
 Výběr hráčů vyžaduje systematický, longitudinální a kolaborativní přístup (sportovní ředitel, Head of Talent ID, manažeři, skauti, trenéři). Konflikty perspektiv řešit komunikací a sladěním.
 
 ## 8 kroků
+
 1. **Kolaborativní** – vstupy z více rolí, otevřená komunikace.
 2. **Systematický** – strukturovaný postup krok za krokem, konzistence a férovost.
 3. **Srovnávací** – metriky, benchmarky, poziční potřeby.
@@ -18,6 +19,7 @@ Výběr hráčů vyžaduje systematický, longitudinální a kolaborativní př�
 8. **Longitudinální** – sledování napříč sezonami a soutěžemi.
 
 ## 5 vodicích principů
+
 - **Transparentní** – otevřenost a jasná komunikace.
 - **Objektivní** – měřitelná data a nezaujatá pozorování.
 - **Rozvojový** – potenciál, nejen aktuální výkon.
@@ -25,6 +27,7 @@ Výběr hráčů vyžaduje systematický, longitudinální a kolaborativní př�
 - **Strategický** – sladěno s herním stylem, cíli a taktickými potřebami.
 
 ## Organizace rozhodování
+
 - Kdo vstupuje, kdo má finální slovo, jak často jsou review meetingy, pro co vybíráme.
 - Formální rozhodovací skupina, formální proces řešení neshod.
 - → [[RACI matice]]

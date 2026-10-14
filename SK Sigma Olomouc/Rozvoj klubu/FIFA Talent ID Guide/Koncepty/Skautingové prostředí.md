@@ -8,11 +8,13 @@ strana: 74
 Cíl: komplexní a inkluzivní přístup, aby žádný talent nezůstal přehlédnut a skauting čerpal z co nejširších zdrojů.
 
 ## Otázky
+
 - Kde hráče identifikujeme (kluby, regionální výběry, školy)?
 - Jak hodnotíme hráčskou populaci a pokrytí prostředí (soutěžní struktury)?
 - Sledujeme hráče v zahraničí?
 
 ## Co dělat
+
 - Široká platforma: školní akce, klubové zápasy, turnaje, doporučení.
 - Spolupráce se školami a grassroots programy.
 - Zohlednit **birthplace effect** – místo narození ovlivňuje příležitosti a rozvoj.

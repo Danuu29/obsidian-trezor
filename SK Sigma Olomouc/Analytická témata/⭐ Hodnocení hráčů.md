@@ -3,19 +3,21 @@ apple-notes-id: C44C54AE-2E2D-40EF-AEEA-45DDA7C0C149
 ---
 # Hodnocení hráčů U6 - U13
 
-Otázky
-- Jak často vyplňovat hodnocení? 
-	- Po každém zápase? 
-	- Co čtvrt roku? 
+## Otázky
 
-Rozsah
+- Jak často vyplňovat hodnocení?
+	- Po každém zápase?
+	- Co čtvrt roku?
+
+## Rozsah
+
 - Hodnocení hráčů U9 - U13
 	- Rozděleno v popisu otázek U9 - U10
 	- Rozšířenější a pokročilejší hodnocení U11 - U13
 
 ## Základní parametry a otázky pro U9-U10
 
-	1. Technika
+1. Technika
 
 - &nbsp;
 		- **Popis kritéria:** Schopnost ovládat míč v rychlosti, měnit směr, zapojovat obě nohy a udržet míč pod kontrolou při hře 1v1.
@@ -60,7 +62,8 @@ Rozsah
 			- **5 (Excelentní):** Absolutní lídr a bojovník. Miluje těžké zápasy, pod tlakem jeho výkon roste, má obrovské sebevědomí.
 
 ## Základní parametry a otázky pro U11 - U13
-	1. Technika
+
+1. Technika
 
 - &nbsp;
 		- **Popis kritéria:** První dotek (převzetí míče) v pohybu, přesnost a intenzita přihrávky na delší vzdálenost, technická čistota pod časoprostorovým tlakem.
@@ -108,13 +111,12 @@ Rozsah
 
 - &nbsp;
 	- Dotazník bude obohacený o poznámky, které bude moc trenér využít pro zaznamenání čehokoli, co pro něho bude důležité
-	- Hodnocení 
+	- Hodnocení
 		- Číslo 3 je standard našeho klubu
-		- Číslo 4 a 5 jsou hráči, kteří něčím vyčnívají 
+		- Číslo 4 a 5 jsou hráči, kteří něčím vyčnívají
 		- Číslo 1 a 2 znamená, že hráč v něčím výrazněji zaostává
 
-
-# Hodnocení brankářů 
+# Hodnocení brankářů
 
 - &nbsp;
 	- Doplnit jméno hodnotitele
@@ -123,20 +125,19 @@ Rozsah
 
 — Doplnit do profilu hráče jeho primární a sekundární pozici
 — přesně si vyspecifikovat, co znamená passing pro kterou kategorii - v hodnocení nepoužívat jen obecné pojmy jako passing, ale být specifický
-— popsat naši filozofii a metodiku klidně dlouze, ale udělat z toho výtah toho nejdůležitějšího 
-	— vymyslet aplikaci 
+— popsat naši filozofii a metodiku klidně dlouze, ale udělat z toho výtah toho nejdůležitějšího
+	— vymyslet aplikaci
 
+## Poznámky dodělat:
 
-Poznámky dodělat: 
-- Když se napíšou dvě hodnocení v jeden den nebo brzo za sebou, aby se udělal průměr 
-
+- Když se napíšou dvě hodnocení v jeden den nebo brzo za sebou, aby se udělal průměr
 
 - **Mapa Interního skautingu** - rozložení jako na hřišti a základní obraz toho, jak je který hráč hodnocený (zjistíme tak, kde máme na jendotlivých pozicích mezery) - napříč kategoriemi, dorostem, klubem (Mapa strategie klubu)
 
+## Dodělat:
 
-Dodělat:
 - Napromptovat Yollandu
 - Dodat tam věk hráčů
-- Dodat tam poslední hodnocení 
+- Dodat tam poslední hodnocení
 - Ať se vyjádří co je nejčastěji se opakující pro danou skupinu
 - Označit jestli jsou top?

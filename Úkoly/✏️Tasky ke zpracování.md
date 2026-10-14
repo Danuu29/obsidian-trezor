@@ -7,14 +7,13 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 	- [ ] Dát info že nejsou data kompletní oproti termínově
 	- [ ] Hráči mimo klub - kolik odehráli, odtrénovali, atd.. (evidence, abychom měli informace)
 
-## Sigma 
+## Sigma
 
 - &nbsp;
 	- [ ] Hodnocení hráče - detailní pohled na techniku, taktiku a mentalitu
 
 	- [ ] Kariérní dotazník
 	- [ ] Kariérní plán
-
 
 ## Yollanda
 
@@ -24,7 +23,7 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 ## GPS úpravy
 
 - &nbsp;
-	- [ ] Udělat report s přehledem z předešlého dne ACWR z GPS 
+	- [ ] Udělat report s přehledem z předešlého dne ACWR z GPS
 	- [ ] Udělat typ zobrazení (trasholdy, individuální referenční hodnota)
 	- [ ] Upozornění v návaznosti na trasholdy
 	- [ ] Parametry za minutu (filtr)
@@ -43,20 +42,22 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 	- [ ] Míra aplikace - automatizace
 	- [ ] Standardní situace do přípravy na soupeře
 	- [ ] Detailně popsat data Skill Corner a Wyscout + vytvořit metadata
-	- [ ] V rámci aplikace příprava na zápas - možnost dělat skautské reporty (Patrik - trasholdy - + informace na základě metodiky) 
+	- [ ] V rámci aplikace příprava na zápas - možnost dělat skautské reporty (Patrik - trasholdy - + informace na základě metodiky)
 
 ## Wellness
-	- [ ] Zařadit do dotazníků, že hráče něco bolí (kotník, kolena, třísla, zadní strana stehna, ostatní)
-	- [ ] Záznam regenerace (bodový systém Páťa)
 
-## Přípravka 
+- [ ] Zařadit do dotazníků, že hráče něco bolí (kotník, kolena, třísla, zadní strana stehna, ostatní)
+- [ ] Záznam regenerace (bodový systém Páťa)
+
+## Přípravka
 
 - &nbsp;
 	- [ ] Motorické testy - Inbody
 
 ## Vzdělávání
-	- [x] Žáci - sejít se s nimi a projít plánování a hodnocení
-	- [x] Trenéři - vytáhnout zajímavé věci z Yarmillu a naučit je promptovat
+
+- [x] Žáci - sejít se s nimi a projít plánování a hodnocení
+- [x] Trenéři - vytáhnout zajímavé věci z Yarmillu a naučit je promptovat
 
 ## Ostatní
 
@@ -72,7 +73,7 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 - &nbsp;
 	- [ ] Reprezentační reporty (informace o našich hráčích pro reprezentace)
 	- [ ] Jak zakomponovat interpretaci motorických výsledků do reportingu (Páťovo)
-	- [ ] Plán mikrocyklu - zakomponovat do Yarmillu - z toho pak hodnotit 
+	- [ ] Plán mikrocyklu - zakomponovat do Yarmillu - z toho pak hodnotit
 	- [ ] Týmový přehled výsledků - clarificatory (velikosti trenérových reportů)
 	- [ ] GPS - detail aktivity (detailní trénink)
 	- [ ] Reporting pro vedení - chtějí informace o tom jak se komu daří
@@ -80,13 +81,14 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 	- [ ] Reakční test - udělat tam trend, individuální report
 	- [x] Vstupní report hráče
 
-## Scouting 
+## Scouting
 
 - &nbsp;
 
-
 ## Brankáři
-	- [ ] Zjistit, kde by se dalo pracovat s daty pro brankáře
+
+- [ ] Zjistit, kde by se dalo pracovat s daty pro brankáře
 
 ## Psychologie
-	- [ ] Zapojení otázek na psychiku do wellnessu
+
+- [ ] Zapojení otázek na psychiku do wellnessu

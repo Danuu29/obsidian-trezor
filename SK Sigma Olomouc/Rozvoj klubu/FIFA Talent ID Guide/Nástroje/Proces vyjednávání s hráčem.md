@@ -16,6 +16,7 @@ Proces je specifický pro kontext (profi klub vs. svaz, který posílá pozvánk
 7. **Uzavření a oznámení** – zdravotní prohlídka, registrace, oficiální oznámení.
 
 ## Tipy
+
 - **Data-driven** – analytikou zdůvodnit hodnotu hráče.
 - **Budovat důvěru** – otevřená komunikace s agentem a hráčem.
 - **Flexibilita** – nefinanční benefity (garance herního času).

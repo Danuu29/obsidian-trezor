@@ -10,6 +10,7 @@ Převádí dlouhodobé cíle do ročního akčního plánu TID aktivit – zvyš
 **Sloupce:** Cíl · Aktivity · Deadline · Rozpočet · Odpovědná osoba · Indikátor výsledku
 
 ## Příklad
+
 | Cíl | Aktivita | Odpovědnost | Indikátor |
 |---|---|---|---|
 | Identifikovat talenty 12–16 let | TID akce v regionálním městě | koordinátor + regionální stakeholdeři | 80 dětí, 15 potenciálních talentů |

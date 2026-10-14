@@ -8,6 +8,7 @@ strana: 42–43
 Arsène Wenger (FIFA Chief of Global Football Development) o kompetencích, které by měly informovat [[Hráčský profil]].
 
 ## Klíčové kompetence
+
 - Sbírat informace **před** převzetím míče.
 - Analyzovat a vyhodnotit je.
 - Myslet dopředu a rozhodovat rychle.
@@ -18,6 +19,7 @@ Arsène Wenger (FIFA Chief of Global Football Development) o kompetencích, kter
 - Reflektovat výsledek rozhodnutí a učit se z něj.
 
 ## Myšlenky
+
 - Míč musí být „přítel“ – být vždy připraven ho přijmout; ideálně obounohost.
 - Posledních 10 let byl hlavní vývoj fyzický; budoucnost bude víc o **technice a mentální stránce** (zvládání stresu a tlaku), rychlejším vidění.
 - Technika je výraz talentu – jako spisovatel s omezenou slovní zásobou nevyjádří myšlenky, hráč bez techniky neprovede, co vidí.

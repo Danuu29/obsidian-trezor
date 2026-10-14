@@ -13,6 +13,7 @@ Matice odpovědností pro sladění rolí v komplexních procesech s více stake
 - **I – Informed** – koho informovat po rozhodnutí
 
 ## Postup
+
 1. Definovat klíčové akce a úkoly procesu.
 2. Vytvořit tabulku úkoly × lidé.
 3. Společně přiřadit R/A/C/I.

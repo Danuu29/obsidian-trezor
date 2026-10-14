@@ -1,13 +1,13 @@
 ---
 apple-notes-id: 62C1D3E6-A604-4901-A88D-761A329AB8A7
 ---
-- **Denní připravenost** 
+- **Denní připravenost**
 	- Propojení Whoop, Wellness, Zdravotní informace
 	- Zodpovědné osoby: Hráči z TOP. Programu
-- **Plánování** 
+- **Plánování**
 	- Levá a pravá strana
 	- Zodpovědné osoby: Trenéři (musí se zaučit)
-- **Skutečnost** 
+- **Skutečnost**
 	- Vyplňování aktivit mimo tréninky a regenerace
 	- Zodpovědné osoby: Hráči z TOP programu
 - Analýza GPS
