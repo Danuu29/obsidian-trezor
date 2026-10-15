@@ -31,9 +31,19 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Značení testů VALD (CMJA, dlouhá páka „X“, test flexorů „X“) → [[VALD]]
 - Jak do Yollandy dostat zranění/nemoci → [[Yollanda]]
 
+## Herní a video analýza (z Barça kurzu)
+
+- Kdo v Sigmě vlastní video tagging a jaký software (Sportscode / Nacsport / LongoMatch / Wyscout)? → [[Tagging a code window]]
+- Pod koho spadá analytické / datové oddělení (sportovní vedení vs. A-tým)? → [[Oddělení analýzy – struktura a role]]
+- Sjednotit číslování postů (španělské P2–P10 vs. značení v postových profilech)? → [[Plány analýzy (micro, meso, macro)]]
+- Zavést MD+x/−y jako standard v Yarmillu? → [[Mikrocyklus a značení MD]]
+- Které návrhy z kurzu prioritizovat? → [[Barça kurz – návrhy pro Sigmu]]
+
 ## Náměty k průzkumu (pro web / literaturu)
 
 - EWMA vs. ACWR pro sledování zátěže
 - Coxův model proporcionálních rizik pro predikci zranění
 - Měření biologického věku bez RTG (metoda Slavie)
 - Literatura Buchheit k GPS
+- Fradua et al. (2013) a Muñoz (2014) – rozměry SSG podle zóny hřiště; aplikovatelnost na mládež
+- Inter-rater reliability při ručním tagování videa

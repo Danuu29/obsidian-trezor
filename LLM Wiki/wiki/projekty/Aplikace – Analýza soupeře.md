@@ -1,7 +1,7 @@
 ---
 typ: projekt
 tags: [aplikace, analyza-soupere, ai, skillcorner]
-zdroje: ["[[Zdroj – Zadání aplikací]]"]
+zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]"]
 stav: vývoj
 aktualizovano: 2026-10-15
 ---
@@ -32,6 +32,10 @@ Základní charakteristika a rozestavení · pasáže utkání a game state · b
 - Více prolnout silné/slabé stránky hráčů na pozicích proti sobě.
 - Rozdělit na detailní report + krátký **insight report**; pozápasová analýza s vloženým plánem hry; analýza hráčů po utkáních; mazání dat podle zdrojového souboru; zálohování dat při nové verzi.
 
+## Metodická opora
+
+[[Analýza soupeře – metodika]] (Barça kurz) dává ověřenou strukturu kolektivního reportu (B.1–B.5), katalog otázek podle fáze × třetiny × bloku soupeře, kritéria výběru zápasů, filtr *True – Significant – Trainable* a strategie *Avoid / Condition / Assume*. Konkrétní návrhy úprav → [[Barça kurz – návrhy pro Sigmu]]. Převod reportu do tréninku → [[Operativní strategie a trénink]]; standardky → [[Standardní situace – analýza]].
+
 ## Nápady
 
 Skauting v české lize, průměrná a top data na pozicích, standardky, brankářská data.
@@ -41,4 +45,4 @@ Skauting v české lize, průměrná a top data na pozicích, standardky, brank�
 
 ## Souvislosti
 
-[[SkillCorner]] · [[Hodnocení utkání a pozápasový report]] · [[Sigma Way]]
+[[SkillCorner]] · [[Hodnocení utkání a pozápasový report]] · [[Sigma Way]] · [[Analýza soupeře – metodika]] · [[Herní cyklus]]

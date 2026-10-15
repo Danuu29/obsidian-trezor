@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [skauting, reporting, aplikace]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – FIFA Talent ID Guide]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – FIFA Talent ID Guide]]", "[[Zdroj – Barça Match Analysis]]"]
 aktualizovano: 2026-10-15
 ---
 # Skauting – proces a reporting
@@ -24,6 +24,10 @@ Umí: nahrát seznam hráčů a slovník, popsat požadavky na pozici a styl hry
 - **Stavy:** Odmítnuto (červená) · Typy – neviděli jsme (šedá) · Probíhá jednání (modrá) · Sledován (žlutá) · TOP (zelená) · Sledování vývoje (oranžová).
 - Zobrazení jako **postová sestava** po ročnících (U19 → U12) – „sto a jedna“ mít hráče rozdělené po postech; s filtrem pozice jako seznam.
 - Do budoucna: hlavní skaut zadává profily k reportu s prioritou (urgent/medium/low), part-time přístupy.
+
+## Metodika skautského hodnocení (Barça kurz)
+
+Hodnotit hráče ze 3 perspektiv – **současné prostředí** (úroveň soutěže, náročnost sledovaných zápasů, role v týmu), **budoucí prostředí** (nároky našeho modelu, konkurence na postu, jazyk, kultura) a **hypotetická adaptace**; více skautů se **sjednocenou škálou**; skautovat i trenéry. Mezinárodní skauting nejdřív nepřímo přes video platformy, pak ověření na místě. → [[Analýza soupeře – metodika]], [[Oddělení analýzy – struktura a role]].
 
 ## Nápady
 

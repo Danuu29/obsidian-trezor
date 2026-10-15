@@ -1,7 +1,7 @@
 ---
 typ: projekt
 tags: [aplikace, statistika, zapas]
-zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Meetings smetiště]]"]
+zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Barça Match Analysis]]"]
 stav: v provozu, úpravy
 aktualizovano: 2026-10-15
 ---
@@ -21,6 +21,10 @@ aktualizovano: 2026-10-15
 - Export vybraných dat (CSV/Excel) → nahrávání do [[Yarmill]].
 - Držení míče (automatismus?), barvy metrik, přiblížit finální report vzoru.
 
+## Inspirace z Barça kurzu
+
+Code windows profesionálních týmů (Španělsko MS 2018, FFA), tlačítka **Review/Error**, statistické alarmy, live protokol analytik → asistent → trenér, poločasový balíček a live dashboard s max. ~9 metrikami → [[Live analýza a poločas]], [[Tagging a code window]], [[Mediacoach]]. Konkrétní návrhy → [[Barça kurz – návrhy pro Sigmu]].
+
 ## Souvislosti
 
-[[Hodnocení utkání a pozápasový report]]
+[[Hodnocení utkání a pozápasový report]] · [[Live analýza a poločas]]

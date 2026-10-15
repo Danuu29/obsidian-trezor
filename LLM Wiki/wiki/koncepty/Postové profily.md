@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [posty, profily, akademie]
-zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]"]
+zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Barça Match Analysis]]"]
 aktualizovano: 2026-10-15
 ---
 # Postové profily
@@ -39,4 +39,4 @@ Jak sladit flexibilitu hráčů s postovou specializací od U16? Kdo má fináln
 
 ## Souvislosti
 
-[[Hráčský profil]] · [[Austrálie – hráčské profily]] · [[Amrabat – profil hráče]] (FIFA) · [[Karta hráče – koncept]]
+[[Hráčský profil]] · [[Austrálie – hráčské profily]] · [[Amrabat – profil hráče]] (FIFA) · [[Karta hráče – koncept]] · [[Individuální fundamenty postů (IFP)]] (konkrétní poziční koncepty s/bez míče – podklad pro „3+3 návyky“) · [[Plány analýzy (micro, meso, macro)]] (functional roles jako druhá osa vedle postu)

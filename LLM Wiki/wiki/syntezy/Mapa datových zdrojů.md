@@ -25,6 +25,10 @@ Které datové zdroje Sigma (resp. Yarmill) používá nebo zvažuje a k čemu. 
 | Biologický věk | měření Slavia/Baník | plán | [[Biologický věk]] |
 | Ostatní | GymAware, krevní rozbory, 3D sken pohybu | nápad / řeší se | [[Future Blue]] |
 
+## Typologie dat
+
+Podle Barça kurzu 5 typů: eventing, tracking, biological, financial, video – se standardy F24, EPTS, OSICS… → [[Typy sportovních dat a datová architektura]]. Cíl architektury: žádná data sila, sjednocená ID napříč zdroji.
+
 ## Mezery
 
-Brankáři · herní data pro mládež · biologický věk · mentální dotazníky.
+Brankáři · herní data pro mládež · biologický věk · mentální dotazníky · **vlastní video tagging** podle herního modelu (zatím jen Match tracker) → [[Tagging a code window]].

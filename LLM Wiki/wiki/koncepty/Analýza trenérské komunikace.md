@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [koucink, trenéři, vzdelavani, ai]
-zdroje: ["[[Zdroj – Zadání aplikací]]"]
+zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]"]
 aktualizovano: 2026-10-15
 ---
 # Analýza trenérské komunikace
@@ -18,4 +18,4 @@ Metodika hodnocení, jak trenér komunikuje v tréninku, z přepisu audia. Podkl
 
 ## Souvislosti
 
-[[Sigma Way]] (jednotné názvosloví) · [[Společný fotbalový jazyk]] (FIFA)
+[[Sigma Way]] (jednotné názvosloví) · [[Společný fotbalový jazyk]] (FIFA) · [[Analýza tréninku – intervence trenéra]] (teoretický rámec: dynamické vs. statické intervence, počet zpráv, interrogative feedback) · [[Taktická komunikace]] (slovník) · [[Video feedback a komunikace s hráči]] (typy otázek a feedbacku dle CAIS)

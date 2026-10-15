@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [klub, fotbal, sigma]
-zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Meetings smetiště]]"]
+zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Barça Match Analysis]]"]
 aktualizovano: 2026-10-15
 ---
 # SK Sigma Olomouc
@@ -19,6 +19,7 @@ Fotbalový klub, ve kterém Danů vede datově-analytickou práci (přes platfor
 
 - Platforma: [[Yarmill]] (+ AI asistentka [[Yollanda]])
 - Zdroje: GPS (Catapult), [[VALD]], [[InBody]], [[Whoop]], [[SkillCorner]], [[Wyscout]], [[Eyeball]], wellness dotazníky, zdravotní modul → [[Mapa datových zdrojů]]
+- Metodika budování analytického oddělení (role, workflow, architektura) → [[Oddělení analýzy – struktura a role]], [[Barça kurz – návrhy pro Sigmu]]
 - Dokumenty: jediné povolené úložiště je SharePoint „Sigma mládež“ ([[SK Sigma Olomouc/Analytická témata/Dokumenty SK Sigma Olomouc 📁|zdroj]]).
 
 ## Hlavní aktivní témata

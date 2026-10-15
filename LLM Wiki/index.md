@@ -12,6 +12,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Otevřené otázky]] – nevyřešené otázky napříč wiki
 - [[Rozpory a nesrovnalosti]] – kde si zdroje odporují (hlavně normy VALD)
 - [[Mapa datových zdrojů]] – jaká data, stav, kde se používají
+- [[Barça kurz – návrhy pro Sigmu]] – co z kurzu match analysis přenést do aplikací, reportů a datového oddělení (návrhy)
 
 ## Entity
 
@@ -28,6 +29,8 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[InBody]] – složení těla, normy
 - [[Whoop]] – wearable pro denní připravenost
 - [[VIF Cycling team]] – cyklistický tým závodnic
+- [[Barça Innovation Hub]] – vzdělávací platforma FC Barcelona (kurz match analysis)
+- [[Mediacoach]] – analytická platforma La Ligy (live dashboard, sezónní reporty) – vzor
 
 ## Koncepty
 
@@ -48,6 +51,26 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Denní připravenost a wellness]] – wellness, Whoop, player availability
 - [[Principy vizualizace a reportingu]] – zásady tvorby reportů a grafů
 - [[Analýza trenérské komunikace]] – metodika hodnocení koučinku
+
+### Herní a video analýza (Barça kurz)
+
+- [[Plány analýzy (micro, meso, macro)]] – tři úrovně analýzy, functional roles, organizace vůči míči
+- [[Individuální fundamenty postů (IFP)]] – konkrétní poziční koncepty s/bez míče (P2–P10)
+- [[Obranná linie – principy]] – height reference, line leader, covered/uncovered ball, funnel
+- [[Herní cyklus]] – fáze, kontexty, ADT/DAT, developments, game as a model
+- [[Analýza soupeře – metodika]] – scouter vs. analyst, report B.1–B.5, True/Significant/Trainable, Avoid/Condition/Assume
+- [[Operativní strategie a trénink]] – soupeř → tréninkové úlohy, provokační pravidla, rozměry SSG, feedback
+- [[Mikrocyklus a značení MD]] – +x/−y, rozložení videa v týdnu
+- [[Standardní situace – analýza]] – čísla, šablony, 4 způsoby tréninku
+- [[Předzápasová příprava a komunikace]] – co, kolik, kdy (4 momenty)
+- [[Live analýza a poločas]] – code windows, protokol analytik → asistent → trenér, poločas
+- [[Video feedback a komunikace s hráči]] – poměr klipů 1:1 / 2:1, načasování, skupiny
+- [[Sezónní hodnocení týmu a soutěže]] – Swiss cheese, kvanti/kvali, reality × aptitude × attitude
+- [[Analýza tréninku – intervence trenéra]] – fáze cvičení, dynamické vs. statické intervence
+- [[Taktická komunikace]] – slovník krátkých taktických pokynů
+- [[Oddělení analýzy – struktura a role]] – proč samostatně, role, workflow
+- [[Typy sportovních dat a datová architektura]] – 5 typů dat, standardy, data lake → BI
+- [[Tagging a code window]] – code/tag/event matrix, software, nahrávání videa
 
 ## Projekty
 
@@ -71,5 +94,6 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – Znalosti]] | `Znalosti/` (3 pozn.) | 2026-10-15 |
 | [[Zdroj – Úkoly]] | `Úkoly/` (2 pozn.) | 2026-10-15 |
 | [[Zdroj – Hodnocení závodnic VIF]] | `VIF Cycling team 🚴/` | 2026-10-15 |
+| [[Zdroj – Barça Match Analysis]] | `LLM Wiki/raw/Barca Match Analysis/` (16 PDF) | 2026-10-15 |
 
 Neingestováno: `Apple Notes/Sigma Olomouc ⚽/` (duplikáty), `Markdown – tahák.md`, `_Přehled úprav.md`, PDF a obrázky v `Apple Notes/` (zatím jen odkazované – kandidáti na samostatný ingest: *4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*).

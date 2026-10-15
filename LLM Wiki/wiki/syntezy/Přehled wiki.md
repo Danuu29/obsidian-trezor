@@ -15,7 +15,9 @@ Těžiště znalostí je **datová analytika a rozvoj hráčů v [[SK Sigma Olom
 2. **Výkon a zdraví (kondice)** – [[GPS metriky a zatížení]], [[Silové testy a normy]], [[Denní připravenost a wellness]], [[Vstupní diagnostika hráče]]. Spojuje je princip [[Thresholdy a benchmarky]]: ukazovat vztah k normě, ne čísla.
 3. **Herní data a aplikace** – [[SkillCorner]], [[Wyscout]], [[Eyeball]]; vlastní aplikace ([[Aplikace – Analýza soupeře]], [[Aplikace – Match tracker]], [[Aplikace – Analýza audio trenéra]]…) a [[Skauting – proces a reporting]].
 
-Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři chtějí informace, ne čísla“).
+4. **Herní a video analýza (metodika)** – od 15. 10. 2026 má wiki teoretickou páteř z [[Zdroj – Barça Match Analysis]]: [[Plány analýzy (micro, meso, macro)]], [[Herní cyklus]], [[Analýza soupeře – metodika]] → [[Operativní strategie a trénink]] → [[Mikrocyklus a značení MD]], cyklus zápasu ([[Předzápasová příprava a komunikace]], [[Live analýza a poločas]], [[Hodnocení utkání a pozápasový report]], [[Sezónní hodnocení týmu a soutěže]]) a stavba oddělení ([[Oddělení analýzy – struktura a role]], [[Typy sportovních dat a datová architektura]], [[Tagging a code window]]). Napojení na aplikace Sigmy → [[Barça kurz – návrhy pro Sigmu]].
+
+Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři chtějí informace, ne čísla“) – Barça kurz to potvrzuje: filtrovat, každé zjištění s doporučením, společný jazyk ([[Taktická komunikace]]).
 
 ## Hlavní napětí a mezery
 
@@ -24,6 +26,7 @@ Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři cht�
 - **Normy nejsou konzistentní** (VALD) → [[Rozpory a nesrovnalosti]].
 - **Data pro mládež** (herní data U17/U19, brankáři, normy pro mládež a dívky) chybí → [[Mapa datových zdrojů]].
 - Priorita č. 1 v úkolech: **karta hráče**.
+- **Vlastní video tagging a analytické oddělení** – metodika je teď ve wiki, ale není jasné, kdo v Sigmě vlastní tagging, jaký software a pod koho oddělení spadá → [[Otevřené otázky]].
 
 ## Mimo fotbal
 

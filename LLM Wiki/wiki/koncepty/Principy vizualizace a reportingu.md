@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [vizualizace, reporting, komunikace]
-zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Analytická témata Sigma]]"]
+zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]"]
 aktualizovano: 2026-10-15
 ---
 # Principy vizualizace a reportingu
@@ -21,6 +21,7 @@ Získat data → analýza (query, pivot) → vizualizace → distribuce.
 - Jde-li to, vyprávět příběh; vše shrnout v jedné větě.
 - „Pokud to nepomůže pochopit data, nemá ve vizualizaci místo.“
 - Kapacita pracovní paměti 7 ± 2, v hlavě reálně 2–3 prvky.
+- Potvrzuje i Barça kurz: „mít hodně informací neznamená být dobře informován“, „the how determines the how much“; live dashboard [[Mediacoach]] má max. 9 údajů; každé zjištění doplnit doporučením ([[Zdroj – Barça Match Analysis]]).
 
 ## Kontrolní otázky před reportem
 
@@ -44,4 +45,4 @@ Přesně popsat, k čemu to je a co to má říct; očekávání, výpočet, zdr
 
 ## Souvislosti
 
-[[Yarmill]] · [[Karta hráče – koncept]]
+[[Yarmill]] · [[Karta hráče – koncept]] · [[Typy sportovních dat a datová architektura]] (matice relevance × frekvence; trenéři uvažují heuristicko-induktivně) · [[Video feedback a komunikace s hráči]]

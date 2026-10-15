@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [herni-model, principy, sigma]
-zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Meetings smetiště]]"]
+zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Barça Match Analysis]]"]
 aktualizovano: 2026-10-15
 ---
 # Sigma Way
@@ -37,3 +37,4 @@ Doladit názvy (hlavně „Od odvahy k ochotě“), rozpracovat game model do po
 
 - Bez game modelu se IDP dělají „pocitově“ → [[Individuální rozvojový plán (IDP)]], [[Postové profily]]
 - [[D1 Filozofie]] (FIFA)
+- [[Herní cyklus]] – kritika hierarchického game modelu („the game demands everything“; hra určuje CO, hráči JAK) a jemné členění fází na kontexty; [[Taktická komunikace]] jako vzor jednotného slovníku

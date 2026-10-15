@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [herni-data, metodika, skillcorner]
-zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]"]
+zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Barça Match Analysis]]"]
 aktualizovano: 2026-10-15
 ---
 # Normalizace herních dat
@@ -24,6 +24,10 @@ Vážit délkou zápasu, odehranými minutami, fází nástupu a kvalitou soupe�
 ## Kontext je víc než procenta
 
 Příklad z ladění aplikace: nižší % zisků ve středu hřiště není slabina, pokud se neporovná s celkovým počtem míčů v té zóně – soupeř může hrát po krajích. → Data vždy vyhodnocovat v kontextu.
+
+## Kontext stavu skóre a role hráče
+
+Barça kurz (P3 R2) doporučuje metriky vyhodnocovat podle stavu skóre – *quite for* (+2 a víc), *balanced* (remíza nebo ±1), *quite against* (−2 a víc) – a podle role hráče (základ = celý 1. poločas nebo 60′; náhradník = jen 2. poločas nebo < 30′). Srovnávací grafy hráčů (per minute) mají smysl jen s kontextem → [[Live analýza a poločas]], [[Analýza soupeře – metodika]].
 
 ## Souvislosti
 
