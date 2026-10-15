@@ -1,17 +1,14 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Aktuální
 
-- [ ] **Hráčská karta** #priorita
+- [ ] **Hráčská karta** #priorita 
 	– udělat kostru
 	– rozmysl
 	– začít budovat
 - [ ] **Úpravy kinezio**
-	– balanc dodat jména
 	– doupravit a dotáhnout do koce
 - [ ] **Aplikace Sláva**
 	– Literatura
