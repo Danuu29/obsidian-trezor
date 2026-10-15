@@ -30,3 +30,12 @@ Chronologický, append-only záznam. Formát hlavičky: `## [RRRR-MM-DD] typ | n
 - Rozpory: žádné věcné. Zpřesnění, ne rozpor: represink „do 6 s“ (Sigma Way) vs. data Prozone 2,5 s / 5,5 s. Napětí: „herní dominance“ vs. zjištění, že držení míče samo góly nepředpovídá (poznamenáno na Sigma Way).
 - Kniha je z let 2016–17 → zastaralá tvrzení (firmy, role lidí, stav tracking analýzy) označena calloutem „Aktualita“ jako poznámka LLM k ověření.
 - Ingest bez úvodní diskuse o důrazech (Danů zadal „zpracuj“); důraz dán na přenositelnost do klubové analytiky, analogie mimo fotbal (biologie, davy) vynechány.
+
+## [2026-10-15] ingest | Football Hackers (Ch. Biermann, 2019)
+
+- Zdroj: kniha *Football Hackers – The Science and Art of a Data Revolution* (Blink 2019, 212 s.), uložena do `raw/Football Hackers (Biermann 2019).pdf`. PDF s textovou vrstvou; grafy a tabulky jen částečně v textu → převzata jen čísla z textu.
+- Nové: [[Zdroj – Football Hackers]]; entity [[Impect]], [[21st Club]]; 7 konceptů ([[Kognitivní zkreslení v hodnocení]], [[Výkon vs. výsledek a role náhody]], [[Packing]], [[Goalimpact a plus-minus]], [[Kognitivní trénink]], [[Osobnostní profily hráčů]], [[Strategie menšího klubu]]); syntéza [[Football Hackers – návrhy pro Sigmu]].
+- Aktualizováno: Expected goals (xG), Possession value, Pressing, Half-spaces, Datový skauting, Standardní situace, Oddělení analýzy, Hodnocení utkání, Predikce, Brentford a FC Midtjylland, Opta, StatsBomb, Wyscout, Barça Innovation Hub, Mapa datových zdrojů, Vstupní diagnostika, Hodnocení hráčů, Skauting, Otevřené otázky, Přehled wiki, index.
+- Rozpory: žádné věcné. Zpřesnění: dlouhodobé překonávání xG (Favre) vs. „neudržitelná konverze“ na stránce xG – vysvětleno slepým místem modelu (shot clarity / pressure), zapsáno jako callout, ne do Rozporů. Nuance u Midtjyllandu: největší prodeje přišly od skautů, ne z dat (doplněno na entitu).
+- Kniha je z let 2017–19 → vývoj firem a metrik označen calloutem „Aktualita“ (poznámka LLM k ověření). Anekdoty a osobní detaily (zdraví, soukromí hráčů) vynechány.
+- Ingest bez úvodní diskuse o důrazech (Danů zadal „zapracuj“); důraz na rozhodování, skauting a přenos do Sigmy.
