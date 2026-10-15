@@ -6,20 +6,20 @@ kanban-plugin: board
 
 ## Aktuální
 
-- [ ] **Hráčská karta** #priorita 
+- [ ] **[[SK Sigma Olomouc/Analytická témata/Karta hráče 🎯|Karta hráče]]** #priorita 
 	- udělat kostru
 	- rozmysl
 	- začít budovat
 - [ ] **Úpravy kinezio**
 	- doupravit a dotáhnout do koce
-- [ ] **Aplikace Sláva**
+- [ ] **[[SK Sigma Olomouc/Aplikace/Analýza audio trenéř/Analýza audio trenéra 🎤 (vzdělávání trenérů)|Analýza audio trenéra]]**
 	- Literatura
 	- Metadata – mazaní a výběr více zdrojů
-- [ ] **Vstupní diagnostika**
+- [ ] [[Apple Notes/Sigma Olomouc ⚽/Vstupní diagnostika 🔎|Vstupní diagnostika]]
 	- report
 	- nahozeno v poznámkách
 	- projednat dál
-- [ ] **Hodnocení hráče**
+- [ ] **[[SK Sigma Olomouc/Analytická témata/⭐ Hodnocení hráčů| Hodnocení hráčů]]**
 	- detailní hodnocení hráče
 	- postavit tabular v návaznosti na Wyscout = jedna tabulka
 	- závislost na EyeBall
@@ -39,17 +39,6 @@ kanban-plugin: board
 	- nebo tam mít i info kolik měl indy a navíc?
 
 
-## Čekám na odpověď
-
-- [ ] **Dotazník pro hráče – IDP**
-	 - Jak pohlíží na sebe a svoji budoucnost
-	- Zprava krajca
-- [ ] **GymAware – dořešit**
-- [ ] **Eye ball**
-	- projít, zavolat
-	-  API – jak by šlo
-
-
 ## Schůzky
 
 - [ ] **Dorost**
@@ -59,6 +48,18 @@ kanban-plugin: board
 	- termín
 	- projít si s nimi jejich agendy
 	- ukázat jim nějaké zajímavosti
+- [ ] **Eye ball**
+	- možnosti spolupráce
+	- analýza více soutěží U14 - U19
+	- API přístup
+
+
+## Čekám na odpověď
+
+- [ ] **Dotazník pro hráče – IDP**
+	 - Jak pohlíží na sebe a svoji budoucnost
+	- Zprava krajca
+- [ ] **GymAware – dořešit**
 
 
 ## Hotovo
