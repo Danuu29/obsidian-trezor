@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [datove-oddeleni, organizace, role, strategie, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]", "[[Zdroj – Persuading with Data]]"]
 aktualizovano: 2026-10-15
 ---
 # Oddělení analýzy – struktura a role
@@ -93,6 +93,15 @@ Podle [[Zdroj – The Numbers Game]] (Úvod, Kap. 7, 12) – pohled z doby, kdy 
 > [!note] Aktualita (poznámka LLM)
 > Většina předpovědí se naplnila: tracking a pozice hráčů jsou dnes běžně dostupné (i z videa – [[SkillCorner]]) a sportovní ředitelé jsou standard.
 
+## Lekce z Persuading with Data (2022)
+
+Podle [[Zdroj – Persuading with Data]] (Kap. 1, 7, 9) – komunikační dovednosti analytika (*přenos do fotbalu = návrh LLM*):
+- **Vysvětlit data je jiná dovednost než analyzovat** – oddělení potřebuje obojí; výstup analytika je **vstup do rozhodnutí někoho jiného** → [[Vysvětlování dat – tři výzvy]].
+- **Publikum zpracovává většinou periferně** (kdo mluví, jak) – důvěryhodnost analytika stojí na postavení, odbornosti, goodwillu a společném základu. Analytik bez trenérské minulosti si může „půjčit rank“ (prezentuje asistent) a budovat goodwill dřív, než něco potřebuje → [[WIIFT a přesvědčování publika]]. Souzní s „poručíkem s kabinovou zkušeností“ (Football Hackers) výše.
+- **Odbornost dokazovat jasností, ne množstvím detailu.**
+- **Odpor = zájem**: kdo přeplňuje reporty, aby se chránil před otázkami, zaměňuje nízký odpor za přijetí. Před poradou určit kvadrant [[Audience Confusion Matrix]].
+- **Grafy navržené pro všechny se nejsnáz zneužijí** v cizím kontextu – headline a vizualizované srovnání chrání před „tichou poštou“ při přeposílání slidů.
+
 ## Souvislosti
 
-[[Typy sportovních dat a datová architektura]] · [[Tagging a code window]] · [[Analýza soupeře – metodika]] · [[Skauting – proces a reporting]] · [[Yarmill]] · [[Analytické balíčky Yarmill]] · [[Kognitivní zkreslení v hodnocení]] · [[21st Club]]
+[[Typy sportovních dat a datová architektura]] · [[Tagging a code window]] · [[Analýza soupeře – metodika]] · [[Skauting – proces a reporting]] · [[Yarmill]] · [[Analytické balíčky Yarmill]] · [[Kognitivní zkreslení v hodnocení]] · [[21st Club]] · [[WIIFT a přesvědčování publika]] · [[Persuading with Data – návrhy pro Sigmu]]

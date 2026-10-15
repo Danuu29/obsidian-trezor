@@ -35,4 +35,4 @@ Prezentace, krátká videa, statické grafiky standardek v kabině (asistent je 
 
 ## Souvislosti
 
-[[Analýza soupeře – metodika]] · [[Mikrocyklus a značení MD]] · [[Live analýza a poločas]] · [[Video feedback a komunikace s hráči]]
+[[Analýza soupeře – metodika]] · [[Mikrocyklus a značení MD]] · [[Live analýza a poločas]] · [[Video feedback a komunikace s hráči]] · [[TOP-T – prezentace grafu]] · [[WIIFT a přesvědčování publika]]

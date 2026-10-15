@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [nahoda, xG, hodnoceni, rozhodovani, treneri]
-zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – The Numbers Game]]"]
+zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – The Numbers Game]]", "[[Zdroj – Persuading with Data]]"]
 aktualizovano: 2026-10-15
 ---
 # Výkon vs. výsledek a role náhody
@@ -52,6 +52,10 @@ Podle [[Zdroj – The Numbers Game]] (Kap. 1, Úvod) je fotbal **zhruba z polovi
 - **„Po vstřeleném gólu je tým nejzranitelnější“ je mýtus:** v 127 zápasech PL 1:1 padlo vyrovnání nejméně často hned po prvním gólu (Ayton & Braennberg).
 
 Důsledek podle autorů: trenér může jen **zvyšovat pravděpodobnost výhry** (Lillo: „odepřít štěstí co největší roli“). Správné rozhodnutí může dopadnout špatně (Belichick a „fourth down“) a hodnotit se má rozhodnutí, ne výsledek. Odvolání trenéra po propadu je často reakce na regresi k průměru → [[Vliv trenéra a jeho výměna]].
+
+## Jak to komunikovat (Persuading with Data)
+
+Podle [[Zdroj – Persuading with Data]] (Kap. 9): lidé reagují na **změny poměrů** a na **rozpor s očekáváním**. Hodnoty převádět na poměry (body vs. xPoints, konverze), netechnickému publiku neukazovat statisticky nevýznamné rozdíly. Situace „zásah nepřinesl efekt“ (nový trenér, posila) je nejtěžší kvadrant – publikum hledá viníka → [[Audience Confusion Matrix]].
 
 ## Souvislosti
 

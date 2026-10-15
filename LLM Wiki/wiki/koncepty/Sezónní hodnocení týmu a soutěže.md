@@ -33,4 +33,4 @@ Hodnocení soutěže je cvičení napříč úrovněmi (vedení, sportovní mana
 
 ## Souvislosti
 
-[[Hodnocení hráčů – metodika]] · [[Karta hráče – koncept]] · [[Principy vizualizace a reportingu]] (reporting vedení) · [[Standardní situace – analýza]]
+[[Hodnocení hráčů – metodika]] · [[Karta hráče – koncept]] · [[Principy vizualizace a reportingu]] (reporting vedení) · [[Standardní situace – analýza]] · [[Audience Confusion Matrix]]

@@ -17,6 +17,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Football Hackers – návrhy pro Sigmu]] – tabulka spravedlnosti, zkreslení, progresivní metriky, skautský modul, kognice (návrhy)
 - [[The Numbers Game – návrhy pro Sigmu]] – nejslabší článek, body z gólů, ztráty, střídání, odvolání trenéra, onboarding (návrhy)
 - [[Druhý mozek – návrhy pro wiki a práci]] – oblíbené problémy, vrstva oblastí, „aktuální stav“, checklisty projektů, MVP aplikací, knihovna šablon (návrhy)
+- [[Persuading with Data – návrhy pro Sigmu]] – headline a srovnání v reportech, šablona grafů, WIIFT publik, TOP-T na poradách, příprava na odpor (návrhy)
 
 ## Entity
 
@@ -118,6 +119,18 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Divergence a konvergence]] – souostroví myšlenek, Hemingwayův můstek, zmenšení rozsahu
 - [[Revize a návyky druhého mozku]] – checklisty zahájení/dokončení projektu, týdenní a měsíční revize
 
+### Komunikace dat (Persuading with Data)
+
+- [[Vysvětlování dat – tři výzvy]] – více myslí, Curse of Knowledge, kognitivní zátěž; exploring vs. explaining
+- [[Vnímání grafů – preattentivní atributy a Gestalt]] – vztahy, chunky, salience; velikost, pozice, odstín, intenzita; uzavření, spojení, blízkost, podobnost
+- [[Výběr grafu podle vztahu v datech]] – kategorie, čas, část–celek, distribuce, korelace
+- [[Data-ink ratio a vizuální hierarchie]] – méně „inkoustu“, hierarchie, referenční čáry, „compared to what?“
+- [[Headline a testy slidu]] – headline ≠ titulek; self-sufficiency, blink test, data podporují headline, sladěný jazyk
+- [[Minto pyramida]] – situace → komplikace → rozuzlení, shora dolů, MECE, indukce/dedukce, sebeklam
+- [[WIIFT a přesvědčování publika]] – ELM (centrální vs. periferní), WIIFT, zdroje důvěryhodnosti, 4 rámce
+- [[TOP-T – prezentace grafu]] – Topic, Orient, Point, Transition; žádné „ta-da“, tichý orient
+- [[Audience Confusion Matrix]] – očekávání × pozorovaná změna, 4 kvadranty, jak zvládnout odpor
+
 ## Projekty
 
 - [[Aplikace – Analýza soupeře]] – AI příprava na utkání (Zápasová strategie) · vývoj
@@ -146,5 +159,6 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – Football Hackers]] | `LLM Wiki/raw/Football Hackers (Biermann 2019).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – The Numbers Game]] | `LLM Wiki/raw/The Numbers Game (Anderson, Sally 2013).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – Pořiďte si druhý mozek]] | `LLM Wiki/raw/Pořiďte si druhý mozek (Forte 2023).pdf` (kniha) | 2026-10-15 |
+| [[Zdroj – Persuading with Data]] | `LLM Wiki/raw/Persuading with Data (Kazakoff 2022).pdf` (kniha) | 2026-10-15 |
 
 Neingestováno: `Apple Notes/Sigma Olomouc ⚽/` (duplikáty), `Markdown – tahák.md`, `_Přehled úprav.md`, PDF a obrázky v `Apple Notes/` (zatím jen odkazované – kandidáti na samostatný ingest: *4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*).

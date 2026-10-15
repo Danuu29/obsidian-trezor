@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [rozhodovani, psychologie, hodnoceni, skauting, kognitivni-zkresleni]
-zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]", "[[Zdroj – Pořiďte si druhý mozek]]"]
+zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]", "[[Zdroj – Pořiďte si druhý mozek]]", "[[Zdroj – Persuading with Data]]"]
 aktualizovano: 2026-10-15
 ---
 # Kognitivní zkreslení v hodnocení
@@ -56,6 +56,18 @@ Podle [[Zdroj – Pořiďte si druhý mozek]] (Kap. 3, 4):
 - **Confirmation bias při sběru:** máme sklon ukládat si jen to, s čím souhlasíme. Protiopatření: ukládat záměrně i to, co **překvapí** nebo odporuje vlastnímu názoru (Shannon: informace = překvapení) → [[Zaznamenávání a oblíbené problémy]].
 
 
+## Zkreslení při vysvětlování a přijímání dat (Persuading with Data)
+
+Podle [[Zdroj – Persuading with Data]] (Kap. 1, 3, 6, 7, 9) – zkreslení na straně **analytika** i **publika**:
+- **Curse of Knowledge:** kdo něco pochopil, zapomene, jaké to bylo nevědět; experti víc než nováčci → [[Vysvětlování dat – tři výzvy]].
+- **Plynulost zpracování:** věříme víc tomu, co se snáz čte (tučný text) → nečitelný graf snižuje věrohodnost.
+- **Substituce (attribute substitution):** místo „je analýza správná?“ publikum hodnotí „působí analytik věrohodně?“ → [[WIIFT a přesvědčování publika]].
+- **Rámcování, averze ke ztrátě, hyperbolické diskontování, egocentrismus:** stejná data, jiné rozhodnutí podle formulace (93 % vs. 63 % včasných registrací).
+- **Apofenie / pareidolie:** vidíme vzorce i v náhodě – neukazovat „nekorelaci“ s trendovou čárou → [[Výběr grafu podle vztahu v datech]].
+- **Lákavost příběhu (Cairo):** příběh dělá z korelace kauzalitu → vyprávět až po analýze.
+- **Confirmation bias při analýze**, posílený hierarchií (hypotéza od šéfa nebo vlastní zkušenost seniora). Protiopatření: testy významnosti i tam, kde je publikum nevidí; **předregistrace** hypotézy a postupu → [[Minto pyramida]].
+- **„Věděl jsem to“:** očekávání publika se mění během jedné porady – po prezentaci si lidé nepamatují, že výsledek nečekali. Protiopatření: připomínat, co se vědělo tehdy; zapisovat očekávání předem → [[Audience Confusion Matrix]].
+
 ## Souvislosti
 
-[[Výkon vs. výsledek a role náhody]] · [[Datový skauting – metriky a úskalí]] · [[Predikce a pravděpodobnostní modely]] · [[Osobnostní profily hráčů]] · [[Vliv trenéra a jeho výměna]] · [[Střídání a vyloučení]]
+[[Výkon vs. výsledek a role náhody]] · [[Datový skauting – metriky a úskalí]] · [[Predikce a pravděpodobnostní modely]] · [[Osobnostní profily hráčů]] · [[Vliv trenéra a jeho výměna]] · [[Střídání a vyloučení]] · [[Audience Confusion Matrix]] · [[Vysvětlování dat – tři výzvy]]

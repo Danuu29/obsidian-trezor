@@ -35,4 +35,4 @@ Kanté (Caen/Leicester) vedl statistiky skluzů a interceptions; po přepočtu n
 
 ## Souvislosti
 
-[[GPS metriky a zatížení]] (přepočet na čistý čas hry) · [[Skauting – proces a reporting]]
+[[GPS metriky a zatížení]] (přepočet na čistý čas hry) · [[Skauting – proces a reporting]] · [[Audience Confusion Matrix]] (lidé reagují na poměry, ne hodnoty)

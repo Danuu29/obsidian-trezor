@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [normy, benchmarky, reporting]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Porady akademie (podzim 2026)]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Persuading with Data]]"]
 aktualizovano: 2026-10-15
 ---
 # Thresholdy a benchmarky
@@ -20,6 +20,10 @@ Opakující se princip napříč Sigmou: **neukazovat čísla, ale vztah k norm�
 
 Sbírat data **obecně**, poziční a věkový pohled řešit až v reportingu přes benchmarky – rozhodnutí z porad akademie. Normy pro mládež a dívky zatím chybí.
 
+## „Compared to what?“ (Persuading with Data)
+
+Teoretická opora principu: každý graf je srovnání, a když publiku neukážu, s čím srovnávat, **srovná data sama se sebou**. Slova „dobře / špatně / málo“ vyžadují ve grafu viditelný cíl, threshold nebo průměr (referenční čára, oblast); bez nich slide neprojde testem self-sufficiency. Volba srovnání je odpovědnost analytika a publikum podle ní posuzuje jeho důvěryhodnost ([[Zdroj – Persuading with Data]], Kap. 4–5) → [[Data-ink ratio a vizuální hierarchie]], [[Headline a testy slidu]]. Semafor zelená/červená doplnit symbolem nebo textem (1 z 12 mužů má poruchu barvocitu).
+
 ## Souvislosti
 
-[[Fyzické benchmarky]] (FIFA) · [[Gap analýza]] · [[Principy vizualizace a reportingu]]
+[[Fyzické benchmarky]] (FIFA) · [[Gap analýza]] · [[Principy vizualizace a reportingu]] · [[Data-ink ratio a vizuální hierarchie]]

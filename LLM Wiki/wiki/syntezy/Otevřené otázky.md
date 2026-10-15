@@ -76,6 +76,15 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Rytmus údržby wiki: týdenní ingest `raw/`, měsíční lint a revize přehledu? → [[Revize a návyky druhého mozku]]
 - Zavést checklisty zahájení/dokončení pro aplikace a reporty datového oddělení? → [[Revize a návyky druhého mozku]]
 
+## Komunikace dat (z Persuading with Data)
+
+- Zavést jednotnou **šablonu grafů** Sigmy / Yarmillu (headline, referenční čáry, paleta pro barvoslepé)? Kdo ji spravuje? → [[Persuading with Data – návrhy pro Sigmu]]
+- Headline v reportech psát ručně, z pravidel (thresholdy), nebo přes AI ([[Yollanda]])? Jak hlídat, aby nepřestřelil data? → [[Headline a testy slidu]]
+- Jaké jsou **WIIFT** jednotlivých publik datového oddělení (trenér A-týmu, trenéři mládeže, vedení, hráči)? → [[WIIFT a přesvědčování publika]]
+- Používat při poradách s vedením Minto šablonu (situace → komplikace → doporučení)? → [[Minto pyramida]]
+- Zapisovat očekávání před zásahy (tréninkový blok, posila, změna trenéra), aby šlo výsledek férově komunikovat? → [[Audience Confusion Matrix]]
+- Které návrhy z knihy prioritizovat? → [[Persuading with Data – návrhy pro Sigmu]]
+
 ## Náměty k průzkumu (pro web / literaturu)
 
 - EWMA vs. ACWR pro sledování zátěže
@@ -98,3 +107,5 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Přenositelnost výkonu po přestupu ve fotbale (Groysberg) – data o adaptaci posil
 - Tiago Forte: *The PARA Method* (2023) a Sönke Ahrens: *Jak si dělat chytré poznámky* (zettelkasten) – kandidáti na ingest, srovnání s LLM wiki
 - Karpathyho vzor „LLM wiki“ – původní popis a zkušenosti dalších uživatelů (dělba práce člověk/LLM v krocích CODE)
+- Vizualizace nejistoty pro netechnické publikum (Hullman, Kay) – jak ukázat trenérům intervaly u xG a testů
+- Barbara Minto: *The Pyramid Principle* a Cole Nussbaumer Knaflic: *Storytelling with Data* – kandidáti na ingest (zdroje, ze kterých Persuading with Data vychází)

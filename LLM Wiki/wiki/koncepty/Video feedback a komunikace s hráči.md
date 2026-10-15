@@ -39,4 +39,4 @@ Talks (před tréninkem) · Conversations (neformální, citlivé na načasován
 
 ## Souvislosti
 
-[[Hodnocení utkání a pozápasový report]] · [[Mikrocyklus a značení MD]] · [[Předzápasová příprava a komunikace]] · [[Analýza trenérské komunikace]] · [[Individuální rozvojový plán (IDP)]]
+[[Hodnocení utkání a pozápasový report]] · [[Mikrocyklus a značení MD]] · [[Předzápasová příprava a komunikace]] · [[Analýza trenérské komunikace]] · [[Individuální rozvojový plán (IDP)]] · [[TOP-T – prezentace grafu]]

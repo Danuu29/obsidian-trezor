@@ -1,61 +1,64 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Aktuální
 
 - [ ] **Hráčská karta** #priorita 
-	– udělat kostru
-	– rozmysl
-	– začít budovat
+	- udělat kostru
+	- rozmysl
+	- začít budovat
 - [ ] **Úpravy kinezio**
-	– doupravit a dotáhnout do koce
+	- doupravit a dotáhnout do koce
 - [ ] **Aplikace Sláva**
-	– Literatura
-	– Metadata – mazaní a výběr více zdrojů
+	- Literatura
+	- Metadata – mazaní a výběr více zdrojů
 - [ ] **Vstupní diagnostika**
-	– report
-	– nahozeno v poznámkách
-	– projednat dál
+	- report
+	- nahozeno v poznámkách
+	- projednat dál
 - [ ] **Hodnocení hráče**
-	– detailní hodnocení hráče
-	– postavit tabular v návaznosti na Wyscout = jedna tabulka
+	- detailní hodnocení hráče
+	- postavit tabular v návaznosti na Wyscout = jedna tabulka
+	- závislost na EyeBall
 
 
 ## Čeká
 
-- [ ] **Rezervační systém**
+- [ ] **[[Apple Notes/Sigma Olomouc ⚽/Rezervační systém 🗓️|Rezervační systém 🗓️]]**
 - [ ] **GPS – individuální**
-	– upravit referenční hodnotu na trashodly
-	– Tagovnsi atd.. probrat s patou
+	- upravit referenční hodnotu na trashodly
+	- Tagovnsi atd.. probrat s patou
 - [ ] **Leo whoop minulost**
 - [ ] **Matěj Vybíral – náplň**
-	– Hrubas peníze
+	- Hrubas peníze
 - [ ] **Report hráče ze zápasu**
-	– udělat report ať máme přehled ze zápasu
-	– nebo tam mít i info kolik měl indy a navíc?
+	- udělat report ať máme přehled ze zápasu
+	- nebo tam mít i info kolik měl indy a navíc?
 
 
 ## Čekám na odpověď
 
 - [ ] **Dotazník pro hráče – IDP**
-	– Jak pohlíží na sebe a svoji budoucnost
-	– Zprava krajca
+	 - Jak pohlíží na sebe a svoji budoucnost
+	- Zprava krajca
 - [ ] **GymAware – dořešit**
 - [ ] **Eye ball**
-	– projít, zavolat
-	– API – jak by šlo
+	- projít, zavolat
+	-  API – jak by šlo
 
 
 ## Schůzky
 
 - [ ] **Dorost**
-	– domluvit se s realizáky
-	– výborně si připravit výstupy
+	- domluvit se s realizáky
+	- výborně si připravit výstupy
 - [ ] **Žáci**
-	– termín
-	– projít si s nimi jejich agendy
-	– ukázat jim nějaké zajímavosti
+	- termín
+	- projít si s nimi jejich agendy
+	- ukázat jim nějaké zajímavosti
 
 
 ## Hotovo

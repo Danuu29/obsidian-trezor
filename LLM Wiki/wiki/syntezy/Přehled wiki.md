@@ -23,6 +23,8 @@ Těžiště znalostí je **datová analytika a rozvoj hráčů v [[SK Sigma Olom
 
 7. **Kádr, styl a trenéři (testování klišé)** – od 15. 10. 2026 z [[Zdroj – The Numbers Game]] (2013, nejstarší ze tří knih): [[Teorie slabého článku (O-ring)]], [[Hodnota gólu – útok vs. obrana]], [[Držení míče a ztráty]], [[Střídání a vyloučení]], [[Vliv trenéra a jeho výměna]]. Doplňuje modely a rozhodování o to, **jak skládat kádr** (nejslabší článek), **co měřit** (ztráty, body z gólů, obrana) a **jak zacházet s trenéry** (regrese k průměru, integrace) → [[The Numbers Game – návrhy pro Sigmu]].
 
+8. **Komunikace dat (od analýzy k rozhodnutí)** – od 15. 10. 2026 z [[Zdroj – Persuading with Data]] (Kazakoff, MIT Sloan 2022): [[Vysvětlování dat – tři výzvy]], [[Vnímání grafů – preattentivní atributy a Gestalt]], [[Výběr grafu podle vztahu v datech]], [[Data-ink ratio a vizuální hierarchie]], [[Headline a testy slidu]], [[Minto pyramida]], [[WIIFT a přesvědčování publika]], [[TOP-T – prezentace grafu]], [[Audience Confusion Matrix]]. Průřezová vrstva nad proudy 1–7: předchozí knihy říkají, **co** měřit a **jak** rozhodovat, tato **jak výsledek předat, aby podle něj někdo jednal**. Zřejmě je i původním zdrojem Danůvých zásad vizualizace → [[Persuading with Data – návrhy pro Sigmu]].
+
 Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři chtějí informace, ne čísla“) – Barça kurz to potvrzuje: filtrovat, každé zjištění s doporučením, společný jazyk ([[Taktická komunikace]]).
 
 ## Hlavní napětí a mezery
@@ -39,6 +41,8 @@ Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři cht�
 - **Outcome bias v rozhodování** – Football Hackers ukazuje, že hodnocení trenérů, hráčů i zápasů podle výsledku je hlavní zdroj chyb; Sigma zatím nemá „tabulku spravedlnosti“ ani procesní KPI pro vedení → [[Výkon vs. výsledek a role náhody]].
 
 - **Regrese k průměru v rozhodování** – The Numbers Game ukazuje, že odvolání trenéra i „funkčnost“ křiku jsou z velké části regrese k průměru; Sigma zatím nemá proces, jak takové rozhodnutí ověřit (kontrolní srovnání, deník rozhodnutí) → [[Vliv trenéra a jeho výměna]].
+
+- **Komunikace výsledků** – Sigma nemá jednotnou šablonu grafů ani zvyk psát pointu (headline) a srovnání (threshold) ke každému grafu; „nepříjemná“ data (zásah bez efektu) nemají připravený postup → [[Persuading with Data – návrhy pro Sigmu]].
 
 ## Mimo fotbal
 

@@ -21,4 +21,4 @@ AI asistentka v [[Yarmill]] (v přepisech též „Jolanda“), nad kterou lze d
 
 ## Souvislosti
 
-- [[Karta hráče – koncept]] · [[Denní připravenost a wellness]]
+- [[Karta hráče – koncept]] · [[Denní připravenost a wellness]] · [[Headline a testy slidu]] (Yollanda může psát headline a orient ke grafům – návrh)

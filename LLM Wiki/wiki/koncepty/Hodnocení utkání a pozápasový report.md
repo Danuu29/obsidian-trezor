@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [utkani, reporting, herni-data]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]", "[[Zdroj – Persuading with Data]]"]
 aktualizovano: 2026-10-15
 ---
 # Hodnocení utkání a pozápasový report
@@ -54,6 +54,13 @@ Podle [[Zdroj – The Numbers Game]] (Kap. 1, 3, 5, 9):
 - Body podle gólů mají tvar S-křivky – rozhoduje druhý vstřelený i druhý obdržený gól → [[Hodnota gólu – útok vs. obrana]].
 - Červená karta stojí ~0,42 bodu (jako hrát venku místo doma); střídání při prohře se vyplácí dřív → [[Střídání a vyloučení]].
 
+## Prezentace reportu (Persuading with Data)
+
+Podle [[Zdroj – Persuading with Data]] (*přenos do fotbalu = návrh LLM*):
+- Nad každou sekcí **headline** (co z dat plyne), nad grafem titulek; každé hodnocení „dobře/špatně“ s viditelným srovnáním (threshold, plán, průměr) → [[Headline a testy slidu]].
+- Na poradě štábu prezentovat grafy přes **TOP-T** – orient u metrik, které trenéři nevidí denně (xG, PPDA, HSR) → [[TOP-T – prezentace grafu]].
+- Odhadnout reakci: porážka po dobrém výkonu, nebo plán, který nefungoval, je kvadrant „what did you miss?“ – připravit data do detailu a připomenout, co se vědělo před zápasem → [[Audience Confusion Matrix]].
+
 ## Souvislosti
 
-[[GPS metriky a zatížení]] · [[Hodnocení hráčů – metodika]] · [[Wyscout]] · [[Sezónní hodnocení týmu a soutěže]] · [[Barça kurz – návrhy pro Sigmu]] · [[Soccermatics – návrhy pro Sigmu]] · [[Výkon vs. výsledek a role náhody]] · [[Kognitivní zkreslení v hodnocení]] · [[Football Hackers – návrhy pro Sigmu]]
+[[GPS metriky a zatížení]] · [[Hodnocení hráčů – metodika]] · [[Wyscout]] · [[Sezónní hodnocení týmu a soutěže]] · [[Barça kurz – návrhy pro Sigmu]] · [[Soccermatics – návrhy pro Sigmu]] · [[Výkon vs. výsledek a role náhody]] · [[Kognitivní zkreslení v hodnocení]] · [[Football Hackers – návrhy pro Sigmu]] · [[Persuading with Data – návrhy pro Sigmu]]

@@ -1,7 +1,7 @@
 ---
 typ: projekt
 tags: [yarmill, produkt, nabidka]
-zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Pořiďte si druhý mozek]]"]
+zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Pořiďte si druhý mozek]]", "[[Zdroj – Persuading with Data]]"]
 aktualizovano: 2026-10-15
 ---
 # Analytické balíčky Yarmill
@@ -20,3 +20,5 @@ Doplněk: predikční model vývoje hráčů z pravidelného hodnocení trenér�
 *Syntéza:* Sigma je v praxi referenční implementace balíčku Gold + Skauting.
 
 *Návrh (Druhý mozek):* šablony reportů, grafy, prompty a definice metrik vznikající v Sigmě ukládat jako knihovnu **dílčích balíčků** – nový balíček pro další klub se pak skládá z hotových kusů → [[Dílčí balíčky a znovuvyužití práce]].
+
+*Návrh (Persuading with Data):* ve všech balíčcích jednotná **šablona grafů** (headline nad sekcí, referenční čára thresholdu, popisky místo legendy, barvoslepě bezpečný semafor) a pro každý report vyplněný **WIIFT** cílového publika (trenér / vedení / hráč) → [[Persuading with Data – návrhy pro Sigmu]], [[Headline a testy slidu]].
