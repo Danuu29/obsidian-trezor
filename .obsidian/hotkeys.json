@@ -1,0 +1,10 @@
+{
+  "homepage:copy-debug-info": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}

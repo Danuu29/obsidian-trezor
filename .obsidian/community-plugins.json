@@ -4,5 +4,11 @@
   "obsidian-kanban",
   "obsidian-clipper",
   "dataview",
-  "marp-slides"
+  "marp-slides",
+  "homepage",
+  "calendar",
+  "templater-obsidian",
+  "obsidian-linter",
+  "table-editor-obsidian",
+  "omnisearch"
 ]
