@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [rozhodovani, psychologie, hodnoceni, skauting, kognitivni-zkresleni]
-zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
+zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]", "[[Zdroj – Pořiďte si druhý mozek]]"]
 aktualizovano: 2026-10-15
 ---
 # Kognitivní zkreslení v hodnocení
@@ -48,6 +48,13 @@ Podle [[Zdroj – The Numbers Game]] (Úvod, Kap. 4, 7, 9, 11):
 - **Ukotvení (anchoring):** trenér věří původní sestavě a střídá pozdě → [[Střídání a vyloučení]].
 - **Konvenční selhání je bezpečnější:** trenér, který zkusí nové (zónová obrana, Belichickův „fourth down“) a neuspěje, je kritizován víc než ten, kdo selže tradičně. Proto se drží neoptimální postupy.
 - **Mýty, které data vyvracejí:** „po gólu je tým nejzranitelnější“, „roh je skoro gól“, „víc střel = víc štěstí“ → [[Výkon vs. výsledek a role náhody]].
+
+## Zkreslení při sběru a hledání informací (Druhý mozek)
+
+Podle [[Zdroj – Pořiďte si druhý mozek]] (Kap. 3, 4):
+- **Zkreslení aktuálnosti (recency bias):** upřednostňujeme nápady a informace, které nás napadly naposledy, ne ty nejlepší. Protiopatření: sbírat podklady průběžně a čerpat z „týdnů a měsíců“ nasbíraných poznámek, ne jen z hlavy v den rozhodnutí. Ve fotbale: hodnotit hráče podle celé sezóny, ne podle posledního zápasu (*návrh LLM*).
+- **Confirmation bias při sběru:** máme sklon ukládat si jen to, s čím souhlasíme. Protiopatření: ukládat záměrně i to, co **překvapí** nebo odporuje vlastnímu názoru (Shannon: informace = překvapení) → [[Zaznamenávání a oblíbené problémy]].
+
 
 ## Souvislosti
 

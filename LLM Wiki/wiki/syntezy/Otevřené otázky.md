@@ -67,6 +67,15 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Kdo v Sigmě odpovídá za integraci posil (onboarding)? → [[Vliv trenéra a jeho výměna]]
 - Které návrhy z knihy prioritizovat? → [[The Numbers Game – návrhy pro Sigmu]]
 
+## Druhý mozek a práce se znalostmi (z Pořiďte si druhý mozek)
+
+- Přidat do wiki vrstvu **oblastí** a **archiv** (PARA), nebo stačí [[Přehled wiki]]? → [[PARA – organizace podle akčnosti]]
+- Zhušťovat dál při ingestu (*just-in-case*), nebo stránky držet kratší a dozhušťovat až při dotazu? → [[Druhý mozek – návrhy pro wiki a práci]]
+- Jakých je **12 oblíbených problémů** Danů (filtr pro Web Clipper a důrazy při ingestu)? → [[Zaznamenávání a oblíbené problémy]]
+- Vracet do wiki vlastní výstupy (reporty, prompty, zadání) jako zdroje? → [[Dílčí balíčky a znovuvyužití práce]]
+- Rytmus údržby wiki: týdenní ingest `raw/`, měsíční lint a revize přehledu? → [[Revize a návyky druhého mozku]]
+- Zavést checklisty zahájení/dokončení pro aplikace a reporty datového oddělení? → [[Revize a návyky druhého mozku]]
+
 ## Náměty k průzkumu (pro web / literaturu)
 
 - EWMA vs. ACWR pro sledování zátěže
@@ -87,3 +96,5 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Efekt odvolání trenéra – novější studie navazující na ter Weela (regrese k průměru)
 - Metriky „bodů z gólů“ a hodnoty akcí pro obránce (např. goals added) – dostupnost pro českou ligu
 - Přenositelnost výkonu po přestupu ve fotbale (Groysberg) – data o adaptaci posil
+- Tiago Forte: *The PARA Method* (2023) a Sönke Ahrens: *Jak si dělat chytré poznámky* (zettelkasten) – kandidáti na ingest, srovnání s LLM wiki
+- Karpathyho vzor „LLM wiki“ – původní popis a zkušenosti dalších uživatelů (dělba práce člověk/LLM v krocích CODE)

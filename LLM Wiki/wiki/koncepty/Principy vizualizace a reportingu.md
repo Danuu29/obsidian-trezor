@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [vizualizace, reporting, komunikace]
-zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Pořiďte si druhý mozek]]"]
 aktualizovano: 2026-10-15
 ---
 # Principy vizualizace a reportingu
@@ -46,6 +46,11 @@ Přesně popsat, k čemu to je a co to má říct; očekávání, výpočet, zdr
 ## Taktická mapa (Soccermatics)
 
 Sumpter ([[Zdroj – Soccermatics]], Kap. 7, 15): trenérovi neříkat „Voronoi, pasové sítě, vektorová pole“ – ukázat **problém na jednom obrázku**, vysvětlitelném o poločase. Trenéři jsou zvídaví, ale nemají čas, další otázka je vždy **„so what?“**. Výstup musí: dávat fotbalový smysl, mít pevný statistický základ, dát se vysvětlit **během pár minut**, zlepšovat výsledky. Nezaměňovat prezentaci za obsah (efektní grafika v TV studiu). Vizuály → [[Pasové sítě a prostorové mapy]].
+
+## Report ve vrstvách (Druhý mozek)
+
+Princip [[Postupná sumarizace|postupné sumarizace]] z [[Zdroj – Pořiďte si druhý mozek]] (Kap. 6): adresát je „netrpělivý VIP klient“ – nahoře nejzhuštěnější vrstva (2–3 zjištění + doporučení), pod ní stále podrobnější detail, každá vrstva ≤ 10–20 % předchozí. Odpovídá zásadě „informace, ne čísla“ (*syntéza LLM*).
+
 
 ## Souvislosti
 

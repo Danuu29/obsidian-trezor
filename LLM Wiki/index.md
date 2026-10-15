@@ -16,6 +16,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Soccermatics – návrhy pro Sigmu]] – kvantitativní nástroje, pressing KPI, datový skauting a validace (návrhy)
 - [[Football Hackers – návrhy pro Sigmu]] – tabulka spravedlnosti, zkreslení, progresivní metriky, skautský modul, kognice (návrhy)
 - [[The Numbers Game – návrhy pro Sigmu]] – nejslabší článek, body z gólů, ztráty, střídání, odvolání trenéra, onboarding (návrhy)
+- [[Druhý mozek – návrhy pro wiki a práci]] – oblíbené problémy, vrstva oblastí, „aktuální stav“, checklisty projektů, MVP aplikací, knihovna šablon (návrhy)
 
 ## Entity
 
@@ -107,6 +108,16 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Střídání a vyloučení]] – cena červené karty (≈ domácí výhoda), pravidlo <58<73<79, únava a pacing
 - [[Vliv trenéra a jeho výměna]] – mzdy vs. trenér (~15 %), zkušenost, přenositelnost výkonu, odvolání = regrese k průměru
 
+### Práce se znalostmi a osobní efektivita (Druhý mozek)
+
+- [[Metoda CODE]] – zaznamenat, uspořádat, zhustit, vyjádřit; 4 superschopnosti, 3 fáze
+- [[Zaznamenávání a oblíbené problémy]] – znalostní aktiva, 12 oblíbených problémů (Feynman), 4 kritéria, ≤ 10 % zdroje
+- [[PARA – organizace podle akčnosti]] – projekty, oblasti, zdroje, archivy; „kam s tím?“
+- [[Postupná sumarizace]] – 4 vrstvy zvýraznění, budoucí já jako VIP klient, 3 chyby
+- [[Dílčí balíčky a znovuvyužití práce]] – intermediate packets, 4 metody vyhledávání, remix
+- [[Divergence a konvergence]] – souostroví myšlenek, Hemingwayův můstek, zmenšení rozsahu
+- [[Revize a návyky druhého mozku]] – checklisty zahájení/dokončení projektu, týdenní a měsíční revize
+
 ## Projekty
 
 - [[Aplikace – Analýza soupeře]] – AI příprava na utkání (Zápasová strategie) · vývoj
@@ -115,6 +126,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Aplikace – Analýza audio trenéra]] – AI analýza koučinku z přepisu · vývoj
 - [[Aplikace – Strategická aplikace]] – klubová znalostní aplikace · nápad
 - [[Analytické balíčky Yarmill]] – Bronze / Silver / Gold / Skauting
+- [[Druhý mozek – LLM Wiki]] – tato wiki jako projekt: stav, dělba práce podle CODE · v provozu
 
 ## Zdroje
 
@@ -133,5 +145,6 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – Soccermatics]] | `LLM Wiki/raw/Soccermatics (Sumpter 2016).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – Football Hackers]] | `LLM Wiki/raw/Football Hackers (Biermann 2019).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – The Numbers Game]] | `LLM Wiki/raw/The Numbers Game (Anderson, Sally 2013).pdf` (kniha) | 2026-10-15 |
+| [[Zdroj – Pořiďte si druhý mozek]] | `LLM Wiki/raw/Pořiďte si druhý mozek (Forte 2023).pdf` (kniha) | 2026-10-15 |
 
 Neingestováno: `Apple Notes/Sigma Olomouc ⚽/` (duplikáty), `Markdown – tahák.md`, `_Přehled úprav.md`, PDF a obrázky v `Apple Notes/` (zatím jen odkazované – kandidáti na samostatný ingest: *4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*).

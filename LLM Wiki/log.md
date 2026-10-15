@@ -48,3 +48,13 @@ Chronologický, append-only záznam. Formát hlavičky: `## [RRRR-MM-DD] typ | n
 - Rozpory (→ [[Rozpory a nesrovnalosti]]): zkušenost trenéra (Heidel ve Football Hackers vs. data Bridgewater et al.); hodnota rohů/standardek (doporučení se liší, čísla ne). Zpřesnění, ne rozpor: držení míče souvisí s výsledky (NG), ale po zohlednění xG nepředpovídá góly (Soccermatics) – rozhodují ztráty.
 - Kniha je z let 2010–2012 → zastaralá místa (Castrol rankings, hot hand, pravidlo 3 střídání, předpověď ~1 000 gólů v PL) označena calloutem „Aktualita“ (poznámka LLM k ověření). Nesrovnalosti uvnitř knihy (Reepova čísla, 89 vs. 92 % mzdy) poznamenány na zdrojové stránce.
 - Ingest bez úvodní diskuse o důrazech (Danů zadal „udělej z knihy znalosti“); důraz na nová témata, která předchozí knihy nepokrývají (slabý článek, obrana, ztráty, střídání, trenéři), a přenos do Sigmy. Anekdoty (Megrelishvili, Villas-Boas) jen jako příklady.
+
+## [2026-10-15] ingest | Pořiďte si druhý mozek (T. Forte, 2022/2023)
+
+- Zdroj: kniha *Pořiďte si druhý mozek* (orig. *Building a Second Brain*, Atria 2022; česky Jan Melvil 2023), uložena do `raw/Pořiďte si druhý mozek (Forte 2023).pdf`. E-kniha s textovou vrstvou, přečtena celá; obrázky jen jako popisky. Vodoznak s údaji kupujícího nepřenesen.
+- **První zdroj mimo fotbal** – oblast osobní efektivita a práce se znalostmi; zároveň popisuje princip samotné wiki.
+- Nové: [[Zdroj – Pořiďte si druhý mozek]]; 7 konceptů ([[Metoda CODE]], [[Zaznamenávání a oblíbené problémy]], [[PARA – organizace podle akčnosti]], [[Postupná sumarizace]], [[Dílčí balíčky a znovuvyužití práce]], [[Divergence a konvergence]], [[Revize a návyky druhého mozku]]); projekt [[Druhý mozek – LLM Wiki]] (wiki sama jako projekt); syntéza [[Druhý mozek – návrhy pro wiki a práci]]. Entity nezaloženy (Forte Labs není pro wiki relevantní organizace).
+- Aktualizováno: Kognitivní zkreslení v hodnocení (recency a confirmation bias při sběru), Principy vizualizace a reportingu (report ve vrstvách), Aplikace – Strategická aplikace, Analytické balíčky Yarmill, Otevřené otázky, Přehled wiki, index.
+- Rozpory: žádné věcné. **Napětí kniha × schéma wiki** (zhušťovat až při použití vs. kompilovat při ingestu; ukládat ≤ 10 % vs. číst celý zdroj; třídit podle akčnosti vs. podle typu) – popsáno v syntéze a v Otevřených otázkách jako návrh ke změně schématu, schéma [[CLAUDE]] **neměněno** (čeká na Danů).
+- Aktualita: kniha nepočítá s LLM nástroji; navazující *The PARA Method* (2023) zatím neingestováno – callout na zdrojové stránce.
+- Ingest bez úvodní diskuse o důrazech (Danů zadal „zapracuj do znalostí“); důraz na přenos do wiki a do práce datového oddělení, příběhy z knihy jen jako příklady.

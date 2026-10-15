@@ -1,7 +1,7 @@
 ---
 typ: projekt
 tags: [yarmill, produkt, nabidka]
-zdroje: ["[[Zdroj – Yarmill poznámky]]"]
+zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Pořiďte si druhý mozek]]"]
 aktualizovano: 2026-10-15
 ---
 # Analytické balíčky Yarmill
@@ -18,3 +18,5 @@ Produktová nabídka analytických řešení [[Yarmill]] (pro XPS). Zdroj: [[App
 Doplněk: predikční model vývoje hráčů z pravidelného hodnocení trenérů a testů (k A-týmu nebo prodeji).
 
 *Syntéza:* Sigma je v praxi referenční implementace balíčku Gold + Skauting.
+
+*Návrh (Druhý mozek):* šablony reportů, grafy, prompty a definice metrik vznikající v Sigmě ukládat jako knihovnu **dílčích balíčků** – nový balíček pro další klub se pak skládá z hotových kusů → [[Dílčí balíčky a znovuvyužití práce]].
