@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [gps, zatizeni, kondice]
-zdroje: ["[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Úkoly]]"]
+zdroje: ["[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Úkoly]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # GPS metriky a zatížení
@@ -32,6 +32,10 @@ Odborné poznatky a požadavky na práci s GPS daty (Catapult) v Sigmě. Hlavní
 - Nastavení SET 1 / SET 2 (relativní hodnoty SET 2 pro A, U19+U18, U17+U16); individuální thresholdy a mikrocyklus od Patrika → [[Thresholdy a benchmarky]].
 - Upozornění na přetížení (nárůst zatížení); parametry za minutu ve filtru; přepínač absolutní hodnoty / intenzity.
 - Zápas: nastavení dalšího mikrocyklu, progres top speed, průměrná pozice týmu v DEF/OFF fázi.
+
+## Kongesce a synchronizace (Soccermatics)
+
+Při 3 dnech mezi zápasy měl tým PL stejné běžecké objemy, ale **nižší týmovou synchronizaci** pohybu než při 6+ dnech → únava se může projevit takticky/kognitivně dřív než v GPS ([[Zdroj – Soccermatics]], Kap. 9) → [[Pressing a kolektivní pohyb]].
 
 ## Souvislosti
 

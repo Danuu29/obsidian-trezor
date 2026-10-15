@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [datove-oddeleni, organizace, role, strategie, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # Oddělení analýzy – struktura a role
@@ -54,6 +54,16 @@ Lokální (dohody s kluby, přímé pozorování) → regionální (síť skaut�
 ## Lekce z případovky „Antonio“ (P4 M2)
 
 Jasný mandát a role; **data o práci kolegy (kondičáka, trenéra) neprezentovat vedení bez jeho souhlasu**; budovat důvěru se štábem; zajistit hardware a rozpočet předem; obecná ERP nejsou pro sportovní data; vést „**manual of metrics**“ (glosář opakovaných dotazů trenérů).
+
+## Lekce ze Soccermatics (2016)
+
+Podle [[Zdroj – Soccermatics]] (Kap. 14–15):
+- **Důvěra rozhoduje víc než model:** Leicester a Aston Villa začaly stejným statistickým hledáním; Leicester data zabudoval do celého provozu, ve Ville se recruitment a trenér (Sherwood) neshodli → sestup. Konflikty (Fulham) média zveličují – většina štábů je k datům zvídavá.
+- **Dva adresáti:** největší dopad má analytika podle Omara Chaudhuriho (21st Club) ve **vedení** (dlouhodobé investice, „boardroom mythbuster“ – vyvracet mýty typu „na postup potřebujeme hráče se zkušeností z 2. ligy“); trenéři myslí na příští zápas a chtějí odpověď do pár minut.
+- **Workflow analytiků:** video soupeře → zajímavý jev → najít způsob, jak ho změřit → ověřit, zda jde o vzorec, nebo jednorázovost.
+- **Validace:** „Nikdy slepě nevěřit tomu, co děláš“; analytici přiznávají, že jejich metody nejsou prokázané → back-testy, benchmarky ([[Predikce a pravděpodobnostní modely]]).
+- **Nábor:** veřejné portfolio / blog („Start writing! My blog was effectively my CV“), kombinace fotbalu a techniky; otevřená data a hackathony (#HackMCFC) jako pipeline.
+- Lobanovskyj (Dynamo Kyjev): statistické cíle pro hráče a jejich plnění **vyvěšené na nástěnce** – raný příklad hráčských KPI.
 
 ## Souvislosti
 

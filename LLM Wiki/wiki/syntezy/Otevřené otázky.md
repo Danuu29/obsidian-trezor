@@ -39,6 +39,14 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Zavést MD+x/−y jako standard v Yarmillu? → [[Mikrocyklus a značení MD]]
 - Které návrhy z kurzu prioritizovat? → [[Barça kurz – návrhy pro Sigmu]]
 
+## Kvantitativní analytika (ze Soccermatics)
+
+- Převzít KPI represinku 2,5 s / 5,5 s do Sigma Way? Ověřit na aktuálních datech (SkillCorner OnBallEngagements) → [[Pressing a kolektivní pohyb]]
+- Který model hodnoty akcí použít (xThreat ze SkillCorneru, packing, vlastní)? → [[Possession value a Markovovy řetězce]]
+- Jak v Sigmě validovat skautská a datová doporučení (záznam doporučení vs. výsledek)? → [[Datový skauting – metriky a úskalí]]
+- Kdo navrhuje váhy skóre v skautském reportu a kde je to zdokumentované? → [[Skauting – proces a reporting]]
+- Které návrhy z knihy prioritizovat? → [[Soccermatics – návrhy pro Sigmu]]
+
 ## Náměty k průzkumu (pro web / literaturu)
 
 - EWMA vs. ACWR pro sledování zátěže
@@ -47,3 +55,6 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Literatura Buchheit k GPS
 - Fradua et al. (2013) a Muñoz (2014) – rozměry SSG podle zóny hřiště; aplikovatelnost na mládež
 - Inter-rater reliability při ručním tagování videa
+- Aktuální stav pressing metrik a counter-press norem (po 2016) – PPDA vs. tracking
+- Executive functions / design fluency test u mládeže (Vestberg et al. 2012 a navazující studie)
+- Thom Lawrence – defenzivní „patch“ metrika (původní blog Deep XG), možné použití pro obránce

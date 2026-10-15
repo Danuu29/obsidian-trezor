@@ -17,6 +17,8 @@ Těžiště znalostí je **datová analytika a rozvoj hráčů v [[SK Sigma Olom
 
 4. **Herní a video analýza (metodika)** – od 15. 10. 2026 má wiki teoretickou páteř z [[Zdroj – Barça Match Analysis]]: [[Plány analýzy (micro, meso, macro)]], [[Herní cyklus]], [[Analýza soupeře – metodika]] → [[Operativní strategie a trénink]] → [[Mikrocyklus a značení MD]], cyklus zápasu ([[Předzápasová příprava a komunikace]], [[Live analýza a poločas]], [[Hodnocení utkání a pozápasový report]], [[Sezónní hodnocení týmu a soutěže]]) a stavba oddělení ([[Oddělení analýzy – struktura a role]], [[Typy sportovních dat a datová architektura]], [[Tagging a code window]]). Napojení na aplikace Sigmy → [[Barça kurz – návrhy pro Sigmu]].
 
+5. **Kvantitativní analytika (modely a metriky)** – od 15. 10. 2026 z [[Zdroj – Soccermatics]]: [[Expected goals (xG)]], [[Possession value a Markovovy řetězce]], [[Pasové sítě a prostorové mapy]], [[Pressing a kolektivní pohyb]], [[Half-spaces a taktická geometrie]], [[Predikce a pravděpodobnostní modely]], [[Datový skauting – metriky a úskalí]]. Doplňuje Barça kurz (metodika) o čísla, validaci a lekce z klubů (Leicester vs. Villa, [[Brentford a FC Midtjylland]]) → [[Soccermatics – návrhy pro Sigmu]].
+
 Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři chtějí informace, ne čísla“) – Barça kurz to potvrzuje: filtrovat, každé zjištění s doporučením, společný jazyk ([[Taktická komunikace]]).
 
 ## Hlavní napětí a mezery
@@ -27,6 +29,8 @@ Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři cht�
 - **Data pro mládež** (herní data U17/U19, brankáři, normy pro mládež a dívky) chybí → [[Mapa datových zdrojů]].
 - Priorita č. 1 v úkolech: **karta hráče**.
 - **Vlastní video tagging a analytické oddělení** – metodika je teď ve wiki, ale není jasné, kdo v Sigmě vlastní tagging, jaký software a pod koho oddělení spadá → [[Otevřené otázky]].
+
+- **Validace analytiky** – Soccermatics upozorňuje, že metody bývají neprokázané a vzorky malé; Sigma zatím nemá proces, jak ověřovat doporučení (skauting, hodnocení) → [[Predikce a pravděpodobnostní modely]].
 
 ## Mimo fotbal
 

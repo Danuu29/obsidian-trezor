@@ -21,3 +21,12 @@ Chronologický, append-only záznam. Formát hlavičky: `## [RRRR-MM-DD] typ | n
 - Aktualizováno: Hodnocení utkání a pozápasový report, Aplikace – Analýza soupeře, Aplikace – Match tracker, Analýza trenérské komunikace, Postové profily, Sigma Way, Skauting, Principy vizualizace, Normalizace herních dat, Wyscout, StatsBomb, SK Sigma Olomouc, Mapa datových zdrojů, Otevřené otázky, Přehled wiki, index.
 - Rozpory: žádné věcné. Terminologická nesrovnalost – španělské číslování postů (P2 = krajní obránce) vs. značení v Postových profilech → zapsáno do Otevřených otázek, ne do Rozporů.
 - Ingest proběhl bez úvodní diskuse o důrazech (Danů zadal „zapracuj“) – důrazy lze doladit zpětně.
+
+## [2026-10-15] ingest | Soccermatics (D. Sumpter, 2016)
+
+- Zdroj: kniha *Soccermatics – Mathematical Adventures in the Beautiful Game* (Pro-Edition, 293 s.), uložena do `raw/Soccermatics (Sumpter 2016).pdf`. PDF s textovou vrstvou; čtení po částech (I–IV), vzorce z obrázků chybí → dopočty označeny.
+- Nové: [[Zdroj – Soccermatics]]; entity [[Opta]], [[Brentford a FC Midtjylland]]; 7 konceptů ([[Expected goals (xG)]], [[Possession value a Markovovy řetězce]], [[Pasové sítě a prostorové mapy]], [[Pressing a kolektivní pohyb]], [[Half-spaces a taktická geometrie]], [[Predikce a pravděpodobnostní modely]], [[Datový skauting – metriky a úskalí]]); syntéza [[Soccermatics – návrhy pro Sigmu]].
+- Aktualizováno: StatsBomb, SkillCorner, Wyscout, Sigma Way, Normalizace herních dat, Principy vizualizace, Skauting, Oddělení analýzy, Typy dat, Hodnocení utkání, GPS metriky, Aplikace – Analýza soupeře, Mapa datových zdrojů, Otevřené otázky, Přehled wiki, index.
+- Rozpory: žádné věcné. Zpřesnění, ne rozpor: represink „do 6 s“ (Sigma Way) vs. data Prozone 2,5 s / 5,5 s. Napětí: „herní dominance“ vs. zjištění, že držení míče samo góly nepředpovídá (poznamenáno na Sigma Way).
+- Kniha je z let 2016–17 → zastaralá tvrzení (firmy, role lidí, stav tracking analýzy) označena calloutem „Aktualita“ jako poznámka LLM k ověření.
+- Ingest bez úvodní diskuse o důrazech (Danů zadal „zpracuj“); důraz dán na přenositelnost do klubové analytiky, analogie mimo fotbal (biologie, davy) vynechány.

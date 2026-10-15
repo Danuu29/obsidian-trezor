@@ -1,7 +1,7 @@
 ---
 typ: projekt
 tags: [aplikace, analyza-soupere, ai, skillcorner]
-zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 stav: vývoj
 aktualizovano: 2026-10-15
 ---
@@ -35,6 +35,10 @@ Základní charakteristika a rozestavení · pasáže utkání a game state · b
 ## Metodická opora
 
 [[Analýza soupeře – metodika]] (Barça kurz) dává ověřenou strukturu kolektivního reportu (B.1–B.5), katalog otázek podle fáze × třetiny × bloku soupeře, kritéria výběru zápasů, filtr *True – Significant – Trainable* a strategie *Avoid / Condition / Assume*. Konkrétní návrhy úprav → [[Barça kurz – návrhy pro Sigmu]]. Převod reportu do tréninku → [[Operativní strategie a trénink]]; standardky → [[Standardní situace – analýza]].
+
+## Kvantitativní nástroje (Soccermatics)
+
+Pasová síť + centralizace (hub soupeře), danger zone 15 s před střelou, defenzivní hulls, W/D/L z kurzů jako kontext → [[Pasové sítě a prostorové mapy]], [[Predikce a pravděpodobnostní modely]]; návrhy → [[Soccermatics – návrhy pro Sigmu]].
 
 ## Nápady
 

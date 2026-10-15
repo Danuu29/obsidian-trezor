@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [vizualizace, reporting, komunikace]
-zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # Principy vizualizace a reportingu
@@ -42,6 +42,10 @@ Týdně (GPS thresholdy, hodnocení trenérů), čtvrtletně (kam se hráč poso
 ## Komunikace novinek
 
 Přesně popsat, k čemu to je a co to má říct; očekávání, výpočet, zdroje dat. Po dokončení projít a nahlas okomentovat. Lidé přijmou spíš malé kroky v souladu s předchozím.
+
+## Taktická mapa (Soccermatics)
+
+Sumpter ([[Zdroj – Soccermatics]], Kap. 7, 15): trenérovi neříkat „Voronoi, pasové sítě, vektorová pole“ – ukázat **problém na jednom obrázku**, vysvětlitelném o poločase. Trenéři jsou zvídaví, ale nemají čas, další otázka je vždy **„so what?“**. Výstup musí: dávat fotbalový smysl, mít pevný statistický základ, dát se vysvětlit **během pár minut**, zlepšovat výsledky. Nezaměňovat prezentaci za obsah (efektní grafika v TV studiu). Vizuály → [[Pasové sítě a prostorové mapy]].
 
 ## Souvislosti
 

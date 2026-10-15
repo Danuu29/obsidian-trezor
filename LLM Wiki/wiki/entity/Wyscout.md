@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [datovy-zdroj, herni-data]
-zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # Wyscout
@@ -18,4 +18,4 @@ Match report Portugalsko–Španělsko 3:3 (MS 2018): **pass network** (jen komb
 
 ## Souvislosti
 
-[[StatsBomb]] (detailnější event data) · [[Analytické balíčky Yarmill]] (Gold) · [[Hodnocení utkání a pozápasový report]] · [[Mapa datových zdrojů]]
+[[StatsBomb]] (detailnější event data) · [[Analytické balíčky Yarmill]] (Gold) · [[Hodnocení utkání a pozápasový report]] · [[Mapa datových zdrojů]] · [[Opta]] · [[Pasové sítě a prostorové mapy]] · [[Expected goals (xG)]]

@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [data, architektura, standardy, analytics, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # Typy sportovních dat a datová architektura
@@ -45,6 +45,10 @@ Praktické nástroje z případovky: Python (tracking), R a SQL (eventing), Exce
 - Trenéři jsou **heuristicko-induktivní** (od představ k datům), analytici **algoritmicko-deduktivní** (od dat k závěrům) → počítat s tím v komunikaci → [[Principy vizualizace a reportingu]].
 - U predikčních / hodnoticích nástrojů komunikovat **chybu** a sledovat **false positives** (hodnoceni dobře, nezlepšili se) a **false negatives** (vyřazení, kteří se prosadili); hlídat velikost vzorku.
 - Mládežnická soutěž je jiný typ soutěže než vrcholová – data se v ní mají používat jinak (Hohmann et al. 2005).
+
+## Objem tracking dat (Soccermatics)
+
+FC Nürnberg (2013): senzory v kopačkách 200 Hz, míč 2 000 Hz → 60 min hry = 6 GB, ~120 mil. čísel; Prozone za sezónu PL 260 mil. datových bodů → „dva koučovací body“. Poselství stejné jako „Smart Data > Big Data“: hodnota je v redukci na rozhodnutí ([[Zdroj – Soccermatics]], Kap. 9) → [[Pressing a kolektivní pohyb]]. Event data: [[Opta]] (F24).
 
 ## Souvislosti
 

@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [datovy-zdroj, herni-data, tracking]
-zdroje: ["[[Zdroj – Znalosti]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Yarmill poznámky]]"]
+zdroje: ["[[Zdroj – Znalosti]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # SkillCorner
@@ -22,6 +22,10 @@ Physical · Passes · PassingOptions · OffBallRuns · OnBallEngagements · Play
 ## Využití
 
 [[Aplikace – Analýza soupeře]] · [[Skauting – proces a reporting]] (postové thresholdy) · [[Future Blue]] (profil hráče)
+
+## Kontext ze Soccermatics
+
+Metriky SkillCorneru odpovídají tomu, co Sumpter v roce 2016 popisuje jako budoucnost tracking analýzy: **PassingOptions** ≈ sítě dostupných přihrávek (Prozone), **xThreat** ≈ possession value modely, **OnBallEngagements** ≈ analýza presinku → [[Pressing a kolektivní pohyb]], [[Possession value a Markovovy řetězce]] ([[Zdroj – Soccermatics]]).
 
 ## Otevřené otázky
 

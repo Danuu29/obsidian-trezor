@@ -13,6 +13,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Rozpory a nesrovnalosti]] – kde si zdroje odporují (hlavně normy VALD)
 - [[Mapa datových zdrojů]] – jaká data, stav, kde se používají
 - [[Barça kurz – návrhy pro Sigmu]] – co z kurzu match analysis přenést do aplikací, reportů a datového oddělení (návrhy)
+- [[Soccermatics – návrhy pro Sigmu]] – kvantitativní nástroje, pressing KPI, datový skauting a validace (návrhy)
 
 ## Entity
 
@@ -31,6 +32,8 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[VIF Cycling team]] – cyklistický tým závodnic
 - [[Barça Innovation Hub]] – vzdělávací platforma FC Barcelona (kurz match analysis)
 - [[Mediacoach]] – analytická platforma La Ligy (live dashboard, sezónní reporty) – vzor
+- [[Opta]] – event data (F24), xG; dnes Stats Perform (s Prozone)
+- [[Brentford a FC Midtjylland]] – Benhamovy kluby řízené daty – vzor
 
 ## Koncepty
 
@@ -72,6 +75,16 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Typy sportovních dat a datová architektura]] – 5 typů dat, standardy, data lake → BI
 - [[Tagging a code window]] – code/tag/event matrix, software, nahrávání videa
 
+### Kvantitativní analytika (Soccermatics)
+
+- [[Expected goals (xG)]] – kvalita šancí, úhel na branku, udržitelnost konverze, úskalí
+- [[Possession value a Markovovy řetězce]] – hodnota akce = změna pravděpodobnosti gólu; packing, possession chains
+- [[Pasové sítě a prostorové mapy]] – pasová síť, centralizace, flow field, danger zone, defenzivní hulls
+- [[Pressing a kolektivní pohyb]] – counter-press 2,5 s / 5,5 s, deep press, synchronizace, tracking metriky
+- [[Half-spaces a taktická geometrie]] – trojúhelníky a Voronoi, half-spaces, Guardiola vs. Mourinho
+- [[Predikce a pravděpodobnostní modely]] – Poisson, Elo, kurzy, benchmark, štěstí vs. dovednost, útok vs. obrana
+- [[Datový skauting – metriky a úskalí]] – Row A, styl → profil → shortlist, kontext, validace, Leicester vs. Villa
+
 ## Projekty
 
 - [[Aplikace – Analýza soupeře]] – AI příprava na utkání (Zápasová strategie) · vývoj
@@ -95,5 +108,6 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – Úkoly]] | `Úkoly/` (2 pozn.) | 2026-10-15 |
 | [[Zdroj – Hodnocení závodnic VIF]] | `VIF Cycling team 🚴/` | 2026-10-15 |
 | [[Zdroj – Barça Match Analysis]] | `LLM Wiki/raw/Barca Match Analysis/` (16 PDF) | 2026-10-15 |
+| [[Zdroj – Soccermatics]] | `LLM Wiki/raw/Soccermatics (Sumpter 2016).pdf` (kniha) | 2026-10-15 |
 
 Neingestováno: `Apple Notes/Sigma Olomouc ⚽/` (duplikáty), `Markdown – tahák.md`, `_Přehled úprav.md`, PDF a obrázky v `Apple Notes/` (zatím jen odkazované – kandidáti na samostatný ingest: *4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*).

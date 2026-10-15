@@ -19,6 +19,8 @@ Které datové zdroje Sigma (resp. Yarmill) používá nebo zvažuje a k čemu. 
 | Herní data (tracking) | [[SkillCorner]] | používá se (A-tým, skauting) | [[Aplikace – Analýza soupeře]] |
 | Herní data (event) | [[Wyscout]] | používá se | [[Hodnocení utkání a pozápasový report]] |
 | Herní data (event) | [[StatsBomb]] | zvažuje se | [[Analytické balíčky Yarmill]] |
+| Herní data (event) | [[Opta]] (Stats Perform) | nepoužívá se – referenční provider literatury | [[Expected goals (xG)]] |
+| Pravděpodobnost výsledku | kurzy sázkových kanceláří (normalizované) | nápad | [[Predikce a pravděpodobnostní modely]] |
 | Herní data mládež | [[Eyeball]], iBall | zjišťuje se | [[Karta hráče – koncept]] |
 | Hodnocení | trenéři + sebehodnocení (Yarmill) | přípravky hotovo, akademie se tvoří | [[Hodnocení hráčů – metodika]] |
 | Vlastní záznam | [[Aplikace – Match tracker]] | používá se | – |
@@ -28,6 +30,10 @@ Které datové zdroje Sigma (resp. Yarmill) používá nebo zvažuje a k čemu. 
 ## Typologie dat
 
 Podle Barça kurzu 5 typů: eventing, tracking, biological, financial, video – se standardy F24, EPTS, OSICS… → [[Typy sportovních dat a datová architektura]]. Cíl architektury: žádná data sila, sjednocená ID napříč zdroji.
+
+## Odvozené metriky (Soccermatics)
+
+Z event a tracking dat lze počítat xG, possession value (xThreat ve SkillCorneru), pasové sítě a centralizaci, defenzivní hulls, metriky presinku a týmové synchronizace → [[Expected goals (xG)]], [[Possession value a Markovovy řetězce]], [[Pasové sítě a prostorové mapy]], [[Pressing a kolektivní pohyb]].
 
 ## Mezery
 

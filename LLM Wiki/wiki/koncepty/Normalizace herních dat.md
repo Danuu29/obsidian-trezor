@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [herni-data, metodika, skillcorner]
-zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # Normalizace herních dat
@@ -28,6 +28,10 @@ Příklad z ladění aplikace: nižší % zisků ve středu hřiště není slab
 ## Kontext stavu skóre a role hráče
 
 Barça kurz (P3 R2) doporučuje metriky vyhodnocovat podle stavu skóre – *quite for* (+2 a víc), *balanced* (remíza nebo ±1), *quite against* (−2 a víc) – a podle role hráče (základ = celý 1. poločas nebo 60′; náhradník = jen 2. poločas nebo < 30′). Srovnávací grafy hráčů (per minute) mají smysl jen s kontextem → [[Live analýza a poločas]], [[Analýza soupeře – metodika]].
+
+## Úprava na držení míče – příklad Kanté
+
+Kanté (Caen/Leicester) vedl statistiky skluzů a interceptions; po přepočtu na čas, kdy jeho tým neměl míč, jeho čísla klesla – vynikal i proto, že Leicester hrál bez míče (Ted Knutson; [[Zdroj – Soccermatics]], Kap. 14). Potvrzuje logiku **per 30 OTIP**. Podobně Sumpter: obránci slabých týmů mají víc práce, útočníci silných víc šancí → srovnávat jen v kontextu týmu → [[Datový skauting – metriky a úskalí]].
 
 ## Souvislosti
 

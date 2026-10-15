@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [utkani, reporting, herni-data]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # Hodnocení utkání a pozápasový report
@@ -33,6 +33,10 @@ Podle [[Zdroj – Barça Match Analysis]] (P3 R3): post-match vlastního týmu j
 - Data z hodnocení dál: report známek, minuty dle kategorie a pozice.
 - Prohrané zápasy: hledat nuance oproti vítězným (fyzicky, mikrocyklus).
 
+## Náhoda a výsledek (Soccermatics)
+
+Góly přicházejí náhodně (Poisson) – jednotlivý zápas je silně ovlivněn štěstím. Hodnotit výkon přes **xG a kvalitu šancí**, ne jen výsledek; krátké série (2–3 zápasy, i 50 pokusů) neodliší štěstí od kvality; sledovat udržitelnost konverze ([[Zdroj – Soccermatics]]) → [[Expected goals (xG)]], [[Predikce a pravděpodobnostní modely]].
+
 ## Souvislosti
 
-[[GPS metriky a zatížení]] · [[Hodnocení hráčů – metodika]] · [[Wyscout]] · [[Sezónní hodnocení týmu a soutěže]] · [[Barça kurz – návrhy pro Sigmu]]
+[[GPS metriky a zatížení]] · [[Hodnocení hráčů – metodika]] · [[Wyscout]] · [[Sezónní hodnocení týmu a soutěže]] · [[Barça kurz – návrhy pro Sigmu]] · [[Soccermatics – návrhy pro Sigmu]]

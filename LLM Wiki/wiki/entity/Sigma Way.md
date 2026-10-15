@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [herni-model, principy, sigma]
-zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
 aktualizovano: 2026-10-15
 ---
 # Sigma Way
@@ -32,6 +32,10 @@ Kompaktnost (zavřený střed, tlačit do strany, hloubka–šířka) · prostor
 ## Další kroky
 
 Doladit názvy (hlavně „Od odvahy k ochotě“), rozpracovat game model do podprincipů s videi (leden), projít zápasy optikou pilířů.
+
+## Pressing v datech (Soccermatics)
+
+Pravidlo represinku „do 6 s“ lze zpřesnit podle analýzy Prozone z PL: **1. hráč u míče do ~2,5 s, 2. do ~5,5 s**; v hlubokém bránění napadá jen jeden hráč, ostatní blokují kanály → [[Pressing a kolektivní pohyb]] (*návrh, čísla z roku 2015*). Pozor: „herní dominance“ ≠ držení míče jako cíl – držení samo góly mezi vyrovnanými týmy nepředpovídá, předpovídá je spíš pasová frekvence a xG ([[Predikce a pravděpodobnostní modely]]).
 
 ## Souvislosti
 
