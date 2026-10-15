@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [hodnoceni, metodika, mladez, idp]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Porady akademie (podzim 2026)]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Hodnocení hráčů – metodika
@@ -42,4 +42,4 @@ Jak trenéři v Sigmě číselně a slovně hodnotí hráče. Hotová je škála
 
 ## Souvislosti
 
-[[Individuální rozvojový plán (IDP)]] · [[Postové profily]] · [[Výkon vs. potenciál]] · [[Pozorovací nástroje hráčů]]
+[[Individuální rozvojový plán (IDP)]] · [[Postové profily]] · [[Výkon vs. potenciál]] · [[Pozorovací nástroje hráčů]] · [[Kognitivní zkreslení v hodnocení]] (zkreslení hodnotitelů)

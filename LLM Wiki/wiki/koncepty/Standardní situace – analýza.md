@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [standardky, set-pieces, analyza, trenink, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Standardní situace – analýza
@@ -38,6 +38,17 @@ Analýza, trénink a reporting standardních situací (SP / SPA, španělsky ABP
 1. bez obránců (vysvětlení) · 2. s obránci (realističtější, ale „figuranti“ předjímají) · 3. **s pokračováním hry** · 4. **SSG / SPA zápasy** (každé přerušení = roh).
 Doporučení: SPA **rozložit do celého mikrocyklu** a zapojit do úloh přes provokační pravidla, ne jen poslední dny.
 
+## Standardky jako výhoda slabšího (Football Hackers)
+
+Podle [[Zdroj – Football Hackers]] (Kap. 4, 5):
+- Tým má za zápas průměrně ~5 rohů, 10 volných kopů, 18 autů, 8 odkopů. Celosvětově ~0,3 gólu ze standardek na zápas; PL 2017/18 21 % gólů (bez penalt); **MS 2018 28 %** (47 ze 169, rekord; Uruguay a Kolumbie 2/3 gólů, Anglie 6 z 12).
+- Top týmy dávají ze standardek víc (víc rohů a kopů z tlaku). Pro slabší týmy jsou zbraní, ale samy nestačí (Benevento, WBA – nejvyšší podíl gólů ze standardek, přesto poslední).
+- **Pulis (Stoke):** systematická práce s **auty** (Delap – auty ~35 m do malého vápna; zúžené hřiště, přetížené malé vápno; z autu nelze být v ofsajdu). 2008/09 53 střel na branku po autech, 8 gólů.
+- **Bolton (Allardyce) „Fantastic Four“:** cíle z dat – ≥ 16 čistých kont, vedení = ~70 % výhra, standardky až třetina gólů (inswingery), vyšší objem vysoké intenzity = ~80 % neprohra.
+- **Druhé míče:** Midtjylland a Atlético nacvičují reakce na odražené a vykopnuté míče podle toho, kam padají (krátce/dlouze, vlevo/vpravo). Island to převzal od analytika Nicolase Jovera.
+- **Jover (Montpellier → Brentford):** standardky jako systém příčin a následků podobný šachu; **hráči mají číst situace**, ne jen odříkávat playbook; smluvně **10–15 min denně** s týmem; sen o rozpoznatelném „stylu standardek“ jako stylu hry. Brentford bez vysokých hráčů nemohl kopírovat Pulise → strategie podle složení kádru. Specialisté: Gianni Vio, Thomas Grønnemark (auty, Liverpool).
+- **Proč se netrénují:** hráči je nemají rádi (stání, zima, riziko zranění) a vyžadují hodně přípravy. Řešení: Löwova „soutěž standardek“ (MS 2014 – dvě skupiny, 15 min na vymyšlení variant; Německo dalo nejvíc gólů ze standardek) a mentalita „každá standardka je otázka života a smrti“ (Midtjylland).
+
 ## Souvislosti
 
-[[Analýza soupeře – metodika]] · [[Operativní strategie a trénink]] · [[Tagging a code window]] (SP code window) · [[Herní cyklus]]
+[[Analýza soupeře – metodika]] · [[Operativní strategie a trénink]] · [[Tagging a code window]] (SP code window) · [[Herní cyklus]] · [[Strategie menšího klubu]] · [[Brentford a FC Midtjylland]]

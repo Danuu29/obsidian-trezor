@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [predikce, statistika, pravdepodobnost, rozhodovani, metodika]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Predikce a pravděpodobnostní modely
@@ -39,6 +39,16 @@ Jak modelovat výsledky zápasů a sezóny, jak vyhodnocovat předpovědi (exper
 - Hodnocení výsledku vs. výkonu (xG) v [[Hodnocení utkání a pozápasový report]] – oddělit štěstí.
 - Recruitment meetingy: **nezávislá písemná hodnocení před diskusí**, medián, sledovat úspěšnost doporučení v čase (srov. false positives / negatives v [[Typy sportovních dat a datová architektura]]).
 
+## Profesionální sázkaři (Football Hackers)
+
+- **Smartodds (Benham) a Starlizard (Bloom)** – sázkové firmy s matematiky a statistiky (často PhD); kurzy počítají modely, ne pocit. **Asijský handicap** eliminuje remízu a zjednodušuje pravděpodobnosti.
+- Signál: kvalita šancí (ručně kategorizovaná „watchery“), vliv konkrétních hráčů (absence/návrat), délka cesty na venkovní zápas (kratší = o něco vyšší šance), „měkké“ informace (konflikty v kabině). Šum: výsledek posledního zápasu, vzájemné zápasy, „nepříjemný soupeř“, série penaltových rozstřelů (Anglie vs. Německo by podle Benhama vyšla podobně při hodu mincí).
+- Podle Benhamova modelu vyhrál Bundesligu 2007 až 4. nejlepší tým (Stuttgart) a 2009 3. nejlepší (Wolfsburg).
+- Zkreslení dopadá i na experty: Benham jako fanoušek po jednom špatném zápase „viděl“ svůj tým na sestupu, jako analytik by ho posunul o jedno místo.
+- Tipy si zapisovat předem a zpětně kontrolovat (lekce pokory).
+
+Zdroj: [[Zdroj – Football Hackers]] (Kap. 1–3) → [[Výkon vs. výsledek a role náhody]].
+
 ## Souvislosti
 
-[[Expected goals (xG)]] · [[Datový skauting – metriky a úskalí]] · [[Sezónní hodnocení týmu a soutěže]] · [[Brentford a FC Midtjylland]]
+[[Expected goals (xG)]] · [[Datový skauting – metriky a úskalí]] · [[Sezónní hodnocení týmu a soutěže]] · [[Brentford a FC Midtjylland]] · [[Výkon vs. výsledek a role náhody]] · [[Goalimpact a plus-minus]]

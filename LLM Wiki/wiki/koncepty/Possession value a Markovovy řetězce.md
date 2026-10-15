@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [herni-data, metrika, possession-value, modelovani]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Possession value a Markovovy řetězce
@@ -31,6 +31,18 @@ Rodina modelů, které hodnotí **každou akci s míčem podle toho, o kolik zm�
 
 Hodnocení přínosu hráče v [[Datový skauting – metriky a úskalí]] a v [[Karta hráče – koncept]] místo prostých počtů; přirozeně navazuje na [[Herní cyklus]] (stavy = fáze a kontexty herního modelu).
 
+## Další modely (Football Hackers)
+
+Podle [[Zdroj – Football Hackers]] (Kap. 5, 6, 8) se různé týmy nezávisle dopracovaly ke stejné myšlence – **hodnota akce = změna pravděpodobnosti gólu**:
+- **[[Packing]] / Impect model** – kolik soupeřů akce vyřadí, přepočteno na změnu pravděpodobnosti gólu vstřeleného i obdrženého.
+- **Dangerousity** (Daniel Link, TU München; studie financovaná DFL, PLOS ONE 2016) – pravděpodobnost gólu v každém okamžiku, kdy má hráč míč, ze 4 složek z tracking dat: **Zone** (poloha v mřížce 2 × 2 m v posledních 34 m), **Control** (relativní rychlost míče a hráče – jak těžké je míč ovládnout), **Pressure** (schopnost obrany zabránit akci), **Density** (počet obránců mezi hráčem a brankou). Validace: křivky „horečky“ zápasu porovnány s hodnocením trenérů a hráčů ve 64 zápasech. **Action Value** = Dangerousity po akci − před akcí → přínos hráče; použití jako filtr videa (ukaž mi momenty, kdy jsem nebezpečí nezvýšil) a pro hledání hráčů, kteří **rozbijí rovnováhu** zápasu. Link: o tom, co pustit hráčům, rozhoduje trenér.
+- **Pass Value / Value Creation** (StatDNA, Arsenal) – stejný princip pro skauting a nastavení mezd.
+- **EPV – Expected Possession Value** (FC Barcelona, Fernández, Bornn, Cervone; nejlepší paper Sloan 2019, deep learning) – navazuje na Linka; v roce 2019 zatím ne v reálném čase.
+- **Sekvence** (OptaPro, 2017) – úseky hry jednoho týmu ukončené obrannou akcí, přerušením nebo střelou (~200 za zápas). Přihrávky na sekvenci PL 2017/18: City 5,5 vs. Stoke/WBA 2,5. **Direct Speed** = čistý posun míče k brance / čas sekvence (ukázka Liverpool: 3,85 m/s). STATS „Playing Styles“ kombinuje KPI do profilu stylu.
+- **Ghosting** (Caltech, Hoang M. Le) – model naučený na datech ukazuje, kde by se v dané situaci postavil „průměrný“ obránce; v basketbalu (Toronto Raptors) funkční od 2014, ve fotbale „sci-fi“.
+
+Výhled autora: **prediktivní analytika** (co udělat, abychom vyhráli příští / probíhající zápas; potenciál hráče) bude důležitější než popisná; data automatizují vyhledávání situací ve videu.
+
 ## Souvislosti
 
-[[Expected goals (xG)]] · [[Pasové sítě a prostorové mapy]] · [[Normalizace herních dat]]
+[[Expected goals (xG)]] · [[Pasové sítě a prostorové mapy]] · [[Normalizace herních dat]] · [[Packing]]

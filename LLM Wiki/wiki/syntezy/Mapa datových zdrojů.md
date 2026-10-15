@@ -1,6 +1,7 @@
 ---
 typ: synteza
 tags: [data, zdroje, prehled]
+zdroje: ["[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Mapa datových zdrojů
@@ -21,6 +22,10 @@ Které datové zdroje Sigma (resp. Yarmill) používá nebo zvažuje a k čemu. 
 | Herní data (event) | [[StatsBomb]] | zvažuje se | [[Analytické balíčky Yarmill]] |
 | Herní data (event) | [[Opta]] (Stats Perform) | nepoužívá se – referenční provider literatury | [[Expected goals (xG)]] |
 | Pravděpodobnost výsledku | kurzy sázkových kanceláří (normalizované) | nápad | [[Predikce a pravděpodobnostní modely]] |
+| Herní data (packing) | [[Impect]] | nepoužívá se – kandidát na progresivní metriky | [[Packing]] |
+| Hodnocení hráčů (plus-minus) | Goalimpact | nepoužívá se – kandidát na filtr nižších lig a potenciál | [[Goalimpact a plus-minus]] |
+| Síla lig a klubů | Club Elo (clubelo.com) | volně dostupné – nápad | [[Datový skauting – metriky a úskalí]] |
+| Kognice | reakční test (tabular); Vídeňský test / ExF | reakční test se používá, další nápad | [[Kognitivní trénink]] |
 | Herní data mládež | [[Eyeball]], iBall | zjišťuje se | [[Karta hráče – koncept]] |
 | Hodnocení | trenéři + sebehodnocení (Yarmill) | přípravky hotovo, akademie se tvoří | [[Hodnocení hráčů – metodika]] |
 | Vlastní záznam | [[Aplikace – Match tracker]] | používá se | – |

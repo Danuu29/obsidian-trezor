@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [utkani, reporting, herni-data]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Hodnocení utkání a pozápasový report
@@ -37,6 +37,15 @@ Podle [[Zdroj – Barça Match Analysis]] (P3 R3): post-match vlastního týmu j
 
 Góly přicházejí náhodně (Poisson) – jednotlivý zápas je silně ovlivněn štěstím. Hodnotit výkon přes **xG a kvalitu šancí**, ne jen výsledek; krátké série (2–3 zápasy, i 50 pokusů) neodliší štěstí od kvality; sledovat udržitelnost konverze ([[Zdroj – Soccermatics]]) → [[Expected goals (xG)]], [[Predikce a pravděpodobnostní modely]].
 
+## Výkon vs. výsledek (Football Hackers)
+
+- **Brazílie–Německo 1:7 (MS 2014):** Brazílie měla lepší držení, víc centrů, rohů, nebezpečných útoků i střel – „klíčové“ ukazatele nebyly klíčové. Bundesliga 2016/17: lepší tým v držení vyhrál jen 54 % rozhodnutých zápasů, v soubojích 56 %, v naběhané vzdálenosti 60 %, ve střelách 61 %, v **šancích 75 %**.
+- **Löw 2010:** výroční hodnocení bez výsledků – jen procesní ukazatele (fauly, zisky, **doba držení míče jednotlivcem 2,8 s → 1,1 s**).
+- **Vlny útoků:** hodnotit obranu i podle toho, kolik útoků k ní pustí zbytek týmu ([[Packing]]).
+- Midtjylland: model hodnotí výkon i po výhře; trenér je kritizován za slabý výkon i při výhře a chráněn při smolné porážce → [[Výkon vs. výsledek a role náhody]].
+- Krawietz kontroloval styl přes **počet přihrávek** (~600 v dominantním zápase; víc = spíš sterilní držení) a poměr centrů z obou stran.
+- Moyes chtěl „600 přihrávek místo 400“ – Ferdinand: radši 5 gólů z 10 přihrávek. Metrika, která se stane cílem, mění chování (srov. Goodhart v [[Expected goals (xG)]]).
+
 ## Souvislosti
 
-[[GPS metriky a zatížení]] · [[Hodnocení hráčů – metodika]] · [[Wyscout]] · [[Sezónní hodnocení týmu a soutěže]] · [[Barça kurz – návrhy pro Sigmu]] · [[Soccermatics – návrhy pro Sigmu]]
+[[GPS metriky a zatížení]] · [[Hodnocení hráčů – metodika]] · [[Wyscout]] · [[Sezónní hodnocení týmu a soutěže]] · [[Barça kurz – návrhy pro Sigmu]] · [[Soccermatics – návrhy pro Sigmu]] · [[Výkon vs. výsledek a role náhody]] · [[Kognitivní zkreslení v hodnocení]] · [[Football Hackers – návrhy pro Sigmu]]

@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [taktika, geometrie, prostor, herni-model]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Half-spaces a taktická geometrie
@@ -25,6 +25,16 @@ Geometrické pohledy na rozestavení: trojúhelníky a zóny, half-spaces, vzdá
 ## Penalta a geometrie
 
 Morales (2016): překreslit pokutové území podle kontur pravděpodobnosti gólu (penalta ~75 %, Robbenova pozice vs. Mexiko ~0 %). Rozhodčí už částečně kompenzují: penalta je na metr čtvereční **2,1×** pravděpodobnější ve středu.
+
+## Kontrola prostoru – Raumkontrolle (Football Hackers)
+
+- **Daniel Memmert** (DSHS Köln, spolupráce Hoffenheim a DFB) – Voronoiovy diagramy z tracking dat: hranice mezi dvěma hráči = místa, kam doběhnou současně. Studie 50 zápasů Bundesligy 2014/15: **vítězné týmy mají lepší poziční hru při přihrávkách v obranném pásmu a středu hřiště, lepší vertikální hru v útočném pásmu, čelí méně soupeřům a víc jich obejdou přihrávkou z obrany do středu**. Top týmy získávají a drží kontrolu prostoru v kritických zónách. Rozšíření: velikost zóny by měla zohlednit rychlost hráče.
+- **Christofer Clemens (DFB):** moderní fotbal se točí kolem kontroly prostoru; rozdíl mezi gólem a ne-gólem je často **jeden metr**. Mistrem je Luis Suárez – správným pohybem v rozhodující chvíli má ve vápně volno. Nejlepší hráči souboje nevyhrávají, ale **vyhýbají se jim**.
+- **„Liquid football“ (Guardiola, Tuchel):** formace ztrácejí význam, důležité jsou principy jednání v situacích a vytváření přesily u míče. Tuchel: „respektuj prostor“ – prostory se otevírají na okamžik, rozhoduje přesnost a rychlost přihrávky do správné nohy. Systém je rámec, který umožňuje individualitě fungovat; útočné vzorce ukazovat na videu, trénovat hlavně obranné přesuny.
+- **„Falešné“ posty** u Guardioly: falešná 9 (Messi), falešná 6, 8, 2 – role se mění i během zápasu.
+- **Tuchel v Mainzu:** útok středem místo z křídel – tréninkové hřiště s odříznutými rohy (tvar kosočtverce) a přeplněný střed.
+
+Zdroj: [[Zdroj – Football Hackers]] (Kap. 4, 5).
 
 ## Souvislosti
 

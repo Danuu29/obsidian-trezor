@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [tracking, pressing, kolektivni-pohyb, taktika]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Pressing a kolektivní pohyb
@@ -36,6 +36,17 @@ Co tracking data říkají o pohybu týmu jako celku – pressing, synchronizace
 
 GPS (5 Hz) na mládeži: 2v1 v řadě je špatné cvičení (obránce vždy vyhraje); se 4. hráčem vznikají **dynamické trojúhelníky** a obránce může jen napadat míč. Zobrazení „kondenzační stopy“ pohybu.
 
+## PPDA a další metriky presinku (Football Hackers)
+
+- **PPDA – passes per defensive action** (Colin Trainor; definice obranných akcí podle Opty: skluzy, neúspěšné skluzy, interceptions, fauly) – počet přihrávek soupeře na jednu obrannou akci v prvních ~60 m od soupeřovy branky. **Nižší = intenzivnější presink.**
+- Dortmund pod Kloppem: 8,76 (2012/13) → 8,72 → **9,59** v krizovém podzimu 2014; soupeř si mohl dovolit v průměru o přihrávku víc. Rozpad podle hráčů: Lewandowski nechyběl jen gólově, ale i v presinku; náhrada Immobile měl zhruba poloviční počet obranných akcí.
+- **Krawietzova výhrada:** PPDA ovlivňuje plán na konkrétní zápas – někdy tým záměrně nechá soupeře 2–3 přihrávky a napadá až v místě, kde je soupeř nepohodlný. Metriku číst v kontextu herního plánu.
+- Opta sekvence: přihrávky soupeře na sekvenci bez míče – City 2,4 (nejaktivnější) vs. Swansea 3,9 (PL 2017/18).
+- Nagelsmann: raději donutit soupeře ke špatné přihrávce než vyhrávat 1v1 souboje; zisk tak, aby tým měl rychlostní výhodu proti roztaženému soupeři ([[Kognitivní trénink]]).
+- [[Packing]]: zisky s mnoha vyřazenými soupeři jsou typické pro gegenpressing.
+
+Zdroj: [[Zdroj – Football Hackers]] (Kap. 5, 7).
+
 ## Souvislosti
 
-[[GPS metriky a zatížení]] (kongesce zápasů) · [[Herní cyklus]] · [[Obranná linie – principy]] · [[Pasové sítě a prostorové mapy]] · [[Operativní strategie a trénink]] · [[SkillCorner]]
+[[GPS metriky a zatížení]] (kongesce zápasů) · [[Herní cyklus]] · [[Obranná linie – principy]] · [[Pasové sítě a prostorové mapy]] · [[Operativní strategie a trénink]] · [[SkillCorner]] · [[Packing]]

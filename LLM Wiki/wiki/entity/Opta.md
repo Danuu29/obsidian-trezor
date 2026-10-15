@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [datovy-zdroj, herni-data, event-data, provider]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Opta
@@ -20,6 +20,14 @@ Britský poskytovatel **event dat** (kdo komu přihrál, kde, kdy; střely, sklu
 ## Vztah k Sigmě
 
 Sigma Optu nepoužívá; event data má z [[Wyscout]], zvažuje [[StatsBomb]] → [[Mapa datových zdrojů]].
+
+## Zmínky ve Football Hackers
+
+- **OptaPro** – oddělení pro kluby: Sam Green tu 2012 popsal xG; dále Keeping Goals Prevented (brankáři), „Chances created“, **sekvence** a **Direct Speed** (2017), xG s *Shot Clarity* a *Shot Pressure*; Scout7 (skautská platforma) převzat 2018; spolupráce s TruMedia (data + video) → [[Expected goals (xG)]], [[Possession value a Markovovy řetězce]].
+- **Prozone** (1995, Derby County, Ram Mylvaganam) – první tracking (tepelné kamery); první platící klient Manchester United 1999; Bolton (Allardyce) postavil styl na datech. Prozone → STATS.
+- Brazílie–Mexiko (MS 2018): tři provideři, tři různé naběhané vzdálenosti → kvalita a definice dat.
+
+Zdroj: [[Zdroj – Football Hackers]] (Kap. 2, 5, 6).
 
 ## Souvislosti
 

@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [herni-data, metrika, xG, strely]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Expected goals (xG)
@@ -30,6 +30,23 @@ Pravděpodobnost, že střela skončí gólem, odhadnutá statistickým modelem 
 > [!note] Aktualita (poznámka LLM – ověřit)
 > Od 2016 jsou xG modely výrazně bohatší: pozice brankáře a obránců z freeze-frame / tracking dat, post-shot xG, xA, xT. Wyscout i StatsBomb dodávají xG standardně.
 
+## Rozšíření a historie (Football Hackers)
+
+Podle [[Zdroj – Football Hackers]] (Kap. 2, 5):
+- **Původ:** koncept popsal Sam Green (OptaPro) 2012; profesionální sázkaři (Benham, Smartodds) ale kategorizovali šance pomocí „watcherů“ u obrazovek už dřív a přesněji. Kontext střely (protiútok, standardka, hlavička, počet obránců mezi střelcem a brankou) mění pravděpodobnost výrazně. Penalta v PL ~77 %.
+- **Kvalita zakončení je u elitních hráčů malá veličina:** Ronaldo proměnil o ~2 p. b. víc než průměr (1–2 góly za sezónu navíc), ale díky **pozicím střel a jejich počtu** dal o 8–10 gólů víc než průměrný útočník (Chaudhuri). Lewandowski měl stabilní xG/střelu rok co rok – útočníci mají individuální tendence.
+- **Odvozené metriky:**
+  - **After Shot xG** (Trainor) – hodnotí i trajektorii: zablokovaná a mimo branku = 0, střela do těžkého místa = vysoká hodnota → hodnocení zakončení i brankářů.
+  - **xG Against vs. obdržené góly** = **Keeping Goals Prevented** (Opta) – výkon brankáře očištěný od kvality obrany.
+  - **xA – Expected Assists** (Devin Pleuler, 2012) – pravděpodobnost, že přihrávka bude asistencí, nezávisle na zakončení (Groß v Ingolstadtu: xA téměř 2× vyšší než skutečné asistence → Brighton).
+  - **xGChain** – xG střely připíše všem hráčům nepřerušené posese (i brankáři a stoperovi); **pre-xGC** bez střelce a asistenta → odhalí „motor“ týmu (Lahm, Kimmich, Xabi Alonso).
+  - **xGplots** (Ijtsma) – časová osa šancí v zápase → [[Výkon vs. výsledek a role náhody]].
+- **Trenéři** podle Ijtsmy hodnotí šance svého týmu přesně, šance soupeře výrazně hůř.
+- **Mainstream:** BBC Match of the Day (2017), The Times tabulka xPoints (2018/19), Sky.
+
+> [!info] Zpřesnění: dlouhodobé překonávání xG (Favre)
+> Stránka výše říká, že nadprůměrná konverze bývá neudržitelná. Favreho Gladbach však tři sezóny po sobě dával ~1,2 gólu na 1 xG (šance ~1 %, že jde o náhodu) a podobně Nice i Dortmund. Vysvětlení: tehdejší modely nezohledňovaly **počet obránců mezi střelcem a brankou (shot clarity)** a **tlak na střelce (shot pressure)** – Favreho týmy střílely s ≤ 2 hráči v cestě a soupeře nutily do střel pod tlakem. Nejde o rozpor, ale o **slepé místo modelu**: překonávání xG je udržitelné, pokud tým systematicky vytváří kvalitu, kterou model nevidí. Novější modely (StatsBomb, Opta) tyto faktory zahrnují ([[Zdroj – Football Hackers]], Kap. 5).
+
 ## Souvislosti
 
-[[Possession value a Markovovy řetězce]] · [[Predikce a pravděpodobnostní modely]] · [[Hodnocení utkání a pozápasový report]] · [[Wyscout]] · [[StatsBomb]] · [[Opta]]
+[[Possession value a Markovovy řetězce]] · [[Predikce a pravděpodobnostní modely]] · [[Hodnocení utkání a pozápasový report]] · [[Wyscout]] · [[StatsBomb]] · [[Opta]] · [[Výkon vs. výsledek a role náhody]] · [[Packing]]

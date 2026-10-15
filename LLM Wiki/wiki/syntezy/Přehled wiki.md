@@ -19,6 +19,8 @@ Těžiště znalostí je **datová analytika a rozvoj hráčů v [[SK Sigma Olom
 
 5. **Kvantitativní analytika (modely a metriky)** – od 15. 10. 2026 z [[Zdroj – Soccermatics]]: [[Expected goals (xG)]], [[Possession value a Markovovy řetězce]], [[Pasové sítě a prostorové mapy]], [[Pressing a kolektivní pohyb]], [[Half-spaces a taktická geometrie]], [[Predikce a pravděpodobnostní modely]], [[Datový skauting – metriky a úskalí]]. Doplňuje Barça kurz (metodika) o čísla, validaci a lekce z klubů (Leicester vs. Villa, [[Brentford a FC Midtjylland]]) → [[Soccermatics – návrhy pro Sigmu]].
 
+6. **Rozhodování a organizace (lidé, skauting, strategie)** – od 15. 10. 2026 z [[Zdroj – Football Hackers]]: [[Kognitivní zkreslení v hodnocení]], [[Výkon vs. výsledek a role náhody]], [[Packing]], [[Goalimpact a plus-minus]], [[Kognitivní trénink]], [[Osobnostní profily hráčů]], [[Strategie menšího klubu]]; entity [[Impect]], [[21st Club]]. Spojuje modely ze Soccermatics s praxí klubů: jak data prosadit, jak nehodnotit podle výsledku a jak menší klub hledá výhodu → [[Football Hackers – návrhy pro Sigmu]].
+
 Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři chtějí informace, ne čísla“) – Barça kurz to potvrzuje: filtrovat, každé zjištění s doporučením, společný jazyk ([[Taktická komunikace]]).
 
 ## Hlavní napětí a mezery
@@ -31,6 +33,8 @@ Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři cht�
 - **Vlastní video tagging a analytické oddělení** – metodika je teď ve wiki, ale není jasné, kdo v Sigmě vlastní tagging, jaký software a pod koho oddělení spadá → [[Otevřené otázky]].
 
 - **Validace analytiky** – Soccermatics upozorňuje, že metody bývají neprokázané a vzorky malé; Sigma zatím nemá proces, jak ověřovat doporučení (skauting, hodnocení) → [[Predikce a pravděpodobnostní modely]].
+
+- **Outcome bias v rozhodování** – Football Hackers ukazuje, že hodnocení trenérů, hráčů i zápasů podle výsledku je hlavní zdroj chyb; Sigma zatím nemá „tabulku spravedlnosti“ ani procesní KPI pro vedení → [[Výkon vs. výsledek a role náhody]].
 
 ## Mimo fotbal
 

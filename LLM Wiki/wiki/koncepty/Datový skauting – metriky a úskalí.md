@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [skauting, recruitment, metriky, herni-data]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Datový skauting – metriky a úskalí
@@ -36,6 +36,22 @@ Jak kluby používají statistiky při hledání hráčů, jaké metriky dávaj�
 > [!note] Aktualita (poznámka LLM – ověřit)
 > Radary a „spreadsheet scouting“ nahradily percentilové dashboardy, role-based modely a ML vyhledávání podobných hráčů. Postupy lidí a klubů v knize jsou stav 2016–17.
 
+## Praxe 2017–2019 (Football Hackers)
+
+Podle [[Zdroj – Football Hackers]] (Kap. 6):
+- **Datový předvýběr je standard:** Dortmund dostával ~2 500 nabídek hráčů za sezónu; přes [[Wyscout]] (předtagované video, ~40 000 hráčů) a data umí top kluby do 24 h sestavit e-dossier (data + video min. ze 3 zápasů) a ušetří zbytečné cesty. Agent už nemůže „prodat“ průměrného hráče sestřihem s hudbou.
+- **Matchmetrics / Scoutpanel (Sven Mislintat, Dortmund):** hřiště rozdělené na **100 polí s vahou podle důležitosti** (zisk míče v malém vápně > ve středovém kruhu) → index hráče. Filtrování: minuty (≥ 200) → věk → post (nadkategorie „defensive left winger“) → kvalitativní filtry (celkový index, 1v1, zakončení, centry) → hrstka jmen. Ligový koeficient **0,7–1** podle výsledků v evropských pohárech; maximum 10, top hráč nižší ligy ~7 – přenositelnost do vyšší ligy je subjektivní úsudek skauta. Mislintat často vypínal filtr zemí, aby nepřišel o talenty.
+- **Sobiechův paradox:** první verze modelu zařadila do „týmu sezóny“ průměrného stopera Fürthu – jeho tým bránil hluboko a pouštěl nejvíc centrů v lize, takže měl hodně odvrácených míčů. **Akce hráče je nutné vztáhnout k akcím týmu** (podíl na obranných akcích týmu; u útočníků naopak víc příležitostí v dominantních týmech) → [[Normalizace herních dat]].
+- **Stability:** konzistence výkonu (Lahm = maximum). Mladý hráč s vysokou variabilitou mezi průměrem a špičkou je příležitost (Dembélé); 24letý s velkými výkyvy už spíš riziko (Philipp Max, [[Packing]]).
+- **Similar Players** – hledání podle podobnosti profilu (Kanté → Torreira).
+- **Prezentace rozhoduje o přijetí:** stejná data v Excelu nikoho nezajímala, s atraktivním rozhraním na iPadu je chtěl každý.
+- **StatDNA (Arsenal):** ruční kódování detailů (lepší noha, pozice brankáře, obránci mezi střelcem a brankou), kategorie **Defensive Errors** (pomalost, špatné postavení, špatné natočení těla) → nalezení nenápadně solidních obránců (Mertesacker). Zpětná analýza ukázala, že data by varovala před drahými omyly (Chamakh – „hot streak“ ze střel z nízkého xG; Park Chu-young). Mislintat: model podhodnocuje fyzicky soubojové obránce.
+- **Kde data nestačí:** skenování prostoru (Weigl se před převzetím třikrát rozhlédl), odvaha, nervy, leadership (Guendouzi), hráč ve „špatném“ týmu, motivace a strachy. Výběr hráče, kterého data zpochybnila, může dopadnout skvěle (Midtjylland: Sörloth, Sanneh – doporučili skauti).
+- **Tým skautů:** mix pohledů – starý přísný skaut i mladý trenér; na finálního kandidáta poslat všechny, každý se svými kritérii. „Nikdy jen Moneyball, ale ani bez matematiky – jinak zbudou jen subjektivní názory“ (Mislintat, parafráze).
+- **Transfer exchange rate:** porovnání lig přes Club Elo (leden 2019: La Liga 1 736, PL 1 709, BL 1 680 … 2. BL 1 460, Švýcarsko 1 458, Eredivisie 1 424); vybírat ligy odpovídající vlastní úrovni. Midtjylland koupil Sparva z 2. BL, kterou model hodnotil jako dánskou špičku. Kontext: víc Srbů než Maďarů v top ligách při podobné úrovni lig – možná kvůli agentům, ne kvalitě.
+- **Avoid costly mistakes:** vyhnout se drahému omylu je skoro důležitější než najít podhodnoceného hráče (Renato Sanches – efektní, ale defenzivně slabý pro post šestky).
+- Plus-minus přístup → [[Goalimpact a plus-minus]]; super-skauti (Walsh, Campos, Monchi, Mislintat) jsou dnes přestupovaným „zbožím“.
+
 ## Souvislosti
 
-[[Skauting – proces a reporting]] · [[Vstupní diagnostika hráče]] · [[Postové profily]] · [[Thresholdy a benchmarky]] · [[Brentford a FC Midtjylland]] · [[StatsBomb]] · [[Opta]]
+[[Skauting – proces a reporting]] · [[Vstupní diagnostika hráče]] · [[Postové profily]] · [[Thresholdy a benchmarky]] · [[Brentford a FC Midtjylland]] · [[StatsBomb]] · [[Opta]] · [[Packing]] · [[Goalimpact a plus-minus]] · [[Kognitivní zkreslení v hodnocení]] · [[Impect]]

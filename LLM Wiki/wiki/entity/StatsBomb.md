@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [datovy-zdroj, herni-data]
-zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # StatsBomb
@@ -16,6 +16,13 @@ Zakladatel **Ted Knutson** popularizoval **radary hráčů** (útočníci: dribb
 
 > [!note] Aktualita (poznámka LLM – ověřit)
 > Dnes je StatsBomb (Hudl) poskytovatel dat s freeze-frame xG, StatsBomb 360 a OBV.
+
+## Zmínky ve Football Hackers
+
+- Blog statsbomb.com jako centrum komunity: **Colin Trainor** (bankovní auditor ze Severního Irska) zde analyzoval krizi Dortmundu 2014/15 – xG, xPoints, **After Shot xG**, **PPDA** → [[Výkon vs. výsledek a role náhody]], [[Pressing a kolektivní pohyb]].
+- Ted Knutson (dříve Smartodds) přeměnil blog na **StatsBomb IQ** – vlastní sběr dat a analýzy na míru; nabízí pokročilý xG model, který víc zohledňuje obránce.
+
+Zdroj: [[Zdroj – Football Hackers]] (Kap. 2, 5, 8).
 
 ## Souvislosti
 

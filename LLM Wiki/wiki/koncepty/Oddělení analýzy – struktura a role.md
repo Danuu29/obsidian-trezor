@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [datove-oddeleni, organizace, role, strategie, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Oddělení analýzy – struktura a role
@@ -65,6 +65,21 @@ Podle [[Zdroj – Soccermatics]] (Kap. 14–15):
 - **Nábor:** veřejné portfolio / blog („Start writing! My blog was effectively my CV“), kombinace fotbalu a techniky; otevřená data a hackathony (#HackMCFC) jako pipeline.
 - Lobanovskyj (Dynamo Kyjev): statistické cíle pro hráče a jejich plnění **vyvěšené na nástěnce** – raný příklad hráčských KPI.
 
+## Lekce z Football Hackers (2019)
+
+Podle [[Zdroj – Football Hackers]] (Kap. 3, 5, 6, 8):
+- **Bez podpory shora to nefunguje:** mnoho klubů PL najalo analytiky jen proto, aby nevypadaly zastarale; jejich práce v rozhodování hraje malou roli a reporty často nikdo nečte (Anderson & Sally). Analytika musí být součástí manažerské strategie od vedení.
+- **Trenéři vs. sportovní ředitelé:** trenéři tráví s týmem tolik času, že přidaná hodnota čísel o vlastním týmu je pro ně menší; sportovní ředitelé a recruitment po datech „hladoví“ – často chtějí **jedno číslo** na hráče.
+- **Analytik myslí jako trenér, trenér pracuje jako analytik** (Niemeyer, Bayern). Guardiola strávil se štábem analytiků hodiny až noci nad videem.
+- **Vizuální podoba výstupu rozhoduje** (Mislintat) → [[Principy vizualizace a reportingu]].
+- **Historie video analýzy:** z handbalu Dortmundu (studenti stříhající videa) → firma Sports Analytics, kamery na celé hřiště, poločasové klipy v Bayernu (Henke 2008), Van Gaal nahrával všechny tréninky (od 2009) → Bayern má „vizuální knihovnu“ práce Van Gaala, Heynckese, Guardioly, Ancelottiho. Video změnilo fotbal víc než jakákoli jiná technologie.
+- **„Big data hangover“ (MIT Sloan 2017):** po prvním nadšení kluby nenajímaly analytiky; základní KPI výsledek nepředpovídaly. DFB analytik Clemens po MS 2014: dostupná data jen popisují minulost, musí se generovat data, která nejsou samozřejmá.
+- **Kondiční data se prosadila nejdřív** – pracují s nimi sportovní vědci zvyklí na čísla a trenéři vidí přímý užitek (fit hráči).
+- **Kvalita dat:** různí provideři různé definice (co je vyhraný souboj) i hodnoty (Brazílie–Mexiko, MS 2018: naběhaná vzdálenost 93, 97 a 105 km podle zdroje) → [[Typy sportovních dat a datová architektura]].
+- **Výzkumná oddělení:** Liverpool (Ian Graham, PhD fyzika, od 2012), City, Bayern – tajně; Barcelona naopak otevřeně přes [[Barça Innovation Hub]]. Ijtsma čeká, že nejlepší nápady zmizí za zavřenými dveřmi → propast mezi velkými a malými kluby roste.
+- **Kompetence lidí:** kluby potřebují lidi kompetentní, důvěryhodné a věřící v misi (Anderson); outsider potřebuje „poručíka“ s kabinovou zkušeností (Coventry: Mark Venus). Almstadt (Arsenal) pracoval pro Wengera nenápadně; skauti ho nepřijali.
+- **Koupě technologií pod vlivem social proof:** kluby kupují, co kupují ostatní, a nedokážou posoudit přínos → měřit dopad.
+
 ## Souvislosti
 
-[[Typy sportovních dat a datová architektura]] · [[Tagging a code window]] · [[Analýza soupeře – metodika]] · [[Skauting – proces a reporting]] · [[Yarmill]] · [[Analytické balíčky Yarmill]]
+[[Typy sportovních dat a datová architektura]] · [[Tagging a code window]] · [[Analýza soupeře – metodika]] · [[Skauting – proces a reporting]] · [[Yarmill]] · [[Analytické balíčky Yarmill]] · [[Kognitivní zkreslení v hodnocení]] · [[21st Club]]

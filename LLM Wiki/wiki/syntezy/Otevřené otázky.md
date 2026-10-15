@@ -47,6 +47,16 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Kdo navrhuje váhy skóre v skautském reportu a kde je to zdokumentované? → [[Skauting – proces a reporting]]
 - Které návrhy z knihy prioritizovat? → [[Soccermatics – návrhy pro Sigmu]]
 
+## Rozhodování, skauting a organizace (z Football Hackers)
+
+- Zavést „tabulku spravedlnosti“ (xG/xPoints) jako podklad pro vedení? Kdo ji bude číst a jak komunikovat navenek? → [[Výkon vs. výsledek a role náhody]]
+- Které kognitivní zkreslení ošetřit v hodnocení hráčů a skautingu nejdřív (slepé hodnocení, nezávislé známky, zapisování predikcí)? → [[Kognitivní zkreslení v hodnocení]]
+- Packing / Impect, nebo xThreat ze SkillCorneru jako hlavní metrika progrese? → [[Packing]]
+- Kognitivní testy v akademii – který test, kdo ho vyhodnotí, patří do karty hráče? → [[Kognitivní trénink]]
+- Osobnostní profily ano/ne a pro koho (štáb, A-tým, akademie)? → [[Osobnostní profily hráčů]]
+- Kde je Sigma v evropské pyramidě klubů a jaká z toho plyne recruitment strategie? → [[Strategie menšího klubu]]
+- Které návrhy z knihy prioritizovat? → [[Football Hackers – návrhy pro Sigmu]]
+
 ## Náměty k průzkumu (pro web / literaturu)
 
 - EWMA vs. ACWR pro sledování zátěže
@@ -58,3 +68,7 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Aktuální stav pressing metrik a counter-press norem (po 2016) – PPDA vs. tracking
 - Executive functions / design fluency test u mládeže (Vestberg et al. 2012 a navazující studie)
 - Thom Lawrence – defenzivní „patch“ metrika (původní blog Deep XG), možné použití pro obránce
+- Aktuální nabídka a cena Impect / Goalimpact pro českou ligu a mládež
+- Fernández, Bornn, Cervone (2019) – EPV framework; Link et al. (2016) – Dangerousity (PLOS ONE)
+- Memmert – Raumkontrolle (Voronoi) a dostupné implementace pitch control
+- Vídeňský testový systém a ExF-Score – validita pro predikci výkonu u mládeže

@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [skauting, reporting, aplikace]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – FIFA Talent ID Guide]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – FIFA Talent ID Guide]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
 aktualizovano: 2026-10-15
 ---
 # Skauting – proces a reporting
@@ -39,4 +39,4 @@ Datová mapa týmu, charakter soutěží, tržní hodnota hráče z herních dat
 
 ## Souvislosti
 
-[[SkillCorner]] · [[StatsBomb]] · [[Long list a short list]] · [[Skautingové prostředí]] · [[Vstupní diagnostika hráče]] · [[Analytické balíčky Yarmill]] (modul Skauting)
+[[SkillCorner]] · [[StatsBomb]] · [[Long list a short list]] · [[Skautingové prostředí]] · [[Vstupní diagnostika hráče]] · [[Analytické balíčky Yarmill]] (modul Skauting) · [[Kognitivní zkreslení v hodnocení]] · [[Goalimpact a plus-minus]] · [[Packing]]
