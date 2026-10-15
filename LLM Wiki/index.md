@@ -15,6 +15,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Barça kurz – návrhy pro Sigmu]] – co z kurzu match analysis přenést do aplikací, reportů a datového oddělení (návrhy)
 - [[Soccermatics – návrhy pro Sigmu]] – kvantitativní nástroje, pressing KPI, datový skauting a validace (návrhy)
 - [[Football Hackers – návrhy pro Sigmu]] – tabulka spravedlnosti, zkreslení, progresivní metriky, skautský modul, kognice (návrhy)
+- [[The Numbers Game – návrhy pro Sigmu]] – nejslabší článek, body z gólů, ztráty, střídání, odvolání trenéra, onboarding (návrhy)
 
 ## Entity
 
@@ -98,6 +99,14 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Osobnostní profily hráčů]] – čtyři barvy (Midtjylland), Reiss, Tuchel
 - [[Strategie menšího klubu]] – Fosbury přístup, mzdy vs. přestupy, pyramida klubů, 21st Club
 
+### Kádr, styl a trenéři (The Numbers Game)
+
+- [[Teorie slabého článku (O-ring)]] – nejslabší hráč rozhoduje víc než hvězda; 5 možností, co s ním; Köhlerův efekt
+- [[Hodnota gólu – útok vs. obrana]] – S-křivka gólů a bodů, body z gólů útočníků, čisté konto > gól (0 > 1), princip Maldini
+- [[Držení míče a ztráty]] – „držení je množné“, ztráty > držení, obtížnost přihrávky, Reep a přímá hra, Stoke
+- [[Střídání a vyloučení]] – cena červené karty (≈ domácí výhoda), pravidlo <58<73<79, únava a pacing
+- [[Vliv trenéra a jeho výměna]] – mzdy vs. trenér (~15 %), zkušenost, přenositelnost výkonu, odvolání = regrese k průměru
+
 ## Projekty
 
 - [[Aplikace – Analýza soupeře]] – AI příprava na utkání (Zápasová strategie) · vývoj
@@ -123,5 +132,6 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – Barça Match Analysis]] | `LLM Wiki/raw/Barca Match Analysis/` (16 PDF) | 2026-10-15 |
 | [[Zdroj – Soccermatics]] | `LLM Wiki/raw/Soccermatics (Sumpter 2016).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – Football Hackers]] | `LLM Wiki/raw/Football Hackers (Biermann 2019).pdf` (kniha) | 2026-10-15 |
+| [[Zdroj – The Numbers Game]] | `LLM Wiki/raw/The Numbers Game (Anderson, Sally 2013).pdf` (kniha) | 2026-10-15 |
 
 Neingestováno: `Apple Notes/Sigma Olomouc ⚽/` (duplikáty), `Markdown – tahák.md`, `_Přehled úprav.md`, PDF a obrázky v `Apple Notes/` (zatím jen odkazované – kandidáti na samostatný ingest: *4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*).

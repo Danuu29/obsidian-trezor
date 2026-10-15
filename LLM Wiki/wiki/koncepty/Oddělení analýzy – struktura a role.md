@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [datove-oddeleni, organizace, role, strategie, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Oddělení analýzy – struktura a role
@@ -79,6 +79,19 @@ Podle [[Zdroj – Football Hackers]] (Kap. 3, 5, 6, 8):
 - **Výzkumná oddělení:** Liverpool (Ian Graham, PhD fyzika, od 2012), City, Bayern – tajně; Barcelona naopak otevřeně přes [[Barça Innovation Hub]]. Ijtsma čeká, že nejlepší nápady zmizí za zavřenými dveřmi → propast mezi velkými a malými kluby roste.
 - **Kompetence lidí:** kluby potřebují lidi kompetentní, důvěryhodné a věřící v misi (Anderson); outsider potřebuje „poručíka“ s kabinovou zkušeností (Coventry: Mark Venus). Almstadt (Arsenal) pracoval pro Wengera nenápadně; skauti ho nepřijali.
 - **Koupě technologií pod vlivem social proof:** kluby kupují, co kupují ostatní, a nedokážou posoudit přínos → měřit dopad.
+
+## Lekce z The Numbers Game (2013)
+
+Podle [[Zdroj – The Numbers Game]] (Úvod, Kap. 7, 12) – pohled z doby, kdy analytici v klubech teprve začínali:
+- **Everton (Brown, Graley):** před zápasem rozbor nejméně 5 zápasů soupeře (data Prozone + video) → souhrn pro trenéra, který ho dál zkrátí pro tým; individuální příprava hráčů na přímého protihráče; pozápasový rozbor s trenéry. Kancelář analytiků byla „jedna z mnoha na chodbě do jídelny“ – role bez jasného místa v hierarchii.
+- **Köln SportLab (Notzon):** 3 analytici na plný úvazek a 30 na částečný z 15 zemí, data pro A-tým, rezervu i mládež. Všechny kluby 1. a 2. Bundesligy měly data od Impire, ale málokterý je používal.
+- **Opta (Coulson):** přijetí video analýzy trvalo 10 let („nemůže trenérům ukázat nic, co nevědí“); další krok – data pro taktiku a recruitment – byl teprve v začátcích. **Rosenfeld (StatDNA):** data musí být dost složitá, aby odrážela hru, a dost jednoduchá, aby šla sbírat; „vysoká prémie za vhled“.
+- **Analytika ≠ statistika:** je to způsob myšlení a práce s informacemi – kolik a jaké informace klub má, jak je čte a co s nimi udělá.
+- **Hromady dat bez vhledu:** firmy chtějí prodávat a kluby chtějí působit moderně → hodně dat, málo poznání. Brunkhart (Match Analysis): „Chceme vyřešit fotbal, najímáme stážistu, můžete nám dát data?“ Odstrašující příklad: „Moneyball“ v Liverpoolu (Comolli).
+- **Předpovědi na dekádu (Kap. 12):** průlomy mimo nejbohatší kluby; žádný jeden „Bill James“, spíš mnoho menších vhledů; mnohonásobně víc dat (GPS, tracking); analýza prostoru – sítě a **trojúhelníky** (hráč s míčem, příjemce, hráč mimo míč, který nejvíc narušuje obranu) místo počítání událostí; **„150–4–4–2“** – výhodu dá organizace všech ~150 lidí kolem týmu; sportovní ředitel jako partner trenéra; silný odpor tradice.
+
+> [!note] Aktualita (poznámka LLM)
+> Většina předpovědí se naplnila: tracking a pozice hráčů jsou dnes běžně dostupné (i z videa – [[SkillCorner]]) a sportovní ředitelé jsou standard.
 
 ## Souvislosti
 

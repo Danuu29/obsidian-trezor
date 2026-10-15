@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [skauting, recruitment, metriky, herni-data]
-zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Datový skauting – metriky a úskalí
@@ -51,6 +51,16 @@ Podle [[Zdroj – Football Hackers]] (Kap. 6):
 - **Transfer exchange rate:** porovnání lig přes Club Elo (leden 2019: La Liga 1 736, PL 1 709, BL 1 680 … 2. BL 1 460, Švýcarsko 1 458, Eredivisie 1 424); vybírat ligy odpovídající vlastní úrovni. Midtjylland koupil Sparva z 2. BL, kterou model hodnotil jako dánskou špičku. Kontext: víc Srbů než Maďarů v top ligách při podobné úrovni lig – možná kvůli agentům, ne kvalitě.
 - **Avoid costly mistakes:** vyhnout se drahému omylu je skoro důležitější než najít podhodnoceného hráče (Renato Sanches – efektní, ale defenzivně slabý pro post šestky).
 - Plus-minus přístup → [[Goalimpact a plus-minus]]; super-skauti (Walsh, Campos, Monchi, Mislintat) jsou dnes přestupovaným „zbožím“.
+
+## Doplnění z The Numbers Game (2013)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 3, 4, 5, 8, 11):
+- **Nejslabší článek:** zlepšení nejslabšího hráče sestavy přinese víc bodů než zlepšení nejlepšího → [[Teorie slabého článku (O-ring)]].
+- **Útočníci podle bodů, ne gólů:** góly za stavu, kdy rozhodují (první, druhý), mají větší cenu než góly do rozhodnutého zápasu (Darren Bent vs. Torres) → [[Hodnota gólu – útok vs. obrana]].
+- **Obránci podle toho, čemu zabránili:** málo skluzů může být znak kvality (Maldini, Stam).
+- **Přesnost přihrávek** očistit o obtížnost – po očištění jsou hráči skoro stejní; rozhoduje, jak se dostanou do prostoru (Rosenfeld) → [[Držení míče a ztráty]].
+- **Přenositelnost výkonu:** po přestupu výkon klesá, protože závisí na spoluhráčích a systému (Groysberg: 89 % vs. 69 % špičkových analytiků si udrželo hodnocení); počítat s adaptací a plánovat integraci → [[Vliv trenéra a jeho výměna]].
+- **Technický skaut** (Steven Houston, Hamburg; dříve NBA) – raný příklad skauta pracujícího s daty.
 
 ## Souvislosti
 

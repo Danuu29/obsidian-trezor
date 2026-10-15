@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [hodnoceni, metodika, mladez, idp]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Hodnocení hráčů – metodika
@@ -32,6 +32,13 @@ Jak trenéři v Sigmě číselně a slovně hodnotí hráče. Hotová je škála
 
 > [!warning] Rozpor / nerozhodnuto
 > Škála 1–5 vs. 1–10: na jedné poradě „5 bodů stačí“, na jiné nerozhodnuto. → [[Rozpory a nesrovnalosti]]
+
+## Poznámky z The Numbers Game
+
+*Návrh LLM podle [[Zdroj – The Numbers Game]]:*
+- Při hodnocení týmu sledovat vedle průměru i **nejslabší článek** a rozptyl kvality v sestavě → [[Teorie slabého článku (O-ring)]].
+- U obránců hodnotit i to, čemu zabránili (pozice), ne jen viditelné zákroky; u útočníků body z gólů → [[Hodnota gólu – útok vs. obrana]].
+- Hodnocení po jednom zápase podléhá **regresi k průměru** – výrazně dobrý či špatný výkon bývá následován průměrnějším; závěry dělat z delšího období → [[Kognitivní zkreslení v hodnocení]].
 
 ## Otevřené otázky
 

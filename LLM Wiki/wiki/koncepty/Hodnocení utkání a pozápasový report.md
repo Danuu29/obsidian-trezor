@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [utkani, reporting, herni-data]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Hodnocení utkání a pozápasový report
@@ -45,6 +45,14 @@ Góly přicházejí náhodně (Poisson) – jednotlivý zápas je silně ovlivn�
 - Midtjylland: model hodnotí výkon i po výhře; trenér je kritizován za slabý výkon i při výhře a chráněn při smolné porážce → [[Výkon vs. výsledek a role náhody]].
 - Krawietz kontroloval styl přes **počet přihrávek** (~600 v dominantním zápase; víc = spíš sterilní držení) a poměr centrů z obou stran.
 - Moyes chtěl „600 přihrávek místo 400“ – Ferdinand: radši 5 gólů z 10 přihrávek. Metrika, která se stane cílem, mění chování (srov. Goodhart v [[Expected goals (xG)]]).
+
+## Ztráty, góly a karty (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 1, 3, 5, 9):
+- **Ztráty míče** mají k výsledku silnější vztah než procento držení (méně ztrát než soupeř: 28 % proher, víc ztrát: 48 %) → [[Držení míče a ztráty]].
+- Víc střel než soupeř vede k výhře jen ve 47 % zápasů → hodnotit kvalitu šancí, ne počet.
+- Body podle gólů mají tvar S-křivky – rozhoduje druhý vstřelený i druhý obdržený gól → [[Hodnota gólu – útok vs. obrana]].
+- Červená karta stojí ~0,42 bodu (jako hrát venku místo doma); střídání při prohře se vyplácí dřív → [[Střídání a vyloučení]].
 
 ## Souvislosti
 

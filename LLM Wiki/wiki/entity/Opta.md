@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [datovy-zdroj, herni-data, event-data, provider]
-zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Opta
@@ -28,6 +28,15 @@ Sigma Optu nepoužívá; event data má z [[Wyscout]], zvažuje [[StatsBomb]] �
 - Brazílie–Mexiko (MS 2018): tři provideři, tři různé naběhané vzdálenosti → kvalita a definice dat.
 
 Zdroj: [[Zdroj – Football Hackers]] (Kap. 2, 5, 6).
+
+## Zmínky v The Numbers Game
+
+- Opta založili v 90. letech manažerští konzultanti jako **index výkonu hráčů** (1996 v Sky Sports a Observeru, financoval Carling, odborník Don Howe). Brzy zjistili, že data mají větší hodnotu než publicita – nejdřív pro média, pak pro kluby.
+- Zpočátku trvalo zakódování zápasu ~4 hodiny (tužka a video). Finále LM 2010: **2 842 událostí** (~1 za 2 s), tři analytici – jeden na každý tým, třetí kontroloval.
+- Konkurence 2012: **Prozone** (Leeds) a **Amisco** (Francie; sloučeny 2011) – kamery nad hřištěm a tagování videa; **StatDNA** (USA, Rosenfeld, Rudd); Impire (Německo), Infostrada (Nizozemsko), Match Analysis (USA).
+- Data Opta jsou hlavním zdrojem většiny analýz knihy (držení, ztráty, góly a body, formace).
+
+Zdroj: [[Zdroj – The Numbers Game]] (Úvod, Kap. 2–5).
 
 ## Souvislosti
 

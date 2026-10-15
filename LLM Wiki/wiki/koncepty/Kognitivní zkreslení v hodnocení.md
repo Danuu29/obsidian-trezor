@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [rozhodovani, psychologie, hodnoceni, skauting, kognitivni-zkresleni]
-zdroje: ["[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Kognitivní zkreslení v hodnocení
@@ -38,6 +38,17 @@ Reinartz (Leverkusen) ukazoval, že tentýž výkon dostal v různých médiích
 
 Platí pro [[Hodnocení hráčů – metodika]] (slovní definice škály, víc hodnotitelů), [[Skauting – proces a reporting]] (nezávislá hodnocení před diskusí) a [[Hodnocení utkání a pozápasový report]] (nesoudit podle výsledku). Návrhy → [[Football Hackers – návrhy pro Sigmu]].
 
+## Další zkreslení (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Úvod, Kap. 4, 7, 9, 11):
+- **Motivované uvažování – „They Saw a Game“** (Hastorf & Cantril 1954): studenti dvou univerzit viděli na stejném záznamu jiný zápas – 86 % studentů Princetonu, ale jen 36 % studentů Dartmouthu vinilo z hrubé hry Dartmouth. Loajalita k týmu mění, co vidíme (a to nevědomě).
+- **Přehlížení toho, co se nestalo:** lidé hůř vnímají absenci události (Hearst). Proto podceňujeme obranu a „nepotřebné“ skluzy (Ferguson prodal Stama kvůli méně skluzům) → [[Hodnota gólu – útok vs. obrana]].
+- **Hot hand:** víra v „rozstřílenou ruku“ (Gilovich). *Aktualita (poznámka LLM):* Miller & Sanjurjo (2018) ukázali statistickou chybu v původní analýze – malý efekt série zřejmě existuje.
+- **Regrese k průměru:** po extrémním výkonu přijde průměrnější → zdá se, že trest funguje a chvála ne (Kahneman), a že odvolání trenéra pomáhá → [[Vliv trenéra a jeho výměna]].
+- **Ukotvení (anchoring):** trenér věří původní sestavě a střídá pozdě → [[Střídání a vyloučení]].
+- **Konvenční selhání je bezpečnější:** trenér, který zkusí nové (zónová obrana, Belichickův „fourth down“) a neuspěje, je kritizován víc než ten, kdo selže tradičně. Proto se drží neoptimální postupy.
+- **Mýty, které data vyvracejí:** „po gólu je tým nejzranitelnější“, „roh je skoro gól“, „víc střel = víc štěstí“ → [[Výkon vs. výsledek a role náhody]].
+
 ## Souvislosti
 
-[[Výkon vs. výsledek a role náhody]] · [[Datový skauting – metriky a úskalí]] · [[Predikce a pravděpodobnostní modely]] · [[Osobnostní profily hráčů]]
+[[Výkon vs. výsledek a role náhody]] · [[Datový skauting – metriky a úskalí]] · [[Predikce a pravděpodobnostní modely]] · [[Osobnostní profily hráčů]] · [[Vliv trenéra a jeho výměna]] · [[Střídání a vyloučení]]

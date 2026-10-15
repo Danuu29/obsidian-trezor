@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [herni-model, principy, sigma]
-zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Sigma Way
@@ -36,6 +36,10 @@ Doladit názvy (hlavně „Od odvahy k ochotě“), rozpracovat game model do po
 ## Pressing v datech (Soccermatics)
 
 Pravidlo represinku „do 6 s“ lze zpřesnit podle analýzy Prozone z PL: **1. hráč u míče do ~2,5 s, 2. do ~5,5 s**; v hlubokém bránění napadá jen jeden hráč, ostatní blokují kanály → [[Pressing a kolektivní pohyb]] (*návrh, čísla z roku 2015*). Pozor: „herní dominance“ ≠ držení míče jako cíl – držení samo góly mezi vyrovnanými týmy nepředpovídá, předpovídá je spíš pasová frekvence a xG ([[Predikce a pravděpodobnostní modely]]).
+
+## Držení a ztráty (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 5) souvisí s výsledky víc **počet ztrát** než procento držení; přesnost přihrávek určuje hlavně to, jak tým vytváří snadné přihrávky. Pro „herní dominanci“ Sigma Way je proto vhodnější KPI „nevracet míč soupeři“ než samotné držení (*návrh LLM*) → [[Držení míče a ztráty]].
 
 ## Souvislosti
 

@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [analyza-soupere, reporting, skauting, match-plan, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Analýza soupeře – metodika
@@ -65,6 +65,14 @@ Předem dohodnout s trenérem: **otázky – strukturu – formát – deadline*
 **G.T.P. (Vales Vázquez 2012)** – typ herního plánu: *build-up* (útočné, vysoké riziko) / *movement* (vyvážené) / *defensive* (nízké riziko). Kombinace dvou týmů predikuje „formát“ zápasu: build-up × build-up = otevřený (vysoké tempo, hodně zakončení), defensive × defensive = zavřený (časté přerušení), build-up × defensive = jednosměrná hra.
 
 Match plan těsně před zápasem může být velmi stručný: **podmínka → řešení** (např. „soupeř presuje → hrát do prostoru“).
+
+## Slabý článek soupeře (The Numbers Game)
+
+- Everton (2012): rozbor nejméně 5 předchozích zápasů soupeře (data + video), souhrn pro trenéra a individuální příprava hráčů na přímého protihráče.
+- **Hledat slabý článek soupeře** – hráče nebo vazbu, kterou lze cílit: Manchester United mířil odkopy van der Sara do zóny formou zasaženého Clichyho (Arsenal 2010). Krajního obránce jako „úkryt“ slabého hráče video analýza odhalí → [[Teorie slabého článku (O-ring)]].
+- Kontext stylu soupeře: čas, kdy je míč ve hře, a podíl dlouhých míčů (Stoke) → [[Držení míče a ztráty]].
+
+Zdroj: [[Zdroj – The Numbers Game]] (Úvod, Kap. 6, 9).
 
 ## Souvislosti
 

@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [nahoda, xG, hodnoceni, rozhodovani, treneri]
-zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Výkon vs. výsledek a role náhody
@@ -39,6 +39,20 @@ Ve fotbale se výkon a výsledek rozcházejí víc než v jiných míčových sp
 3. Oddělit smůlu od skutečných změn (Dortmund: obojí současně).
 4. Komunikovat to i navenek (Ankersen) – ale počítat s tlakem okolí.
 
+## Fotbal je 50/50 (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 1, Úvod) je fotbal **zhruba z poloviny štěstí a z poloviny dovednost**. Opírá se o několik nezávislých přístupů:
+- **Kurzy sázkových kanceláří (2010/11):** favorit ve fotbale vyhrává jen o málo víc než polovinu zápasů, v házené, NBA a NFL asi dvě třetiny, v baseballu 60 %. Medián kurzu favorita je ve fotbale **1,95** (házená 1,28, NBA 1,42, NFL 1,49). Favorit s výhodou 50 procentních bodů vyhraje ve fotbale 65 % zápasů, v basketbalu přes 80 %. Důvod: málo gólů a hodně remíz.
+- **Ben-Naim, Redner & Vazquez** (300 000 zápasů, anglická liga od 1888): fotbal je nejméně předvídatelný týmový sport; outsider vyhrál **45,2 %** zápasů.
+- **Heuer** (Bundesliga, 20 let): o výsledku rozhoduje nejdřív štěstí, pak kvalita a kondice, nakonec dynamika zápasu („momentum“). Zápas jako hod mincemi: počet pokusů určí kvalita kádru, střela je gólem asi v 1 z 8 případů.
+- **Skinner & Freeman** (MS 1938–2006): pokud zápas neskončí rozdílem 3–4 gólů, nelze s jistotou říct, že vyhrál lepší tým. „Kruhové“ trojice výsledků (A > B > C > A) tvořily 12 % (při čisté náhodě 25 %) → asi polovinu zápasů MS rozhodla náhoda.
+- **Spiegelhalter** (PL 2006/07, „zákon 48/26/26“ – domácí výhry, remízy, výhry hostů): asi polovina rozdílů v bodech je náhoda. S jistotou šlo do horní poloviny zařadit jen United a Chelsea; Watford byl nejhorší s pravděpodobností 77 %, sestupující Sheffield Utd jen s 30 % (Wigan a Fulham nebyly lepší, jen měly víc štěstí).
+- **Lames** (TU München, 2 500+ gólů): **44,4 % gólů** má viditelnou složku štěstí (odraz, teč, chyba soupeře); nejčastěji za stavu 0:0.
+- Tým s **víc střelami** vyhrál jen **47 %** zápasů (8 232 zápasů top 4 lig 2005–2011; Itálie a Německo 45 %); s víc střelami na branku 50–58 %.
+- **„Po vstřeleném gólu je tým nejzranitelnější“ je mýtus:** v 127 zápasech PL 1:1 padlo vyrovnání nejméně často hned po prvním gólu (Ayton & Braennberg).
+
+Důsledek podle autorů: trenér může jen **zvyšovat pravděpodobnost výhry** (Lillo: „odepřít štěstí co největší roli“). Správné rozhodnutí může dopadnout špatně (Belichick a „fourth down“) a hodnotit se má rozhodnutí, ne výsledek. Odvolání trenéra po propadu je často reakce na regresi k průměru → [[Vliv trenéra a jeho výměna]].
+
 ## Souvislosti
 
-[[Kognitivní zkreslení v hodnocení]] (outcome bias) · [[Hodnocení utkání a pozápasový report]] · [[Sezónní hodnocení týmu a soutěže]] · [[Brentford a FC Midtjylland]] · [[21st Club]]
+[[Kognitivní zkreslení v hodnocení]] (outcome bias) · [[Hodnocení utkání a pozápasový report]] · [[Sezónní hodnocení týmu a soutěže]] · [[Brentford a FC Midtjylland]] · [[21st Club]] · [[Vliv trenéra a jeho výměna]] · [[Hodnota gólu – útok vs. obrana]]

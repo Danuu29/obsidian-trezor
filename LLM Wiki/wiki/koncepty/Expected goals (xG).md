@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [herni-data, metrika, xG, strely]
-zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Expected goals (xG)
@@ -46,6 +46,15 @@ Podle [[Zdroj – Football Hackers]] (Kap. 2, 5):
 
 > [!info] Zpřesnění: dlouhodobé překonávání xG (Favre)
 > Stránka výše říká, že nadprůměrná konverze bývá neudržitelná. Favreho Gladbach však tři sezóny po sobě dával ~1,2 gólu na 1 xG (šance ~1 %, že jde o náhodu) a podobně Nice i Dortmund. Vysvětlení: tehdejší modely nezohledňovaly **počet obránců mezi střelcem a brankou (shot clarity)** a **tlak na střelce (shot pressure)** – Favreho týmy střílely s ≤ 2 hráči v cestě a soupeře nutily do střel pod tlakem. Nejde o rozpor, ale o **slepé místo modelu**: překonávání xG je udržitelné, pokud tým systematicky vytváří kvalitu, kterou model nevidí. Novější modely (StatsBomb, Opta) tyto faktory zahrnují ([[Zdroj – Football Hackers]], Kap. 5).
+
+## Konverze střel (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Úvod, Kap. 1, 6, 7) – doba před rozšířením xG:
+- **Gól z 1 z ~9 střel** je stabilní poměr už od Reepových dat (1953–67); Heuer odhaduje 1 z 8. I střely po rozích končí gólem asi v 1 z 9 případů.
+- Tým s víc střelami vyhraje jen 47 % zápasů → rozhoduje kvalita šancí, ne počet (argument pro xG).
+- **Délka akce:** střely po krátkých akcích jsou efektivnější (1 z 9 vs. 1 z 15), ale dlouhé akce přinesou víc střel; úspěšné týmy mají stejnou konverzi jako neúspěšné a o třetinu víc střel (Hughes & Franks) → [[Držení míče a ztráty]].
+- Penalta ~77 %, střela ze hry ~12 % (PL od 2009).
+- Wigan (Martínez) střílel záměrně z dálky (průměr ~24 m) – nízká kvalita šancí jako vědomá volba stylu → [[Strategie menšího klubu]].
 
 ## Souvislosti
 

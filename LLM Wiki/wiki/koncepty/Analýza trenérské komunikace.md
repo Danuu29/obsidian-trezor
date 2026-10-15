@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [koucink, trenéři, vzdelavani, ai]
-zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Zadání aplikací]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Analýza trenérské komunikace
@@ -15,6 +15,10 @@ Metodika hodnocení, jak trenér komunikuje v tréninku, z přepisu audia. Podkl
 3. **Otázky** – otevřené vs. uzavřené, zapojení hráčů do řešení.
 4. **Didaktické styly** – samostatné objevování, řízené objevování, sebehodnocení, s nabídkou, reciproční, direktivní, praktický; situační koučink.
 5. **Doporučení** – co udržet a rozvíjet, kde je prostor ke zlepšení.
+
+## Chvála, trest a regrese k průměru (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 11): Kahneman a instruktoři letectva – po pochvale výkon klesne, po křiku se zlepší, ale jen kvůli regresi k průměru. Trenéři jsou tak „statisticky odměňováni za trest“, což vede ke křiku a zastrašování (rozhovory Kelly & Waddington). Dobrý trenér předává znalosti klidně (Ferguson v poločase za 0:3: vysvětlil, jak soupeř zareaguje na kontaktní gól). Wooden: polovina promluv instrukce, přes 10 % ukázky → [[Vliv trenéra a jeho výměna]], [[Analýza tréninku – intervence trenéra]].
 
 ## Souvislosti
 

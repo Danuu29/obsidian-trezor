@@ -36,3 +36,8 @@ Zdroj: [[SK Sigma Olomouc/Analytická témata/Předsezóní testování|Předsez
 
 - Váha **reprezentace** jako kritéria – argumenty pro i proti, nerozhodnuto.
 - Velikost širší skupiny: 25, nebo 7–8?
+
+## Interpretace dat z analytických knih
+
+- **Zkušenost trenéra:** [[Zdroj – Football Hackers]] (Heidel, Mainz): „zkušenost je přeceňovaná“ vs. [[Zdroj – The Numbers Game]] (Bridgewater, Kahn & Goodall 2009): zkušenější trenéři a bývalí reprezentanti jsou v průměru efektivnější, hlavně se silnějším kádrem. *Možné vysvětlení (návrh):* u menšího klubu bez hvězd je výhoda zkušenosti menší. → [[Vliv trenéra a jeho výměna]], [[Strategie menšího klubu]]
+- **Hodnota standardek / rohů:** [[Zdroj – Football Hackers]]: standardky jako levná výhoda, do které se vyplatí investovat trénink vs. [[Zdroj – The Numbers Game]]: průměrný roh má po započtení rizika protiútoku skoro nulovou hodnotu, lepší může být krátká rozehrávka. Čísla si neodporují (~45–50 rohů na gól v obou zdrojích), liší se doporučení. Rozhodnout na datech Sigmy. → [[Standardní situace – analýza]]

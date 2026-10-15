@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [strategie, klub, recruitment, inovace, ekonomika]
-zdroje: ["[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Strategie menšího klubu
@@ -26,6 +26,9 @@ Jak klub s menším rozpočtem hledá výhodu proti bohatším – „asymetrick
 | **Obrácená akademie** | Brentford 2017 zrušil mládež (velké kluby mu braly talenty za ~30 000 £) a místo toho kupuje/půjčuje hráče, kteří se v akademiích PL nedostanou do A-týmu; založil B-tým s vlastním programem zápasů. Velké kluby jako „partneři“ |
 | **Marginal gains** | Tim Sparv (Midtjylland): lepší snídaně a obědy, umělá tráva, vířivka, víc tréninkových hřišť → méně zranění; úspěch jako součet malých zlepšení, ne „sexy“ změna rozestavení |
 
+> [!warning] Rozpor
+> „Zkušenost je přeceňovaná“ (Heidel) vs. data z [[Zdroj – The Numbers Game]], podle kterých zkušenost trenéra pomáhá, hlavně se silným kádrem → [[Vliv trenéra a jeho výměna]], [[Rozpory a nesrovnalosti]].
+
 ## Poznatky 21st Club (Kap. 8)
 
 - **Šířka kádru > jedna hvězda:** ztráta hvězdy stojí nejvýš ~0,1 bodu/zápas; jen 56 % posil se stane hráči základu.
@@ -47,6 +50,19 @@ Jak klub s menším rozpočtem hledá výhodu proti bohatším – „asymetrick
 
 Sigma je v evropské pyramidě klub „vývojářského“ typu → logické priority: akademie a prodej, chytrý recruitment z podhodnocených trhů, standardky, data jako filtr, systematičnost a klid v rozhodování. *Syntéza* → [[Football Hackers – návrhy pro Sigmu]], [[Sigma Way]], [[Future Blue]].
 
+## Guerilla fotbal: Wigan a Stoke (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 6, 7, 12):
+- **Mzdy a riziko sestupu** (PL, 20 let, data Deloitte): základní riziko je 15 % (3 z 20). S nadprůměrnými mzdami **7,2 %**, s podprůměrnými 21 %, s rozpočtem na úrovni Wiganu až **44 % za sezónu**. Wigan měl podle toho 95% šanci sestoupit během pěti sezón – a nespadl.
+- **Wigan (Martínez) 2010/11:** v polovině zápasů žádný gól ze hry; **2× víc gólů z rychlých protiútoků** a ~4× víc z přímých kopů než průměr; nejdelší průměrná vzdálenost střel v lize (~24 m), nejméně gólů z vápna (28 vs. 69 United); ani jednou 4–4–2 (hlavně 4–3–3), na záchranu 2012 přechod na 3–4–3; nejvíc zisků míče. Princip: překvapit soupeře a nenechat se překvapit.
+- **Stoke (Pulis):** nejmenší držení, nejvíc dlouhých míčů, nejméně času míče ve hře, auty Delapa; Pulis měl nejnižší přestupní výdaje na získaný bod ze všech dlouholetých trenérů PL → [[Držení míče a ztráty]].
+- **David a Goliáš** (Gladwell): slabší vyhrává, když **odmítne hrát podle pravidel silnějšího**; platí za to nesouhlasem „insiderů“. Velké inovace (W-M, catenaccio, zónová obrana, dlouhé míče) vznikly u týmů, které prohrávaly.
+- **„Fourth down“** (Romer; Kelley z Pulaski Academy): týmy NFL systematicky volí horší, ale konvenční možnost – kariérně je bezpečnější selhat tradičně.
+- **Strategie vs. taktika:** strategie = plán na sezónu, taktika = jednotlivý zápas; obojí na míru vlastnímu týmu a soupeři. Data obsahují **pravdu, ne návod**.
+- **Inovace z chudoby:** analytické průlomy podle autorů nepřijdou z nejbohatších klubů (Beane: „neměli jsme co ztratit“).
+- **Recruitment doma:** nejlepší ligy jsou v číslech stejné → domácí hráči mohou být levnější než hledání v exotických trzích (Kap. 12).
+- Podpora pro šířku kádru: zlepšit nejslabšího hráče přinese víc bodů než koupit hvězdu → [[Teorie slabého článku (O-ring)]].
+
 ## Souvislosti
 
-[[Brentford a FC Midtjylland]] · [[21st Club]] · [[Výkon vs. výsledek a role náhody]] · [[Struktura týmů A–B–C]] · [[Oddělení analýzy – struktura a role]]
+[[Brentford a FC Midtjylland]] · [[21st Club]] · [[Výkon vs. výsledek a role náhody]] · [[Struktura týmů A–B–C]] · [[Oddělení analýzy – struktura a role]] · [[Teorie slabého článku (O-ring)]] · [[Držení míče a ztráty]] · [[Vliv trenéra a jeho výměna]]

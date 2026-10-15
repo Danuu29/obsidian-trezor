@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [idp, rozvoj-hracu, akademie]
-zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Yarmill poznámky]]"]
+zdroje: ["[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Individuální rozvojový plán (IDP)
@@ -29,6 +29,13 @@ Zhodnotím → nastavím cíle → zapisuji (plán, komentáře k rozvoji a k z�
 ## Navazuje
 
 [[Kariérní plán]] (2–3 roky) · [[Postové profily]] · kalendář revizí (čtvrtletní kontrola skupin, zimní milník, mimořádná revize).
+
+## Talent, praxe a tým (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 9, 11):
+- **Talent není hlavně vrozený:** ve studii 250 mladých hudebníků nebyly rané „známky talentu“ rozdílné; výkon odpovídal množství praxe. Hodnotit v IDP i objem a kvalitu **záměrné praxe** („cvičit hlavou“), opatrně s ranými nálepkami.
+- **Köhlerův efekt:** slabší hráč podá víc vedle silnějšího, když se cítí pro tým nepostradatelný. **Učení od lepších:** větší rozptyl kvality v tréninkové skupině pomáhá rozvoji slabších (Franck & Nüesch, továrna Koret) → [[Teorie slabého článku (O-ring)]].
+- Hvězda skupiny, která tvrdě trénuje, zvedá ostatní; hvězda, která trénink podceňuje, je demotivuje.
 
 ## Otevřené otázky
 

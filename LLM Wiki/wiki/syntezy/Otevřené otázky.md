@@ -57,6 +57,16 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Kde je Sigma v evropské pyramidě klubů a jaká z toho plyne recruitment strategie? → [[Strategie menšího klubu]]
 - Které návrhy z knihy prioritizovat? → [[Football Hackers – návrhy pro Sigmu]]
 
+## Kádr, zápas a trenéři (z The Numbers Game)
+
+- Jak měřit nejslabší článek sestavy (hodnocení vs. herní data) a dát ho do recruitmentu? → [[Teorie slabého článku (O-ring)]]
+- Ztráty místo držení jako KPI – jak definovat ztrátu v datech Wyscoutu / SkillCorneru? → [[Držení míče a ztráty]]
+- Platí „při prohře střídat dřív“ i při pěti střídáních a pro Sigmu? → [[Střídání a vyloučení]]
+- Rohy Sigmy: do vápna, nebo krátce? (souvisí s rozporem v [[Rozpory a nesrovnalosti]]) → [[Standardní situace – analýza]]
+- Proces před výměnou trenéra (srovnání s xG a s propady bez výměny, deník rozhodnutí)? → [[Vliv trenéra a jeho výměna]]
+- Kdo v Sigmě odpovídá za integraci posil (onboarding)? → [[Vliv trenéra a jeho výměna]]
+- Které návrhy z knihy prioritizovat? → [[The Numbers Game – návrhy pro Sigmu]]
+
 ## Náměty k průzkumu (pro web / literaturu)
 
 - EWMA vs. ACWR pro sledování zátěže
@@ -72,3 +82,8 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Fernández, Bornn, Cervone (2019) – EPV framework; Link et al. (2016) – Dangerousity (PLOS ONE)
 - Memmert – Raumkontrolle (Voronoi) a dostupné implementace pitch control
 - Vídeňský testový systém a ExF-Score – validita pro predikci výkonu u mládeže
+- Hot hand po opravě (Miller & Sanjurjo 2018) – platí to i pro série ve fotbale?
+- Načasování střídání při pravidle 5 střídání – novější studie
+- Efekt odvolání trenéra – novější studie navazující na ter Weela (regrese k průměru)
+- Metriky „bodů z gólů“ a hodnoty akcí pro obránce (např. goals added) – dostupnost pro českou ligu
+- Přenositelnost výkonu po přestupu ve fotbale (Groysberg) – data o adaptaci posil

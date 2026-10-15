@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [trenink, koucink, analyza, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Analýza tréninku – intervence trenéra
@@ -31,6 +31,14 @@ Jak analyzovat a zlepšovat intervence realizačního týmu v tréninku (P1 M4 [
 ## Co měřit (návrh)
 
 Délka fází cvičení, počet a typ intervencí (dynamické/statické, otázky), čas přestaveb, podíl efektivního času. Přímo navazuje na [[Analýza trenérské komunikace]] a [[Aplikace – Analýza audio trenéra]] – kurz dává teoretický rámec pro dimenze „typy intervencí“ a „otázky“.
+
+## Instrukce, ukázky a plán (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 11):
+- Nejlepší univerzitní basketbaloví trenéři USA (John Wooden, Pat Summitt): **polovina promluv na tréninku byly instrukce**; u Woodena přes 10 % akcí tvořily **ukázky** správného a špatného provedení.
+- Wooden psal plán každého tréninku a záznam o něm porovnával se stejným dnem předchozích let.
+- Křik a strach („za chybu běhat“) působí účinně jen zdánlivě – kvůli regresi k průměru → [[Vliv trenéra a jeho výměna]].
+*Návrh LLM:* podíl instrukcí a ukázek jako měřitelný ukazatel v analýze tréninku a v [[Aplikace – Analýza audio trenéra]].
 
 ## Souvislosti
 

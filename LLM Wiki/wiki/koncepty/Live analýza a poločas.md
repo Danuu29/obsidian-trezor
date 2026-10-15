@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [live, zapas, tagging, polocas, barca]
-zdroje: ["[[Zdroj – Barça Match Analysis]]"]
+zdroje: ["[[Zdroj – Barça Match Analysis]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Live analýza a poločas
@@ -45,6 +45,13 @@ DFB časová osa: sestavy −75′, rozcvička −45′, tablet na lavičce běh
    - **chyby vs. úspěchy**, nebo
    - **individuálně vs. globálně** – s kontextem skóre (*quite for* +2 a víc / *balanced* remíza či ±1 / *quite against* −2 a víc) a rolí hráče (základ = celý 1. poločas nebo 60′; náhradník = jen 2. poločas nebo < 30′).
 - Zásady (Luque, Espar): nejdřív co bylo dobře, pak co špatně, pokyny formulovat jako **řešení, ne viníky**; krátké jasné myšlenky; zakončit důvěrou. U mládeže (Lagar): „talking circle“ s otázkami na individuální a kolektivní cíle.
+
+## Střídání a poločas (The Numbers Game)
+
+- Při prohře se vyplácí střídat dřív: pravidlo **<58<73<79** (Myers; z doby tří střídání) – únava hráčů není z lavičky vidět, protože šetří síly; střídající záložníci naběhají víc ve vysoké intenzitě → [[Střídání a vyloučení]].
+- Poločasová promluva: klidné vysvětlení plánu (Ferguson za 0:3 u Tottenhamu, výhra 5:3) místo křiku.
+
+Zdroj: [[Zdroj – The Numbers Game]] (Kap. 9, 11).
 
 ## Souvislosti
 

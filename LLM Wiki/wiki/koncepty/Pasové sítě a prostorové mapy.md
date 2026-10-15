@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [herni-data, vizualizace, pasove-site, analyza-soupere, event-data]
-zdroje: ["[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Pasové sítě a prostorové mapy
@@ -39,6 +39,13 @@ Delaunay triangulace (pasové trojúhelníky) a Voronoi zóny (prostor hráče) 
 > [!note] Aktualita (poznámka LLM – ověřit)
 > Pasové sítě jsou dnes standardní výstup Wyscoutu a StatsBombu; s tracking daty ([[SkillCorner]]) lze místo sítě realizovaných přihrávek kreslit **sítě dostupných přihrávek** (viz [[Pressing a kolektivní pohyb]]).
 
+## Doplnění z The Numbers Game
+
+- Týmy, jejichž pasová síť byla **centralizovaná do 1–2 hráčů**, dávaly méně gólů, i když šlo o jejich nejlepší hráče (PL od 2006/07, dvě sezóny) – vyváženost sítě je výhoda (pravděpodobně stejná studie jako Grund 2012 výše).
+- Anderson & Sally předpovídali **trojúhelník** jako základní jednotku analýzy: hráč s míčem, příjemce a hráč mimo míč, který nejvíc narušuje tvar obrany. Průkopníkem prostorového myšlení byl Lobanovskyj (hráči jako kameny v dámě, které se přesouvají podle ostatních).
+
+Zdroj: [[Zdroj – The Numbers Game]] (Kap. 8, 12).
+
 ## Souvislosti
 
-[[Analýza soupeře – metodika]] · [[Aplikace – Analýza soupeře]] · [[Principy vizualizace a reportingu]] · [[Wyscout]] (pass network, PPDA) · [[Plány analýzy (micro, meso, macro)]]
+[[Analýza soupeře – metodika]] · [[Aplikace – Analýza soupeře]] · [[Principy vizualizace a reportingu]] · [[Wyscout]] (pass network, PPDA) · [[Plány analýzy (micro, meso, macro)]] · [[Teorie slabého článku (O-ring)]]

@@ -1,7 +1,7 @@
 ---
 typ: entita
 tags: [klub, vzor, recruitment, analytika]
-zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Brentford a FC Midtjylland
@@ -35,6 +35,10 @@ Vzor pro klub menší velikosti: datový shortlist + skauting, standardky jako �
 - **Obrana trenéra přes xG** (Ankersen 2016, „tabulka spravedlnosti“) → [[Výkon vs. výsledek a role náhody]].
 - **Marginal gains** podle Sparva: jídlo, regenerace, kvalitní hřiště → [[Strategie menšího klubu]].
 - **Brentford:** zrušená akademie (2017) → B-tým a hráči odmítnutí akademiemi PL; specialista na standardky Nicolas Jover (10–15 min denně); velmi detailní dotazy agentům na hráče; chybný datový výběr trenéra (Dijkhuizen z Excelsioru); čtyři sezóny v top 10 Championship s jedním z nejnižších rozpočtů.
+
+## Poznámka z The Numbers Game
+
+Charles Reep, první fotbalový „účetní“ dat a otec teorie dlouhých míčů, pracoval jako analytik mimo jiné pro **Brentford** (a Wolves) – desítky let před Benhamovým projektem → [[Držení míče a ztráty]] ([[Zdroj – The Numbers Game]], Kap. 12).
 
 ## Souvislosti
 

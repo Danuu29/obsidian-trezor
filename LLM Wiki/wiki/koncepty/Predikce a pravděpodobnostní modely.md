@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [predikce, statistika, pravdepodobnost, rozhodovani, metodika]
-zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]"]
+zdroje: ["[[Zdroj – Soccermatics]]", "[[Zdroj – Football Hackers]]", "[[Zdroj – The Numbers Game]]"]
 aktualizovano: 2026-10-15
 ---
 # Predikce a pravděpodobnostní modely
@@ -48,6 +48,19 @@ Jak modelovat výsledky zápasů a sezóny, jak vyhodnocovat předpovědi (exper
 - Tipy si zapisovat předem a zpětně kontrolovat (lekce pokory).
 
 Zdroj: [[Zdroj – Football Hackers]] (Kap. 1–3) → [[Výkon vs. výsledek a role náhody]].
+
+## Poisson, zákon velkých čísel a konvergence lig (The Numbers Game)
+
+Podle [[Zdroj – The Numbers Game]] (Kap. 1–2):
+- **2,66 gólu na zápas** (top 5 lig 1993–2011) a Poissonovo rozdělení stačí k odhadu sezóny PL: ~30 zápasů 0:0, ~70 s jedním gólem, ~95 se dvěma, ~80 se třemi, ~55 se čtyřmi, ~50 s pěti a víc. Skutečnost má o něco víc 0:0 a 1:1, než Poisson čeká (PL 8,3 % bezbrankových vs. 7,7 % podle modelu) – týmy hrají na remízu.
+- Nejčastější výsledky PL 2001–2011: **1:1 (11,6 %)**, 1:0 (10,9 %), 2:1 (9,4 %), 2:0 (8,7 %), 0:0 (8,3 %), 0:1 (7,6 %).
+- **Zákon velkých čísel:** kdo hraje dost dlouho, zažije všechno – i obrat z 0:3 (Liverpool poprvé za 112 let v Istanbulu 2005). Extrémy nejsou zázraky.
+- **Vývoj gólů:** v anglické nejvyšší soutěži klesal průměr z ~4,5 (90. léta 19. stol.) na ~2,6 (1996), od 70. let je stabilní. Změny pravidel (ofsajd 1925, 3 body 1981, zákaz malé domů 1992) měly jen krátkodobý vliv. Pokles nevysvětluje ani rostoucí kvalita hráčů (Palacios-Huerta: stejný trend ve všech soutěžích, i když se rozdíly v kvalitě mezi nimi zvětšily). Vysvětlení: šíření taktiky a organizace.
+- **Ligy jsou vyrovnanější, ne méně:** průměrný gólový rozdíl v zápase klesl za sto let z více než 1 na méně než 0,5.
+- **Top 4 ligy jsou v číslech skoro stejné** (2010/11): 425–449 přihrávek, 13–14,5 střel, 4,4–4,8 na branku, ~5 rohů, 0,14 penalty na tým a zápas. Liší se fauly (PL 24 vs. La Liga 34) a žluté karty (3,2 vs. 5,1). Rozdíly mezi ligami jsou menší než meziroční výkyvy; v nižších ligách (Eredivisie, Ligue 1, MLS) jsou větší.
+
+> [!note] Aktualita (poznámka LLM – ověřit)
+> Předpověď „stabilně ~1 000 gólů za sezónu PL“ (Kap. 12) nevyšla: v posledních sezónách padá v PL výrazně víc gólů. Stabilita gólovosti tedy není trvalý zákon.
 
 ## Souvislosti
 
