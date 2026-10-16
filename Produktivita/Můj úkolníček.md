@@ -85,6 +85,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,true,true,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,true]}
 ```
 %%

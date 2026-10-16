@@ -11,7 +11,7 @@ archiv: true
 > [!note] Archivní snímek
 > Složka `Úkoly/` je od 2026-10-16 z wiki vyloučena (viz [[CLAUDE]]) – úkoly se mění denně a jejich stav žije v kanbanu. Tato stránka je jen snímek k 2026-10-15 a dál se neaktualizuje; tvrzení o „aktuálních prioritách“ jinde ve wiki ber jako stav k tomuto datu.
 
-Úkolníčky Danů – kanban [[Úkoly/Můj úkolníček|Můj úkolníček]] a seznam [[Úkoly/✏️Tasky ke zpracování|✏️ Tasky ke zpracování]]. Wiki z nich nepřebírá jednotlivé úkoly (ty žijí v kanbanu), ale **mapuje, které projekty a koncepty jsou aktivní**.
+Úkolníčky Danů – kanban [[Můj úkolníček|Můj úkolníček]] a seznam [[Produktivita/✏️Tasky ke zpracování|✏️ Tasky ke zpracování]]. Wiki z nich nepřebírá jednotlivé úkoly (ty žijí v kanbanu), ale **mapuje, které projekty a koncepty jsou aktivní**.
 
 ## Stav k 2026-10-15 (snímek)
 
