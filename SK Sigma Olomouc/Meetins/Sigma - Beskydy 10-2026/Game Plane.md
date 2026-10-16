@@ -1,3 +1,18 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ostravice (přepis)|Ostravice (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ofenzivní principy (přepis)|Ofenzivní principy (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní princip (přepis)|Defenzivní princip (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní principy 2 (přepis)|Defenzivní principy 2 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 2 (přepis)|Večerka Freud 2 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 3 (přepis)|Večerka Freud 3 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 4 (přepis)|Večerka Freud 4 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 5 (přepis)|Večerka Freud 5 (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 # Zápis z výjezdu akademie: herní principy, vize a rozvoj hráčů
 
 ---
@@ -247,3 +262,16 @@ Kontext: FIFA chce doplnit slide se „strategickým domem“. Základem jsou ho
 ---
 
 Sigma Way jsem dal na začátek, protože je hlavním výstupem. Názvy pilířů jsem sjednotil podle tvých poznámek. Pokud chceš, převedu zápis do sdíleného dokumentu.
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ostravice (přepis)|Ostravice]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ofenzivní principy (přepis)|Ofenzivní principy]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní princip (přepis)|Defenzivní princip]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní principy 2 (přepis)|Defenzivní principy 2]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 2 (přepis)|Večerka Freud 2]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 3 (přepis)|Večerka Freud 3]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 4 (přepis)|Večerka Freud 4]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 5 (přepis)|Večerka Freud 5]]
+
+Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]

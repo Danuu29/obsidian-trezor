@@ -1,3 +1,11 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Struktura týmů (přepis)|Struktura týmů (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 (A-tým, B-tým, propojení s akademií)
 
 _Automatický přepis je hodně nekvalitní, takže některé pasáže jsou rekonstruované z kontextu. Jména a čísla uvádím tak, jak zazněla. Kde si nejsem jistý, je to označené._
@@ -95,3 +103,9 @@ Klub musí do určitého termínu vyjasnit organizaci a cíle A-týmu a B-týmu 
 - Jak se vyjasní role Lukiho a Ondry vůči hlavnímu trenérovi?
 
 Mám z toho udělat dokument, který můžeš sdílet s ostatními?
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Struktura týmů (přepis)|Struktura týmů]]
+
+Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]

@@ -1,3 +1,11 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Kroky a plán (přepis)|Kroky a plán (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 Přepis je místy hodně nekvalitní (zkomolená jména i celé pasáže), takže nejistá místa označuji „(?)“. Pokud vím, kdo je kdo, doplň si jména podle sebe.
 
 ## Úkoly, které zazněly
@@ -101,3 +109,9 @@ Přepis je místy hodně nekvalitní (zkomolená jména i celé pasáže), takž
 - Závěr: jde o nové první případy, které je potřeba řešit individuálně.
 
 Několik pasáží (začátek nahrávky a část o hodnocení „vás 3“) je v přepisu tak zkomolených, že je nedokážu spolehlivě rozluštit. Pokud si pamatuješ, kdo měl hodnocení hráčů na starosti, doplň si to.
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Kroky a plán (přepis)|Kroky a plán]]
+
+Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]

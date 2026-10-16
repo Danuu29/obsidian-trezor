@@ -1,3 +1,12 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů (přepis)|Hodnocení hráčů (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů 2 (přepis)|Hodnocení hráčů 2 (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 
 _Přepis je místy hodně nepřesný (jména, názvy nástrojů). Nejasná místa označuji (?)._
 
@@ -106,3 +115,10 @@ _Přepis je místy hodně nepřesný (jména, názvy nástrojů). Nejasná míst
 - **Úprava osmi parametrů:** Sloučit první dva body a doplnit střelbu/zakončení (případně hlavičkování a centry).
 
 Chceš to dát do dokumentu, který můžeš sdílet s ostatními z porady?
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů (přepis)|Hodnocení hráčů]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů 2 (přepis)|Hodnocení hráčů 2]]
+
+Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]

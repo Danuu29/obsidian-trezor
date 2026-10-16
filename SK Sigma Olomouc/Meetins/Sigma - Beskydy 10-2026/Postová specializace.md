@@ -1,3 +1,11 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Postové specializace (přepis)|Postové specializace (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 Níže jsou poznámky z porady k postovým specializacím. Přepis je automatický a hodně zkomolený, takže jména hráčů a některé termíny jsou místy nejisté. Takové případy jsem označil otazníkem.
 
 ---
@@ -182,3 +190,9 @@ Do profilu se navrhuje zařadit:
 ---
 
 Chceš to převést do dokumentu, se kterým můžeš dál pracovat nebo ho nasdílet kolegům?
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Postové specializace (přepis)|Postové specializace]]
+
+Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]

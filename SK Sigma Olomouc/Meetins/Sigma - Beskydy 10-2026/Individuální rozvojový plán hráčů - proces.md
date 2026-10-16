@@ -1,3 +1,11 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - proces (přepis)|IDP - proces (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 Přepis je místy hodně nekvalitní (automatické rozpoznání řeči, zkomolená jména i věty), takže u několika míst uvádím výklad s otazníkem. Konec nahrávky (zhruba od poloviny debaty o herní inteligenci) už je mimo téma: odchody, doprava domů a sledování zápasu. Stejně tak krátká odbočka o pražské koalici uprostřed. Obojí jsem vynechal.
 
 ---
@@ -213,3 +221,9 @@ Tohle byla nejdelší a nejdůležitější část debaty.
 - **Hodnocení je i nástroj, jak odhalit „pozdní kvety“:** hráč, který vyskočí v 17, musí mít historii známek.
 
 Mám to převést do dokumentu (Claude Doc), který můžeš sdílet s kluky před zítřejší schůzkou?
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - proces (přepis)|IDP - proces]]
+
+Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]

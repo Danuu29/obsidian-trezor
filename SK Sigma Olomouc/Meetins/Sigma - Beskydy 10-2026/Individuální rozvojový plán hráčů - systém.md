@@ -1,3 +1,11 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - rozvoj hráče (přepis)|IDP - rozvoj hráče (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 
 Transkript je místy dost poškozený přepisem (jména i čísla), takže jména hráčů uvádím tak, jak je přepis zachytil, a nejistá místa označuji „(?)“. Na konci je pro každý tvůj bod souvislost s FIFA guidem.
 
@@ -235,3 +243,9 @@ Každý hráč by měl jednu kartu se čtyřmi vrstvami:
 - Jaký je vztah skupiny „Tops“ k Diamantu?
 
 Pokud chceš, můžu z toho udělat dokument jako podklad pro další schůzku, nebo navrhnout konkrétní šablonu karty hráče.
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - rozvoj hráče (přepis)|IDP - rozvoj hráče]]
+
+Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]

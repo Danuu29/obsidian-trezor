@@ -1,3 +1,25 @@
+---
+datum: 2026-10-12
+datum_do: 2026-10-14
+misto: Beskydy
+prepis:
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů (přepis)|Hodnocení hráčů (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů 2 (přepis)|Hodnocení hráčů 2 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Kroky a plán (přepis)|Kroky a plán (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Postové specializace (přepis)|Postové specializace (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ostravice (přepis)|Ostravice (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ofenzivní principy (přepis)|Ofenzivní principy (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní princip (přepis)|Defenzivní princip (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní principy 2 (přepis)|Defenzivní principy 2 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 2 (přepis)|Večerka Freud 2 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 3 (přepis)|Večerka Freud 3 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 4 (přepis)|Večerka Freud 4 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 5 (přepis)|Večerka Freud 5 (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - proces (přepis)|IDP - proces (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - rozvoj hráče (přepis)|IDP - rozvoj hráče (přepis)]]"
+  - "[[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Struktura týmů (přepis)|Struktura týmů (přepis)]]"
+tags: [meeting, sigma, beskydy-2026]
+---
 # Souhrn transkriptů
 
 ## Hlavní témata
@@ -133,3 +155,21 @@
 - Kdo má finální slovo při zařazení a postu hráče (případ Gábor: devítka vs. desítka)? [[Individuální rozvojový plán hráčů - systém]], [[Shrnutí detailů a seznam úkolů]]
 - Jak hodnotit biologicky akcelerované a opožděné hráče? [[Individuální rozvojový plán hráčů - systém]]
 - Kroky kariérního plánu po půl roce, nebo po roce? [[Shrnutí detailů a seznam úkolů]]
+
+## 🔗 Zdrojové přepisy
+
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů (přepis)|Hodnocení hráčů]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů 2 (přepis)|Hodnocení hráčů 2]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Kroky a plán (přepis)|Kroky a plán]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Postové specializace (přepis)|Postové specializace]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ostravice (přepis)|Ostravice]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Ofenzivní principy (přepis)|Ofenzivní principy]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní princip (přepis)|Defenzivní princip]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Defenzivní principy 2 (přepis)|Defenzivní principy 2]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 2 (přepis)|Večerka Freud 2]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 3 (přepis)|Večerka Freud 3]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 4 (přepis)|Večerka Freud 4]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 5 (přepis)|Večerka Freud 5]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - proces (přepis)|IDP - proces]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - rozvoj hráče (přepis)|IDP - rozvoj hráče]]
+- [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Struktura týmů (přepis)|Struktura týmů]]
