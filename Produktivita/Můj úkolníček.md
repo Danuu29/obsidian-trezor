@@ -4,6 +4,10 @@ kanban-plugin: board
 
 ---
 
+## Inbox 📥
+
+
+
 ## Aktuální
 
 - [ ] **[[SK Sigma Olomouc/Analytická témata/Karta hráče 🎯|Karta hráče]]** #priorita 
@@ -67,24 +71,10 @@ kanban-plugin: board
 **Complete**
 
 
-## Systematičnost
-
-- [ ] **Skills**
-	- Přidat si různé skills
-	- zjistit co je pro mě důležité
-- [ ] **Úprava projektů**
-	- Paměť
-	- Instrukce
-	- Soubory
-	- Doplnit kontext
-- [ ] **Opakovaní činnosti**
-	- podívat se na opakované činnosti a co by šlo autoamtizovat
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[true,false,true,true,true,true]}
 ```
 %%
