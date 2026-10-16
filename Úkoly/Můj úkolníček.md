@@ -41,14 +41,14 @@ kanban-plugin: board
 
 ## Schůzky
 
-- [ ] **Dorost**
+- [ ] **Dorost** #meeting 
 	- domluvit se s realizáky
 	- výborně si připravit výstupy
-- [ ] **Žáci**
+- [ ] **Žáci** #meeting 
 	- termín
 	- projít si s nimi jejich agendy
 	- ukázat jim nějaké zajímavosti
-- [ ] **Eye ball**
+- [ ] **Eye ball** #meeting 
 	- možnosti spolupráce
 	- analýza více soutěží U14 - U19
 	- API přístup
@@ -77,12 +77,14 @@ kanban-plugin: board
 	- Instrukce
 	- Soubory
 	- Doplnit kontext
+- [ ] **Opakovaní činnosti**
+	- podívat se na opakované činnosti a co by šlo autoamtizovat
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false,false,false,true,false]}
+{"kanban-plugin":"board","list-collapse":[null,false,false,false,true,true]}
 ```
 %%
