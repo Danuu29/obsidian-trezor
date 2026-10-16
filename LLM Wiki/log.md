@@ -68,3 +68,12 @@ Chronologický, append-only záznam. Formát hlavičky: `## [RRRR-MM-DD] typ | n
 - Rozpory: žádné věcné. Drobná nesrovnalost – kapacita pracovní paměti „2–3 prvky / 7 ± 2“ (Danůva poznámka) vs. „3–4 chunky“ (kniha) → [[Rozpory a nesrovnalosti]]. Vnitřní napětí knihy („začni pointou“ vs. TOP-T „pointa až po orientu“) vysvětleno na stránce TOP-T (celek vs. jednotlivý důkazní slide).
 - Kniha je z byznysu, ne ze sportu → všechny fotbalové příklady označeny jako *návrh LLM*. Aktualita: cílí na statické slidy, interaktivní dashboardy a AI reporty jen okrajově (callout na zdrojové stránce).
 - Ingest bez úvodní diskuse o důrazech (Danů zadal „zpracuj do znalostí“); důraz na přenos do reportingu datového oddělení, porad štábu a Yarmillu. Byznysové případovky (Craigstone) jen jako příklady.
+
+## [2026-10-16] schéma | Vlastní poznámky jako živé zdroje, vyloučené složky, detekce nového
+
+- Rozlišeny dva druhy zdrojů: `raw/` (cizí materiál, neměnný) a vlastní poznámky ve vaultu (živé – při změně se zdrojová stránka aktualizuje).
+- Vyloučeno z wiki: `Úkoly/`, `Apple Notes/Sigma Olomouc ⚽/`, `Markdown – tahák.md`, poznámky s `wiki: ne`. [[Zdroj – Úkoly]] označen jako archivní snímek k 2026-10-15.
+- Nový skript `nastroje/nove.py` pro „ingestuj vše nové“; ingest vlastních poznámek nově zapisuje do logu řádek `- git: <hash>`.
+- Údržba: Danů přesunul `Diskuze a meetingy` do `Meetings/` – odkazy přepsal Obsidian, opravena `cesta:` u [[Zdroj – Porady akademie (podzim 2026)]] a index. Smazány prázdné/nerelevantní poznámky *Beskydy – meeting managementu* a *_Přehled úprav* (wiki na ně neodkazovala).
+- Základ pro detekci změn (stav vaultu, který wiki pokrývá):
+- git: 8732be2

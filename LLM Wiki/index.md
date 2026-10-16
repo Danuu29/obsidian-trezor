@@ -146,13 +146,13 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | Zdroj | Surová data | Ingest |
 |---|---|---|
 | [[Zdroj – FIFA Talent ID Guide]] | `SK Sigma Olomouc/Rozvoj klubu/Odborné dokumenty/FIFA Talent ID Guide/` (48 pozn.) | 2026-10-15 |
-| [[Zdroj – Porady akademie (podzim 2026)]] | `SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/` (8 pozn.) | 2026-10-15 |
+| [[Zdroj – Porady akademie (podzim 2026)]] | `Meetings/Diskuze a meetingy/` (8 pozn.) | 2026-10-15 |
 | [[Zdroj – Meetings smetiště]] | `SK Sigma Olomouc/Meetins/` | 2026-10-15 |
 | [[Zdroj – Analytická témata Sigma]] | `SK Sigma Olomouc/Analytická témata/` (22 pozn.) | 2026-10-15 |
 | [[Zdroj – Zadání aplikací]] | `SK Sigma Olomouc/Aplikace/` (7 pozn.) | 2026-10-15 |
 | [[Zdroj – Yarmill poznámky]] | `Apple Notes/Yarmill/` (6 pozn.) | 2026-10-15 |
 | [[Zdroj – Znalosti]] | `Znalosti/` (3 pozn.) | 2026-10-15 |
-| [[Zdroj – Úkoly]] | `Úkoly/` (2 pozn.) | 2026-10-15 |
+| [[Zdroj – Úkoly]] | `Úkoly/` – archivní snímek, složka vyloučena | 2026-10-15 |
 | [[Zdroj – Hodnocení závodnic VIF]] | `VIF Cycling team 🚴/` | 2026-10-15 |
 | [[Zdroj – Barça Match Analysis]] | `LLM Wiki/raw/Barca Match Analysis/` (16 PDF) | 2026-10-15 |
 | [[Zdroj – Soccermatics]] | `LLM Wiki/raw/Soccermatics (Sumpter 2016).pdf` (kniha) | 2026-10-15 |

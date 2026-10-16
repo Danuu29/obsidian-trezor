@@ -1,7 +1,7 @@
 ---
 typ: zdroj
 tags: [zdroj, sigma, akademie, porady, idp]
-cesta: "SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/"
+cesta: "Meetings/Diskuze a meetingy/"
 ingest: 2026-10-15
 aktualizovano: 2026-10-15
 ---
