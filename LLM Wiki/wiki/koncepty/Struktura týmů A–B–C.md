@@ -6,7 +6,7 @@ aktualizovano: 2026-10-15
 ---
 # Struktura týmů A–B–C
 
-Otevřená strategická otázka [[SK Sigma Olomouc]]: jaká je role B-týmu a zda zřídit C-tým / U20. Zdroj: [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Struktura týmů|Struktura týmů]].
+Otevřená strategická otázka [[SK Sigma Olomouc]]: jaká je role B-týmu a zda zřídit C-tým / U20. Zdroj: [[Struktura týmů|Struktura týmů]].
 
 ## Dva modely
 

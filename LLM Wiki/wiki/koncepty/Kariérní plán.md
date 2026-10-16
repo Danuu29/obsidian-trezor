@@ -6,7 +6,7 @@ aktualizovano: 2026-10-15
 ---
 # Kariérní plán
 
-Plán cesty top talentu do profesionálního fotbalu. Shoda z porad ([[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]]):
+Plán cesty top talentu do profesionálního fotbalu. Shoda z porad ([[Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]]):
 
 ## Principy
 

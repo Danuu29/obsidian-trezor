@@ -7,18 +7,18 @@ aktualizovano: 2026-10-15
 ---
 # Zdroj – Porady akademie (podzim 2026)
 
-Sada 8 zpracovaných přepisů porad a výjezdu akademie SK Sigma Olomouc (říjen 2026). Přepisy byly automatické a místy zkomolené – nejistá místa jsou ve zdroji označena „(?)“. Nejlepší vstup je [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Finální souhrn|Finální souhrn]].
+Sada 8 zpracovaných přepisů porad a výjezdu akademie SK Sigma Olomouc (říjen 2026). Přepisy byly automatické a místy zkomolené – nejistá místa jsou ve zdroji označena „(?)“. Nejlepší vstup je [[Finální souhrn|Finální souhrn]].
 
 ## Soubory
 
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Finální souhrn|Finální souhrn]] – témata, rozhodnutí, úkoly, otevřené otázky napříč poradami
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Game Plane|Game Plane]] – výjezd akademie: Sigma Way, vize/mise, herní principy, B-tým, vzdělávání
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Hodnocení hráčů a karta hráče|Hodnocení hráčů a karta hráče]] – škála, metodika, „náš Football Manager“
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Postová specializace|Postová specializace]] – profily postů, biologický věk, InBody
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Individuální rozvojový plán hráčů - proces|IDP – proces]] – pilotní hráč, KPI, poziční vs. obecné hodnocení
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Individuální rozvojový plán hráčů - systém|IDP – systém]] – výběr hráčů, skupiny, koeficient věku, kariérní plány
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]] – kariérní plán, minutáž, škola
-- [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Struktura týmů|Struktura týmů]] – modely A–B, kádr A, termíny B, komunikace s hlavním trenérem
+- [[Finální souhrn|Finální souhrn]] – témata, rozhodnutí, úkoly, otevřené otázky napříč poradami
+- [[Game Plane|Game Plane]] – výjezd akademie: Sigma Way, vize/mise, herní principy, B-tým, vzdělávání
+- [[Hodnocení hráčů a karta hráče|Hodnocení hráčů a karta hráče]] – škála, metodika, „náš Football Manager“
+- [[Postová specializace|Postová specializace]] – profily postů, biologický věk, InBody
+- [[Individuální rozvojový plán hráčů - proces|IDP – proces]] – pilotní hráč, KPI, poziční vs. obecné hodnocení
+- [[Individuální rozvojový plán hráčů - systém|IDP – systém]] – výběr hráčů, skupiny, koeficient věku, kariérní plány
+- [[Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]] – kariérní plán, minutáž, škola
+- [[Struktura týmů|Struktura týmů]] – modely A–B, kádr A, termíny B, komunikace s hlavním trenérem
 
 ## Klíčová rozhodnutí
 

@@ -6,7 +6,7 @@ aktualizovano: 2026-10-15
 ---
 # Postové profily
 
-Pracovní profily postů pro akademii [[SK Sigma Olomouc]]: ideální stav ve 4 složkách, 3 ofenzivní a 3 defenzivní návyky, světový (a český) vzorový hráč, profil pro A-tým. Inspirace Football Managerem. Zdroj: [[SK Sigma Olomouc/Rozvoj klubu/Diskuze a meetingy/Postová specializace|Postová specializace]] (pracovní materiál).
+Pracovní profily postů pro akademii [[SK Sigma Olomouc]]: ideální stav ve 4 složkách, 3 ofenzivní a 3 defenzivní návyky, světový (a český) vzorový hráč, profil pro A-tým. Inspirace Football Managerem. Zdroj: [[Postová specializace|Postová specializace]] (pracovní materiál).
 
 ## Pracovní verze profilů
 
