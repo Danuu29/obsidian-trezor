@@ -15,7 +15,7 @@ kanban-plugin: board
 - [ ] **[[SK Sigma Olomouc/Aplikace/Analýza audio trenéř/Analýza audio trenéra 🎤 (vzdělávání trenérů)|Analýza audio trenéra]]**
 	- Literatura
 	- Metadata – mazaní a výběr více zdrojů
-- [ ] [[Apple Notes/Sigma Olomouc ⚽/Vstupní diagnostika 🔎|Vstupní diagnostika]]
+- [ ] **[[Apple Notes/Sigma Olomouc ⚽/Vstupní diagnostika 🔎|Vstupní diagnostika]]**
 	- report
 	- nahozeno v poznámkách
 	- projednat dál
