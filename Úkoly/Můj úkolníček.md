@@ -67,10 +67,22 @@ kanban-plugin: board
 **Complete**
 
 
+## Systematičnost
+
+- [ ] **Skills**
+	- Přidat si různé skills
+	- zjistit co je pro mě důležité
+- [ ] **Úprava projektů**
+	- Paměť
+	- Instrukce
+	- Soubory
+	- Doplnit kontext
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false,false,false,true]}
+{"kanban-plugin":"board","list-collapse":[null,false,false,false,true,false]}
 ```
 %%
