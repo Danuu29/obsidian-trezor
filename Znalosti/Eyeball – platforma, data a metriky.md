@@ -9,7 +9,7 @@ aliases: [Eyeball data, Eyeball metriky]
 ---
 []()# Eyeball – platforma, data a metriky
 
-> Souhrn všeho, co víme o datech v Eyeballu (portal.eyeball.club): jaké datové oblasti platforma nabízí, jaké konkrétní metriky a atributy, jak se data dají získat a jak je teď dočasně stahujeme skriptem, než bude k dispozici oficiální API. Zjištěno průzkumem portálu (říjen 2026) – webu, jeho vnitřního rozhraní a dat k vybraným zápasům a hráčům. Obecně platné pro klub, bez konkrétních počtů Sigmy.
+> Souhrn všeho, co víme o datech v Eyeballu (portal.eyeball.club): jaké datové oblasti platforma nabízí, jak se data dají získat a jak je teď dočasně stahujeme skriptem, než bude k dispozici oficiální API. Zjištěno průzkumem portálu (říjen 2026) – webu, jeho vnitřního rozhraní a dat k vybraným zápasům a hráčům. Obecně platné pro klub, bez konkrétních počtů Sigmy. Jednotlivé metriky jsou ve [[Eyeball – slovník metrik|slovníku metrik]].
 
 ## Kontext a cíl
 
@@ -74,148 +74,15 @@ Stránka „Statistiky hráče“ (`/player-stats-search`).
   - nabídka **rozestavení** pro soupisku: 4-3-3 ofenzivní, 4-3-3, 4-3-2-1, 4-3-1-2, 4-4-2 v řadě, 4-4-2 kosočtverec, 4-2-4, 4-4-1-1, 4-5-1, 3-5-2, 3-4-3, 3-4-1-2, 5-3-2, 5-4-1, 5-2-1-2
   - export soupisky: CSV, PDF, XLSX
 
-## 3. Statistiky hráče v zápase – kompletní metriky
+## 3. Statistiky, týmové metriky a události
 
-Absolutní hodnoty za zápas, pro hráče obou týmů. Minuty jsou v datech v milisekundách. Brankáři mají navíc brankářský blok.
+Kompletní metriky s definicemi a nástrahami jsou ve [[Eyeball – slovník metrik|slovníku metrik]]. Ve zkratce:
 
-### Základ
-| Metrika (EN) | Česky | Význam |
-|---|---|---|
-| playerName, position, backNumber | hráč, pozice, číslo | pozice v daném zápase |
-| minutesPlayed | minuty | v ms (5 406 000 = 90,1 min) |
-| rating | hodnocení | známka výkonu cca 0–10 |
+- **Statistiky hráče v zápase** – kolem 80 metrik absolutně za zápas pro hráče obou týmů: rating, góly, asistence, střely, xG/npxG/xA, přihrávky po třetinách, délce a směru, centry, standardky, souboje, zachycení, odkopy, bloky, získané míče, chyby, karty a brankářský blok.
+- **Týmové statistiky zápasu** – 62 metrik domácí vs. hosté ve skupinách Souhrn (vč. držení míče), Útok, Obrana, Rozehrávka.
+- **Události (event data)** – kompletní seznam akcí obou týmů: 24 typů, čas na desetiny sekundy, čas ve videu, hráč, úspěch, místo na hřišti a detailní atributy (xG, xA, délka a směr přihrávky, místo v bráně, typ souboje…). Z nich jde počítat výkon po časových úsecích, mapy akcí a střel, heatmapy ztrát a zisků, standardky.
 
-### Útok a zakončení
-| Metrika (EN) | Česky | Význam |
-|---|---|---|
-| goalsScrored | góly | (v API s překlepem) |
-| goalsOwn | vlastní góly | |
-| assists | asistence | poslední přihrávka před gólem |
-| shots | střely | všechny pokusy |
-| shotsOnTarget / shotsOffTarget / blockedShots | na branku / mimo / zblokované | |
-| shotsInsidePa / shotsOutsidePa | z vápna / zpoza vápna | PA = pokutové území |
-| nonPenaltyShots | střely bez penalt | |
-| totalXg | xG | součet pravděpodobnosti gólu u střel |
-| nonPenaltyXg | npxG | xG bez penalt |
-| nonPenaltyXgPerShot | npxG na střelu | průměrná kvalita zakončení |
-| goalsXgRatio | góly / xG | >1 = proměňuje nad očekávání |
-| totalXa | xA | xG střel vzniklých z přihrávek hráče |
-| takeOnsSuccessful / takeOnsTotal | úspěšné / všechny kličky | obcházení soupeře 1v1 |
-| offsides | ofsajdy | |
-
-### Přihrávky a rozehrávka
-| Metrika (EN) | Česky | Význam |
-|---|---|---|
-| passesSuccess / passesTotal | úspěšné / všechny přihrávky | |
-| passAccuracy | přesnost | v % (v souhrnu hráčů jako 0–1) |
-| keyPasses | klíčové přihrávky | po nich spoluhráč vystřelil |
-| passesInFinalThird* / InMiddleThird* / InDefensiveThird* | přihrávky v útočné / střední / obranné třetině | vždy Success a Total |
-| shortPasses* / mediumRangePasses* / longPasses* | krátké / střední / dlouhé | hranice délky Eyeball neuvádí |
-| passesForward* / passesSideways* / passesBackward* | dopředu / do strany / dozadu | |
-| crossesSuccess / crossesTotal | centry | |
-| controlUnderPressure | kontrola míče pod tlakem | zatím prázdné |
-| launchPercent | podíl dlouhých nákopů | hlavně u brankářů |
-
-### Standardní situace
-| Metrika (EN) | Česky |
-|---|---|
-| freekicks | rozehrané volné kopy |
-| corners | rohy |
-| throwIns | auty |
-
-### Obrana
-| Metrika (EN) | Česky | Význam |
-|---|---|---|
-| tacklesSuccess / tacklesTotal | souboje o míč (tackle) | odebrání míče |
-| aerialDuelsSuccess / aerialDuelsTotal | hlavičkové souboje | |
-| groundDuelsSuccess / groundDuelsTotal | pozemní souboje | zatím prázdné |
-| interceptions | zachycené přihrávky | |
-| clearances | odkopy / odvrácení | |
-| blocks | bloky | střely a přihrávky soupeře |
-| recoveries | získané míče | volné a odražené míče |
-| interventions | zásahy | zatím prázdné |
-| mistakes | chyby | vedoucí k nebezpečí soupeře (odhad definice) |
-
-### Disciplína
-| Metrika (EN) | Česky |
-|---|---|
-| fouls / foulsWon | fauly / vybojované fauly |
-| yellowCards / redCards | žluté / červené karty |
-
-### Brankář
-| Metrika (EN) | Česky | Význam |
-|---|---|---|
-| goalsConceded | obdržené góly | |
-| savePercent | úspěšnost zákroků | % chycených střel na branku |
-| catches / punches | chycené / vyboxované míče | |
-| aerialClearancesSuccess / Total | zákroky ve vzduchu | vysoké míče |
-| crossesFacedTotal / crossesStoppedTotal / crossesStoppedRatio | centry na brankáře / zastavené / podíl | aktivita na centry |
-| defensiveActionsOpaTotal | zákroky mimo vápno | OPA = outside penalty area, „sweeper keeper“ |
-| averageDefensiveActionDistance | průměrná vzdálenost zákroků | od brankové čáry, vyšší = hraje výš |
-| goalsKicksSuccess / Total | odkopy od branky | |
-| throwsSuccess / throwsTotal / throwsRatio | výhozy rukou | |
-| averagePassLength | průměrná délka rozehrávky | |
-| launchPercent | podíl dlouhých nákopů | |
-
-## 4. Týmové statistiky zápasu
-
-62 metrik, vždy domácí vs. hosté, typ hodnoty počet / procento / desetinné / rating.
-
-- **Souhrn:** góly, střely, **držení míče (%)**, střely na branku, fauly, ofsajdy, volné kopy, rohy, průměrné hodnocení týmu.
-- **Útok:** střely (na branku, mimo, zblokované, z vápna, zpoza vápna, bez penalt), kličky, xG, npxG, npxG na střelu, góly/xG, xA.
-- **Obrana:** souboje (tackle), hlavičkové a pozemní souboje, zachycení, odkopy, zásahy, získané míče, bloky, chyby, vybojované fauly.
-- **Rozehrávka:** přihrávky a přesnost, klíčové přihrávky, přihrávky po třetinách, podle délky a směru, centry, kontrola pod tlakem.
-- Pozor: `blocks` je v souhrnu i v obraně s **různým** významem (bloky střel týmu vs. obranné bloky).
-
-## 5. Události v zápase (event data) – největší detail
-
-Ke každému analyzovanému zápasu kompletní seznam akcí obou týmů (řádově tisíce na zápas).
-
-### Údaje u každé události
-- **čas:** fotbalový čas v ms (`footballTime`), poločas, čas v poločase, nastavení; čas ve videu (`videoTime`) – akce se dá dohledat v záznamu
-- **hráč** (jméno, číslo, ID v zápase), **tým**
-- **kategorie a typ** události, **úspěch** ano/ne
-- **pod tlakem** (`underPressure`) – vyplněné jen u střel, hlavičkových soubojů a odkopů, u přihrávek vždy „ne“
-- **místo na hřišti:** `x`, `y` v rozsahu 0–1, otočené tak, že **každý tým útočí zleva doprava** (x = 1 je soupeřova branka); na hřišti 105 × 68 m se násobí. U některých zápasů souřadnice chybí.
-- skupiny (`all`, `main` – hlavní momenty, `my`), komentáře, oblíbené, příznak do kolekce
-
-### Typy událostí (24)
-| Kategorie | Typy |
-|---|---|
-| Držení míče | přihrávka (`pass`), převzetí přihrávky (`pass_received`), získaný míč (`recovery`), hlavičkový souboj (`aerial_duel`) |
-| Obrana | souboj (`tackle`), odkop (`clearance`), zachycení (`interception`), blok (`block`), míč mimo hru (`ball_out_of_play`), obcházen kličkou (`take_on_against`) |
-| Útok | střela (`shot`), klička (`take_on`), technická chyba (`technical_error`) |
-| Brankář | zákrok (`save`), inkasovaný gól (`goal_conceded`), zachycení (`catch_interception`), vyboxování (`punch`) |
-| Administrativní | gól, faul, karta, střídání, ofsajd, začátek a konec poločasu |
-
-### Detailní atributy podle typu
-| Atribut | Hodnoty |
-|---|---|
-| délka přihrávky | krátká / střední / dlouhá |
-| směr přihrávky | dopředu / do strany / dozadu |
-| třetina hřiště | obranná / střední / útočná (u přihrávek, hlaviček, kliček) |
-| část těla | pravá noha / levá noha / hlava / ruka / jiné |
-| standardní situace | ze hry / aut / volný kop / roh / kop od branky |
-| centr, klíčová přihrávka, asistence, přihrávka ve vápně | ano |
-| **xA** | u přihrávky – hodnota vytvořené šance |
-| rozehrávka brankáře | výkop z ruky |
-| **xG** | u střely |
-| výsledek střely | na branku / mimo / zblokovaná |
-| místo v bráně | nahoře / uprostřed / dole × vlevo / uprostřed / vpravo |
-| střela z vápna | ano / ne |
-| typ souboje | ve stoje / skluzem |
-| typ bloku | po přihrávce / po střele |
-| typ faulu | fauloval / vybojovaný |
-| druhý míč | u převzetí, získání a zachycení |
-| typ gólu | ze hry |
-| zákrok brankáře | chytil / vyrazil, s pádem ano/ne, po střele z vápna |
-| inkasovaný gól | po střele, z vápna ano/ne |
-| karta | žlutá / červená |
-| střídání | odchod / příchod |
-
-**Co z toho jde spočítat:** výkon po časových úsecích (např. 15 min), mapy akcí a střel, heatmapy ztrát a zisků po třetinách, kdy dáváme a dostáváme góly, výkon před a po střídání, standardní situace a jejich výsledek, řetězení přihrávka → převzetí.
-
-## 6. Profil hráče
+## 4. Profil hráče
 
 Sekce profilu (každá s vlastními filtry – sezóna, pozice, posledních N zápasů):
 
@@ -229,77 +96,40 @@ Sekce profilu (každá s vlastními filtry – sezóna, pozice, posledních N z�
 - **Typy událostí s počty:** kolikrát hráč provedl jednotlivé typy akcí (i odvozené: střela na branku, zblokovaná střela, centr, asistence).
 - **Zápasy hráče:** seznam se skóre, ratingem, minutami a góly; filtry sezóna, tým, jen analyzované, národní zápasy.
 - **Historie klubů** po sezónách.
-- **Behaviorální signály** – jak hráč snáší tlak zápasu:
-  - **Tolerance** – kolik tlaku vydrží, než mu začne klesat výkon
-  - **Sensitivity (citlivost)** – jak výrazně výkon klesne, když tlak začne působit
-  - **Recovery (zotavení)** – jak rychle se vrátí na svou úroveň
-  - každý signál má skóre, pásmo s popisem (např. „stays composed late“), porovnání s kohortou v %, trend; k tomu slovní shrnutí a míra jistoty
-  - kohorty: věková kategorie, věková kategorie + pozice, pozice; období: posledních 10 zápasů, sezóna (až 3 sezóny); minimum 360 analyzovaných minut
+- **Behaviorální signály** – jak hráč snáší tlak zápasu (tolerance, citlivost, zotavení) proti kohortě; definice ve [[Eyeball – slovník metrik|slovníku metrik]].
 - **Behaviorální archetypy:** dominantní a vedlejší archetyp hráče (u běžných hráčů zatím „nedokončeno“).
 - **Biometrie a tělesné míry:** sken těla – obvody horní a dolní poloviny těla, celotělové míry, změny tělesného složení, trendy (jen pokud má hráč skeny a jsou sdílené).
 - **Fyzické metriky** (viz další sekce).
 - **Náborové informace:** zda je hráč otevřen nabídkám.
 - **Stínový tým (shadow team)** a oblíbení hráči – skautingové nástroje.
 
-## 7. Fyzická data
+## 5. Fyzická data
 
-- **Na profilu hráče za sezónu** (nebo všechny sezóny):
-  - **maximální rychlost** (km/h) a zápas, kde ji dosáhl; zda padla v této sezóně
-  - **průměrná top rychlost** (průměr maxim ze zápasů) se změnou proti minulé sezóně
-  - **uběhnutá vzdálenost** na 90 min (km)
-  - **akcelerace a decelerace** na 90 min (práh podle popisu v portálu 10,8 km/h)
-  - **rozložení pohybu** – podíl času a minuty na 90 v zónách: stání, chůze, klus, běh, rychlý běh, sprint
-  - pozice, počet zápasů a minut, ze kterých se počítá
-  - dokumenty – PDF reporty k zápasům
-- **K zápasu:** jen **PDF report** (desítky MB) a video fyzické analýzy; datový soubor za ním je zamčený.
+- **Na profilu hráče za sezónu:** maximální a průměrná top rychlost, uběhnutá vzdálenost na 90 min, akcelerace a decelerace, rozložení pohybu v šesti rychlostních zónách. Definice ve [[Eyeball – slovník metrik|slovníku metrik]].
+- **K zápasu:** jen **PDF report** a video fyzické analýzy; datový soubor za ním je zamčený.
 - Fyzickou analýzu nemá každý zápas – zatím jen část zápasů (dle schůzky půjde o placenou nadstavbu nové verze).
 
-## 8. Hodnocení a „měkká“ data
+## 6. Hodnocení a „měkká“ data
 
 - **Rating** hráče za zápas (cca 0–10, průměrný výkon kolem 6–7) a průměrné hodnocení týmu.
 - **Hodnocení trenéra** a **hodnocení skautů** u hráče v zápase.
-- **Odznaky (rating badges)** – 20 typů, které jde hráči udělit za zápas: Mr./Ms. Hustle, Vibes Master, Level Up, Locked In, Team First, Big Game Energy, Always Ready, Silent Hero, Unbreakable Focus, Visionary Passer, Game Changer, Golden Heart, Clutch Player, Ball Magnet, Sharp Shooter, Captain Energy, Maestro Move, Brick Wall, No Quit, Iron Will.
+- **Odznaky (rating badges)** – 20 typů, které jde hráči udělit za zápas (seznam ve [[Eyeball – slovník metrik|slovníku metrik]]).
 - **AI:** AI shrnutí zápasu, AI review trenéra, AI vyhledávání hráčů pro skauty („scout search“ s předpřipravenými dotazy) – vyžadují oprávnění.
 - **Hráči týdne** podle typu (góly, asistence, střely, kličky, přihrávky dopředu, hlavičky) a zvýraznění hráči.
 
-## 9. Video a klipy
+## 7. Video a klipy
 
 - Video zápasu jako stream, náhled, odkaz ke stažení (při oprávnění).
 - Klipy z událostí, klipy přes více zápasů hráče, sdílené klipy (i chráněné heslem), komentáře k událostem, kolekce a oblíbené.
 
-## 10. Exporty přímo v portálu
+## 8. Exporty přímo v portálu
 
 - Statistiky hráčů / týmu zápasu: **CSV, JSON, XLSX, XML**.
 - Události zápasu: export.
 - Soupiska: CSV, PDF, XLSX.
 - Exporty jsme zatím nepoužili (nevěděli jsme, zda nečerpají kredity – podle kódu ne, ověřit u správce kreditů).
 
-## Pozice
-
-Eyeball používá francouzské zkratky (v portálu s anglickými popisky):
-
-| Kód | Anglicky | Česky |
-|---|---|---|
-| G | GK | brankář |
-| DD / DC / DG | RB / CB / LB | pravý / střední / levý obránce |
-| MDC | DM | defenzivní záložník |
-| MC | CM | střední záložník |
-| MOC | CAM | ofenzivní záložník |
-| MD / MG | RM / LM | pravý / levý záložník |
-| AD / AG | RW / LW | pravé / levé křídlo |
-| ATT | CF | útočník |
-
-## Záludnosti v datech
-
-- **Jednotky:** souhrn hráčů = na 90 min, statistiky zápasu = absolutně. Přesnost přihrávek 0–1 v souhrnu, % v zápase. Minuty v ms.
-- Prázdné metriky: `controlUnderPressure`, `groundDuels`, `interventions`.
-- `underPressure` jen u části typů událostí.
-- U některých zápasů chybí souřadnice událostí.
-- U přihrávky je jen místo odkud – **ne cíl**.
-- Stránkování: limit max. 50 na dotaz (víc vrací chybu), pole `pages` zaokrouhluje dolů – řídit se podle `total`.
-- Neanalyzovaný zápas: statistiky a události „zakázáno“, sestava dostupná.
-- Hodnoty se po zápase mohou ještě měnit (opravy analýzy) – nedávné zápasy stahovat znovu.
-- Počty z událostí sedí s oficiální statistikou hráče (ověřeno na jednom zápase), drobné rozdíly možné (souboje 8 vs. 7).
+Pozice (francouzské kódy), záludnosti v datech a číselné hranice: viz [[Eyeball – slovník metrik]].
 
 ## Co platforma neposkytuje
 
@@ -323,7 +153,7 @@ Dočasné řešení, než bude oficiální API.
 - **Mezipaměť:** surová data zápasů v `archiv/zapasy/<ID zápasu>/` (události komprimované). Znovu se stahují jen nové zápasy, zápasy z posledních 21 dní a neanalyzované. Opakované stažení je proto rychlé.
 - **Bez dotazů z terminálu:** `.venv/bin/python eyeball_stats.py --od 2026-08-01 --do 2026-10-19 --casti 1,2,5`, `--vse`, `--login`.
 - Mezi dotazy je pauza 0,3 s. Spouštěč před stažením zkontroluje a případně doinstaluje prohlížeč pro Playwright a brání uspání Macu.
-- Log: `eyeball_stats.log`. Doprovodné soubory: `Slovník metrik.xlsx` (EN název – česky – vysvětlení, zatím bez týmových, fyzických a událostí), ukázka jednoho zápasu s mapou akcí hráče ve `ukazka_zapas_U19/`.
+- Log: `eyeball_stats.log`. Doprovodné soubory: `Slovník metrik.xlsx` (EN název – česky – vysvětlení; úplnější verze je [[Eyeball – slovník metrik|slovník metrik]]), ukázka jednoho zápasu s mapou akcí hráče ve `ukazka_zapas_U19/`.
 
 ### Hlavní endpointy (pro srovnání s oficiálním API)
 | Data | Endpoint |
@@ -372,6 +202,7 @@ Dočasné řešení, než bude oficiální API.
 
 ## Souvislosti
 
+- [[Eyeball – slovník metrik]] – všechny metriky a datová pole s definicemi a nástrahami.
 - [[SK Sigma Olomouc/Meetings/2026-10-19 – Eyeball – Martin Neoral|2026-10-19 – Eyeball – Martin Neoral]]
 - [[LLM Wiki/wiki/entity/Eyeball|Eyeball]] (wiki)
 - [[SK Sigma Olomouc/Analytická témata/Karta hráče 🎯|Karta hráče 🎯]]
