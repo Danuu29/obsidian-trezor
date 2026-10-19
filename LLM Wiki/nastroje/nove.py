@@ -15,7 +15,7 @@ here = os.path.dirname(os.path.abspath(__file__))
 wiki_root = os.path.dirname(here)
 vault = os.path.dirname(wiki_root)
 
-EXCLUDE = ["LLM Wiki/", ".obsidian/", ".trash/", "Úkoly/", "Apple Notes/Sigma Olomouc ⚽/", "Markdown – tahák.md"]
+EXCLUDE = ["LLM Wiki/", ".obsidian/", ".trash/", "Úkoly/", "Markdown – tahák.md"]
 
 def git(*a):
     return subprocess.run(["git", "-c", "core.quotepath=off", "-C", vault, *a],

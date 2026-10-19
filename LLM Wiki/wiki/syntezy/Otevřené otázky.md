@@ -91,6 +91,7 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Je skutečný prahový výkon ~240 W (klinika), nebo 225–235 W (rozbor)? → [[Rozpory a nesrovnalosti]]
 - Půjde kontrolní CPET (14.–20. 12. 2026) s pomalejší rampou 25–30 W/min a za stejných podmínek? → [[CPET a laktátové schody]]
 - Jak zní finální, ověřená interpretace kliniky (výstup je „NÁVRH“)? → [[Klinika sportovní medicíny]]
+- Jak se po přerušení fáze 1 (zranění, vyšetření 22. 10. 2026) posune start fáze 2 a test na trenažéru – a zůstane termín kontrolního CPET v prosinci? → [[Osobní cyklistický trénink]] · [[Zdroj – Tréninkový deník (cyklistika)]]
 
 ## Náměty k průzkumu (pro web / literaturu)
 

@@ -61,4 +61,4 @@ Z dat dech po dechu: rampa byla velmi strmá (~90–95 W/min) → MAP spíš 300
 
 ## Souvislosti
 
-[[CPET a laktátové schody]] · [[Tréninkové zóny a prahy]] · [[Klinika sportovní medicíny]] · [[Osobní cyklistický trénink]] · [[Rozpory a nesrovnalosti]] · [[Otevřené otázky]]
+[[CPET a laktátové schody]] · [[Tréninkové zóny a prahy]] · [[Klinika sportovní medicíny]] · [[Osobní cyklistický trénink]] · [[Zdroj – Tréninkový deník (cyklistika)]] · [[Rozpory a nesrovnalosti]] · [[Otevřené otázky]]

@@ -2,11 +2,11 @@
 typ: koncept
 tags: [vizualizace, vnimani, grafy, design]
 zdroje: ["[[Zdroj – Persuading with Data]]", "[[Zdroj – Yarmill poznámky]]"]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Vnímání grafů – preattentivní atributy a Gestalt
 
-Proč grafy fungují: mozek okamžitě vidí **vztahy**, skládá data do **chunků** a soustředí se na **nejvýraznější (salientní)** prvek. Grafy kódují data **preattentivními atributy** a skupiny vytvářejí **Gestalt principy** ([[Zdroj – Persuading with Data]], Kap. 2). Danůvy výpisky ke stejnému tématu: [[Apple Notes/Yarmill/Vizualizace dat|Vizualizace dat]].
+Proč grafy fungují: mozek okamžitě vidí **vztahy**, skládá data do **chunků** a soustředí se na **nejvýraznější (salientní)** prvek. Grafy kódují data **preattentivními atributy** a skupiny vytvářejí **Gestalt principy** ([[Zdroj – Persuading with Data]], Kap. 2). Danůvy výpisky ke stejnému tématu: *Vizualizace dat* (smazaná poznámka z Apple Notes).
 
 ## Co vidíme, když vidíme graf
 

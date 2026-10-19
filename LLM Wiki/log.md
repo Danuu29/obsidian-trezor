@@ -88,3 +88,22 @@ Chronologický, append-only záznam. Formát hlavičky: `## [RRRR-MM-DD] typ | n
 - Soukromí: z PDF nepřeneseno datum narození ani další osobní údaje; jde o Danovy vlastní údaje (pravidlo o zdraví se týká hráčů/závodnic).
 - Ingest bez úvodní diskuse o důrazech (Danů poznámku už napsal a zadal „ulož jako zdroj“); důraz na zóny, rozhodnutí a milníky.
 - git: 406624f
+
+## [2026-10-19] schéma | Smazaná složka Apple Notes/
+
+- Danů smazal celou složku `Apple Notes/` (Yarmill poznámky, duplikáty Sigmy, PDF) – dělala nepořádek.
+- Odkazy na smazané poznámky nahrazeny textem: Zdroj – Yarmill poznámky, Zdroj – Persuading with Data, Rozpory, Principy vizualizace a reportingu, GPS metriky a zatížení, Vnímání grafů, Analytické balíčky Yarmill. [[Zdroj – Yarmill poznámky]] označen jako archivní snímek k 2026-10-15; znalosti z něj ve wiki zůstávají.
+- Index: opraven řádek zdroje a poznámka o neingestovaných PDF (smazána – pro ingest vložit do `raw/`). Zdroj – Zadání aplikací: kopie s heslem SkillCorner smazána, v historii gitu zůstává.
+- Schéma: z [[CLAUDE]] odstraněno `Apple Notes/` (příklad živých poznámek i vyloučení duplikátů), přidán příklad `Osobní rozvoj/`; z `nove.py` odstraněna položka `EXCLUDE`.
+- git: 65caf21
+
+## [2026-10-19] ingest | Vše nové (1 zdroj: Tréninkový deník – cyklistika)
+
+- Plánovaná pondělní údržba (bez úvodní domluvy s Danů – běží automaticky).
+- `nove.py` hlásil: změněný `Osobní rozvoj/Kondice/Tréninkový deník.md` (týdenní synchronizace z Claude Docs – doplněné odkazy na videa cviků) a „nový“ `Zátěžový test CPET 2026-09-21.md` – ten je už zpracovaný, jde jen o rozdíl Unicode normalizace názvu (NFD na disku vs. NFC v gitu), ne o změnu obsahu.
+- Zjištěno, že `Tréninkový deník.md` + 5 poznámek `Tréninkové plány/` přibyly v commitu 65caf21, který se dostal do logu jen u záznamu `schéma`, takže je `nove.py` neviděl jako nové a nikdy nebyly ingestovány → zpracovány teď.
+- Nové: [[Zdroj – Tréninkový deník (cyklistika)]] (dlouhodobý plán 6 fází do jara 2027, posilovna, závody 2026, session RPE a poměr A/C, průběh týdnů 21. 9. – 25. 10., poučení).
+- Aktualizováno: [[Osobní cyklistický trénink]] (plán, aktuální stav – fáze 1 přerušena zraněním, otevřené body), [[Tréninkové zóny a prahy]], [[GPS metriky a zatížení]] (paralela session RPE / A/C k ACWR), [[Zdroj – Zátěžový test CPET 2026-09-21]] (odkaz), [[Otevřené otázky]], [[Přehled wiki]], index.
+- Rozpory: žádné nové (zóny v deníku = zóny kliniky).
+- Lint: 0 ve všech kategoriích.
+- git: 65caf21

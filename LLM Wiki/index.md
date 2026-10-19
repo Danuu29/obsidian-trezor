@@ -145,7 +145,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Aplikace – Analýza audio trenéra]] – AI analýza koučinku z přepisu · vývoj
 - [[Aplikace – Strategická aplikace]] – klubová znalostní aplikace · nápad
 - [[Analytické balíčky Yarmill]] – Bronze / Silver / Gold / Skauting
-- [[Osobní cyklistický trénink]] – příprava na jaro 2027 podle CPET zón, kontrolní test 12/2026 · v provozu
+- [[Osobní cyklistický trénink]] – příprava na jaro 2027 v 6 fázích podle CPET zón, deník se session RPE; fáze 1 přerušena zraněním · v provozu
 - [[Druhý mozek – LLM Wiki]] – tato wiki jako projekt: stav, dělba práce podle CODE · v provozu
 
 ## Zdroje
@@ -157,7 +157,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – Meetings smetiště]] | `SK Sigma Olomouc/Meetins/` | 2026-10-15 |
 | [[Zdroj – Analytická témata Sigma]] | `SK Sigma Olomouc/Analytická témata/` (22 pozn.) | 2026-10-15 |
 | [[Zdroj – Zadání aplikací]] | `SK Sigma Olomouc/Aplikace/` (7 pozn.) | 2026-10-15 |
-| [[Zdroj – Yarmill poznámky]] | `Apple Notes/Yarmill/` (6 pozn.) | 2026-10-15 |
+| [[Zdroj – Yarmill poznámky]] | `Apple Notes/Yarmill/` (6 pozn.) – smazáno 2026-10-19, archivní snímek | 2026-10-15 |
 | [[Zdroj – Znalosti]] | `Znalosti/` (3 pozn.) | 2026-10-15 |
 | [[Zdroj – Úkoly]] | `Úkoly/` – archivní snímek, složka vyloučena | 2026-10-15 |
 | [[Zdroj – Hodnocení závodnic VIF]] | `VIF Cycling team 🚴/` | 2026-10-15 |
@@ -167,6 +167,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – The Numbers Game]] | `LLM Wiki/raw/The Numbers Game (Anderson, Sally 2013).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – Pořiďte si druhý mozek]] | `LLM Wiki/raw/Pořiďte si druhý mozek (Forte 2023).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – Persuading with Data]] | `LLM Wiki/raw/Persuading with Data (Kazakoff 2022).pdf` (kniha) | 2026-10-15 |
+| [[Zdroj – Tréninkový deník (cyklistika)]] | `Osobní rozvoj/Kondice/Tréninkový deník.md` + `Tréninkové plány/` (5 týdnů; kopie z Claude Docs, živé) | 2026-10-19 |
 | [[Zdroj – Zátěžový test CPET 2026-09-21]] | `Osobní rozvoj/Kondice/Zátěžové testy/` (poznámka) + `LLM Wiki/raw/Zátěžové testy/` (2 PDF) | 2026-10-19 |
 
-Neingestováno: `Apple Notes/Sigma Olomouc ⚽/` (duplikáty), `Markdown – tahák.md`, `_Přehled úprav.md`, PDF a obrázky v `Apple Notes/` (zatím jen odkazované – kandidáti na samostatný ingest: *4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*).
+Neingestováno: `Markdown – tahák.md`. PDF z bývalé složky `Apple Notes/` (*4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*) byla smazána s ní – pokud mají jít do wiki, je potřeba je vložit do `raw/`.

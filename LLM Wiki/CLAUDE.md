@@ -12,10 +12,9 @@ Role: **Danů** vybírá zdroje, směruje analýzu a klade otázky. **LLM** pí�
 
 1. **Surové zdroje (LLM je jen čte, nikdy neupravuje)** – dva druhy:
    - **`LLM Wiki/raw/`** – cizí materiál bez jiného domova: články z Web Clipperu, PDF, knihy, studie, přepisy videí. Po uložení se **nemění**. Obrázky do `raw/assets/`.
-   - **Vlastní poznámky Danů** ve zbytku vaultu (např. `SK Sigma Olomouc/`, `Meetings/`, `Znalosti/`, `VIF Cycling team 🚴/`, `Apple Notes/Yarmill/`) – meetingy, zadání aplikací, nápady. Jsou **živé**: Danů je průběžně doplňuje, takže se při dalším ingestu mohou změnit → zdrojovou stránku pak aktualizovat, ne zakládat novou.
+   - **Vlastní poznámky Danů** ve zbytku vaultu (např. `SK Sigma Olomouc/`, `Meetings/`, `Znalosti/`, `VIF Cycling team 🚴/`, `Osobní rozvoj/`) – meetingy, zadání aplikací, nápady. Jsou **živé**: Danů je průběžně doplňuje, takže se při dalším ingestu mohou změnit → zdrojovou stránku pak aktualizovat, ne zakládat novou.
    - **Vyloučeno z wiki** (neingestovat, na změny nereagovat):
      - `Úkoly/` – kanban a seznamy úkolů se mění denně; wiki nemá sledovat stav úkolů
-     - `Apple Notes/Sigma Olomouc ⚽/` – duplikáty poznámek ze `SK Sigma Olomouc/`
      - `Markdown – tahák.md`, `.obsidian/`, `.trash/`
      - jakákoli poznámka s `wiki: ne` ve frontmatteru
      Seznam drží i skript `nastroje/nove.py` (proměnná `EXCLUDE`) – při změně upravit obojí.

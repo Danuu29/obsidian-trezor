@@ -3,20 +3,24 @@ typ: zdroj
 tags: [zdroj, yarmill, produkt, vizualizace]
 cesta: "Apple Notes/Yarmill/"
 ingest: 2026-10-15
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
+archiv: true
 ---
 # Zdroj – Yarmill poznámky
 
+> [!note] Archivní snímek
+> Danů složku `Apple Notes/` 2026-10-19 celou smazal (nepořádek). Zdrojové poznámky už ve vaultu nejsou (zůstávají jen v historii gitu); stránka je snímek k 2026-10-15 a dál se neaktualizuje. Znalosti z nich zůstávají ve wiki na odkazovaných stránkách.
+
 Poznámky z Apple Notes k práci v [[Yarmill]] – produktové balíčky, principy vizualizace, myšlenky k projektům.
 
-## Soubory
+## Soubory (smazané)
 
-- [[Apple Notes/Yarmill/Možnosti analytických řešení|Možnosti analytických řešení]] – balíčky Bronze / Silver / Gold + modul Skauting → [[Analytické balíčky Yarmill]]
-- [[Apple Notes/Yarmill/Vizualizace dat|Vizualizace dat]] – principy tvorby reportů a grafů → [[Principy vizualizace a reportingu]]
-- [[Apple Notes/Yarmill/GPS|GPS]] – trénink vs. zápas, predikce talentu, metriky Wyscoutu (PPDA…) → [[GPS metriky a zatížení]], [[Wyscout]]
-- [[Apple Notes/Yarmill/Myšlenky|Myšlenky]] – komunikace novinek, vážené průměry, Cox model, „magické číslo 7 ± 2“
-- [[Apple Notes/Yarmill/Myšlenky k projektům|Myšlenky k projektům]] – hráčská karta, GPS intenzity, ACWR
-- [[Apple Notes/Yarmill/Pardubice - příprava|Pardubice - příprava]] – témata prezentace: karta hráče, skauting, hodnocení utkání, predikce
+- *Možnosti analytických řešení* – balíčky Bronze / Silver / Gold + modul Skauting → [[Analytické balíčky Yarmill]]
+- *Vizualizace dat* – principy tvorby reportů a grafů → [[Principy vizualizace a reportingu]]
+- *GPS* – trénink vs. zápas, predikce talentu, metriky Wyscoutu (PPDA…) → [[GPS metriky a zatížení]], [[Wyscout]]
+- *Myšlenky* – komunikace novinek, vážené průměry, Cox model, „magické číslo 7 ± 2“
+- *Myšlenky k projektům* – hráčská karta, GPS intenzity, ACWR
+- *Pardubice - příprava* – témata prezentace: karta hráče, skauting, hodnocení utkání, predikce
 
 ## Klíčová zjištění
 

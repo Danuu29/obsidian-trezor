@@ -175,13 +175,13 @@ Vybavení doma (od 14. 10. 2026): jednoručka 10 kg, kettlebell 6 kg, expandér 
 
 | Cvik | Dávka | Video |
 |---|---|---|
-| Goblet dřep s 10 kg, 3 s dolů | 3 × 12 |  |
-| Rumunský mrtvý tah na jedné noze s jednoručkou | 3 × 10 na nohu |  |
-| Glute bridge na jedné noze | 3 × 12 na stranu |  |
-| Přítahy s expandérem + face pull | 3 × 12 + 3 × 15 | · |
-| Kliky | 3 × 10–15 |  |
-| Dead bug, boční plank | 3 × 10 na stranu, 3 × 30 s | · |
-| Mobilita: flexory kyčle, hrudní páteř, lýtka | 5 min | ·  · |
+| Goblet dřep s 10 kg, 3 s dolů | 3 × 12 | [goblet dřep v tempu](https://www.youtube.com/watch?v=4G6P4RzNyOg) |
+| Rumunský mrtvý tah na jedné noze s jednoručkou | 3 × 10 na nohu | [RDL na jedné noze](https://www.youtube.com/watch?v=k83AIfjDbnI) |
+| Glute bridge na jedné noze | 3 × 12 na stranu | [glute bridge na jedné noze](https://www.youtube.com/watch?v=Zb3ILLdI6fk) |
+| Přítahy s expandérem + face pull | 3 × 12 + 3 × 15 | [přítahy s expandérem](https://www.youtube.com/watch?v=LSkyinhmA8k) · [face pull s expandérem](https://www.youtube.com/watch?v=PYj77in44ms) |
+| Kliky | 3 × 10–15 | [technika kliku](https://www.youtube.com/watch?v=mECzqUIDWfU) |
+| Dead bug, boční plank | 3 × 10 na stranu, 3 × 30 s | [dead bug](https://www.youtube.com/watch?v=-gRN_JyVTLY) · [boční plank](https://www.youtube.com/watch?v=oEs8ZvVDOzI) |
+| Mobilita: flexory kyčle, hrudní páteř, lýtka | 5 min | [flexory kyčle](https://www.youtube.com/watch?v=Bfb-9dIWEr4) · [hrudní páteř (open book)](https://www.youtube.com/watch?v=5TdmVlQe64c) · [lýtka](https://www.youtube.com/watch?v=JSzCfi0wbcA) |
 
 Všestrannost navíc (volitelně, místo domácí jednotky): 30–45 min chůze do kopce, plavání nebo aktivní hra venku – cokoli mimo kolo, co zapojí tělo jinak.
 

@@ -1,7 +1,7 @@
 ---
 typ: koncept
 tags: [kondice, cyklistika, zony, prahy, trenink]
-zdroje: ["[[Zdroj – Zátěžový test CPET 2026-09-21]]"]
+zdroje: ["[[Zdroj – Zátěžový test CPET 2026-09-21]]", "[[Zdroj – Tréninkový deník (cyklistika)]]"]
 aktualizovano: 2026-10-19
 ---
 # Tréninkové zóny a prahy
@@ -25,6 +25,7 @@ Prahy: aerobní ≈ 205 W / 155 tep, anaerobní ≈ 240 W / 178 tep.
 - **Watty a RPE mají přednost před tepem** – tep ovlivňuje únava, teplota, hydratace, délka jízdy a sacharidy (kardiální drift).
 - Dlouhé jízdy převážně **155–195 W**; 200–205 W je strop Z2, ne cílová intenzita každé dlouhé jízdy.
 - Do příchodu wattmetru řízení podle tepu a RPE.
+- V praxi se zóny uplatňují v dlouhodobém plánu a týdenních plánech → [[Zdroj – Tréninkový deník (cyklistika)]] (fáze 1 řízena TF + RPE, od fáze 2 podle W).
 
 ## Doporučená struktura týdne (klinika)
 
@@ -52,4 +53,4 @@ Stejná logika jako [[Thresholdy a benchmarky]] ve fotbale – číslo má smysl
 
 ## Souvislosti
 
-[[CPET a laktátové schody]] · [[Osobní cyklistický trénink]] · [[Thresholdy a benchmarky]] · [[GPS metriky a zatížení]] · [[VIF Cycling team]] · [[Zdroj – Zátěžový test CPET 2026-09-21]]
+[[CPET a laktátové schody]] · [[Osobní cyklistický trénink]] · [[Thresholdy a benchmarky]] · [[GPS metriky a zatížení]] · [[VIF Cycling team]] · [[Zdroj – Zátěžový test CPET 2026-09-21]] · [[Zdroj – Tréninkový deník (cyklistika)]]

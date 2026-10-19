@@ -1,19 +1,19 @@
 ---
 typ: koncept
 tags: [gps, zatizeni, kondice]
-zdroje: ["[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Úkoly]]", "[[Zdroj – Soccermatics]]"]
+zdroje: ["[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Úkoly]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Tréninkový deník (cyklistika)]]"]
 aktualizovano: 2026-10-19
 ---
 # GPS metriky a zatížení
 
-Odborné poznatky a požadavky na práci s GPS daty (Catapult) v Sigmě. Hlavní zdroj: [[Znalosti/📡 GPS Data|📡 GPS Data]], doplněk [[Apple Notes/Yarmill/GPS|GPS (Yarmill)]].
+Odborné poznatky a požadavky na práci s GPS daty (Catapult) v Sigmě. Hlavní zdroj: [[Znalosti/📡 GPS Data|📡 GPS Data]], doplněk *GPS (Yarmill)* (smazaná poznámka z Apple Notes).
 
 ## Pásma a metriky
 
 - Rychlostní zóny: 1 chůze · 2 regenerační výběh · 3 aerobní běh · 4 anaerobní běh · 5 **HID (70–90 % max. rychlosti)** · 6 **sprint (≥ 90 % max. rychlosti)**
 - Základní metriky: TD, ACC, DEC, SD, HIR; intenzity (TD/min…); max. akcelerace a decelerace.
 - **Player Load** – odhad celkové zátěže; nepřesný (započítává i pohyby nahoru/dolů).
-- **ACWR** – lépe počítat z (1) akcelerací a decelerací, (2) Player Load. Námět: EWMA jako alternativa.
+- **ACWR** – lépe počítat z (1) akcelerací a decelerací, (2) Player Load. Námět: EWMA jako alternativa. Obdoba v osobním tréninku: session RPE (RPE × minuty) a poměr akutní/chronické zátěže s pásmem 0,8–1,3 → [[Zdroj – Tréninkový deník (cyklistika)]].
 - Rozdíl acc vs. dec do 20 % je v pořádku.
 
 ## Pravidla pro interpretaci
@@ -39,4 +39,4 @@ Při 3 dnech mezi zápasy měl tým PL stejné běžecké objemy, ale **nižší
 
 ## Souvislosti
 
-[[Denní připravenost a wellness]] · [[SkillCorner]] (tracking z videa jako doplněk GPS) · [[Karta hráče – koncept]] · [[Tréninkové zóny a prahy]] (individuální zóny z laboratorního testu – vytrvalostní obdoba)
+[[Denní připravenost a wellness]] · [[SkillCorner]] (tracking z videa jako doplněk GPS) · [[Karta hráče – koncept]] · [[Tréninkové zóny a prahy]] (individuální zóny z laboratorního testu – vytrvalostní obdoba) · [[Zdroj – Tréninkový deník (cyklistika)]] (session RPE a A/C v praxi)

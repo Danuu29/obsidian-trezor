@@ -2,11 +2,11 @@
 typ: projekt
 tags: [yarmill, produkt, nabidka]
 zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Pořiďte si druhý mozek]]", "[[Zdroj – Persuading with Data]]"]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Analytické balíčky Yarmill
 
-Produktová nabídka analytických řešení [[Yarmill]] (pro XPS). Zdroj: [[Apple Notes/Yarmill/Možnosti analytických řešení|Možnosti analytických řešení]].
+Produktová nabídka analytických řešení [[Yarmill]] (pro XPS). Zdroj: *Možnosti analytických řešení* (smazaná poznámka z Apple Notes).
 
 | Balíček | Data | Přínos |
 |---|---|---|

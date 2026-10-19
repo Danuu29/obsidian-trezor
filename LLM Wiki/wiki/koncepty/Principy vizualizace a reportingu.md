@@ -2,11 +2,11 @@
 typ: koncept
 tags: [vizualizace, reporting, komunikace]
 zdroje: ["[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Barça Match Analysis]]", "[[Zdroj – Soccermatics]]", "[[Zdroj – Pořiďte si druhý mozek]]", "[[Zdroj – Persuading with Data]]"]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Principy vizualizace a reportingu
 
-Pravidla, kterými se Danů řídí při stavbě reportů. Hlavní zdroj: [[Apple Notes/Yarmill/Vizualizace dat|Vizualizace dat]] – podle shody příkladů zřejmě výpisky z knihy [[Zdroj – Persuading with Data]] (?), která je tak původním zdrojem části zásad níže.
+Pravidla, kterými se Danů řídí při stavbě reportů. Hlavní zdroj: *Vizualizace dat* (smazaná poznámka z Apple Notes) – podle shody příkladů zřejmě výpisky z knihy [[Zdroj – Persuading with Data]] (?), která je tak původním zdrojem části zásad níže.
 
 ## Proces
 

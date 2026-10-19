@@ -3,7 +3,7 @@ typ: zdroj
 tags: [zdroj, kniha, vizualizace, reporting, komunikace, prezentace, presvedcovani]
 cesta: "LLM Wiki/raw/Persuading with Data (Kazakoff 2022).pdf"
 ingest: 2026-10-15
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Zdroj – Persuading with Data
 
@@ -13,7 +13,7 @@ Kniha **Miro Kazakoff: *Persuading with Data – A Guide to Designing, Deliverin
 > - PDF (318 s., převod z e-knihy) s textovou vrstvou, přečteno celé. Grafy a ukázkové slidy jsou jen jako popisky – převzaty principy a příklady z textu.
 > - Příklady jsou z byznysu (prodeje, IT, nemocnice, konzultace), **ne ze sportu** – přenos do fotbalu je vždy *návrh LLM*.
 > - Autor staví na Tufte, Few, Minto, Duarte, Nussbaumer Knaflic (*Storytelling with Data*), Heath (*Made to Stick*), Kahneman.
-> - **Danůva poznámka [[Apple Notes/Yarmill/Vizualizace dat|Vizualizace dat]] se s Kap. 1–3 shoduje téměř bod po bodu** (osa y od nuly, inverze 99,0 vs. 99,5, odstín vs. intenzita, Gestalt „uzavření, symetrie, kontinuita, společný osud, minulá zkušenost“, popisky místo legendy, svislé vs. vodorovné sloupce, linie = tvar / sloupce = okamžiky). Jsou to zřejmě výpisky z této knihy (?) – kniha je tedy **původní zdroj** části [[Principy vizualizace a reportingu]].
+> - **Danůva poznámka *Vizualizace dat* (smazaná poznámka z Apple Notes) se s Kap. 1–3 shoduje téměř bod po bodu** (osa y od nuly, inverze 99,0 vs. 99,5, odstín vs. intenzita, Gestalt „uzavření, symetrie, kontinuita, společný osud, minulá zkušenost“, popisky místo legendy, svislé vs. vodorovné sloupce, linie = tvar / sloupce = okamžiky). Jsou to zřejmě výpisky z této knihy (?) – kniha je tedy **původní zdroj** části [[Principy vizualizace a reportingu]].
 > - Citace: **Kap. 1–9**; „pozn.“ = autorovy poznámky pod čarou.
 
 ## Struktura knihy

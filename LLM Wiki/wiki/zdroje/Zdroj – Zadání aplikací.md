@@ -3,7 +3,7 @@ typ: zdroj
 tags: [zdroj, aplikace, ai, prompty]
 cesta: "SK Sigma Olomouc/Aplikace/"
 ingest: 2026-10-15
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Zdroj – Zadání aplikací
 
@@ -22,7 +22,7 @@ Prompty a zadání aplikací, které Danů staví (většinou „vibe-coding“ 
 Související: [[SK Sigma Olomouc/Co platím 💶|Co platím 💶]] – placené služby (Render, Gemini API, AI překlad).
 
 > [!warning] Bezpečnost
-> Sekce „MOJE VERZE“ v poznámce *Analýza soupeře kompletní prompt* (a její kopie v *Apple Notes/Sigma Olomouc ⚽*) obsahuje **přihlašovací jméno a heslo k SkillCorner v otevřeném textu**. Vault se zálohuje do gitu. Doporučení: heslo z poznámek odstranit a změnit. Do wiki se nepřepisuje.
+> Sekce „MOJE VERZE“ v poznámce *Analýza soupeře kompletní prompt* (její kopie v *Apple Notes/Sigma Olomouc ⚽* byla 2026-10-19 smazána, v historii gitu ale zůstává) obsahuje **přihlašovací jméno a heslo k SkillCorner v otevřeném textu**. Vault se zálohuje do gitu. Doporučení: heslo z poznámek odstranit a změnit. Do wiki se nepřepisuje.
 
 ## Společné vzory napříč aplikacemi
 
