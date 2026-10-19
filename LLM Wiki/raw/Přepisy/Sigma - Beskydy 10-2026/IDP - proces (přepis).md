@@ -3,13 +3,16 @@ typ: prepis
 akce: Sigma – výjezd akademie Beskydy
 datum: 2026-10-12
 datum_do: 2026-10-14
-nahravka: "IDP - proces"
-souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Individuální rozvojový plán hráčů - proces|Individuální rozvojový plán hráčů - proces]]"
-finalni_souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]"
-tags: [prepis, sigma, beskydy-2026]
+nahravka: IDP - proces
+souhrn: "[[Individuální rozvojový plán hráčů - proces|Individuální rozvojový plán hráčů - proces]]"
+finalni_souhrn: "[[Finální souhrn|Finální souhrn]]"
+tags:
+  - prepis
+  - sigma
+  - beskydy-2026
 ---
 
-> [!info] Automatický přepis nahrávky „IDP - proces“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Individuální rozvojový plán hráčů - proces|Individuální rozvojový plán hráčů - proces]] · [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+> [!info] Automatický přepis nahrávky „IDP - proces“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[Individuální rozvojový plán hráčů - proces|Individuální rozvojový plán hráčů - proces]] · [[Finální souhrn|Finální souhrn]]
 
 Jaký všechny oblasti, jako chceme byt se zhral, ne?
 Podeme mít tabletně, kde prosím.

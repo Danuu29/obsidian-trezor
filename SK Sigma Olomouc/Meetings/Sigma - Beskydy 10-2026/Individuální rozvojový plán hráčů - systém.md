@@ -248,4 +248,4 @@ Pokud chceš, můžu z toho udělat dokument jako podklad pro další schůzku, 
 
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - rozvoj hráče (přepis)|IDP - rozvoj hráče]]
 
-Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+Celkový přehled akce: [[Finální souhrn|Finální souhrn]]

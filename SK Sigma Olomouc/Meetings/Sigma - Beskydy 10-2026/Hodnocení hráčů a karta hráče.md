@@ -121,4 +121,4 @@ Chceš to dát do dokumentu, který můžeš sdílet s ostatními z porady?
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů (přepis)|Hodnocení hráčů]]
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Hodnocení hráčů 2 (přepis)|Hodnocení hráčů 2]]
 
-Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+Celkový přehled akce: [[Finální souhrn|Finální souhrn]]

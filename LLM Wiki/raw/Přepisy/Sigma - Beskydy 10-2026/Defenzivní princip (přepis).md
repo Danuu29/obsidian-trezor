@@ -3,13 +3,16 @@ typ: prepis
 akce: Sigma – výjezd akademie Beskydy
 datum: 2026-10-12
 datum_do: 2026-10-14
-nahravka: "Defenzivní princip"
-souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]]"
-finalni_souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]"
-tags: [prepis, sigma, beskydy-2026]
+nahravka: Defenzivní princip
+souhrn: "[[Game Plane|Game Plane]]"
+finalni_souhrn: "[[Finální souhrn|Finální souhrn]]"
+tags:
+  - prepis
+  - sigma
+  - beskydy-2026
 ---
 
-> [!info] Automatický přepis nahrávky „Defenzivní princip“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]] · [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+> [!info] Automatický přepis nahrávky „Defenzivní princip“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[Game Plane|Game Plane]] · [[Finální souhrn|Finální souhrn]]
 
 Tak chceme vidět při rozehrávce soupeře vysoké postavení toho týmu,
 ale aby náš tým byl potom směřovaný jako kompaktní a vytvářil jako malé hřiště.

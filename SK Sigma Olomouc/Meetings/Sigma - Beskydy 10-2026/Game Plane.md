@@ -274,4 +274,4 @@ Sigma Way jsem dal na začátek, protože je hlavním výstupem. Názvy pilíř�
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 4 (přepis)|Večerka Freud 4]]
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Večerka Freud 5 (přepis)|Večerka Freud 5]]
 
-Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+Celkový přehled akce: [[Finální souhrn|Finální souhrn]]

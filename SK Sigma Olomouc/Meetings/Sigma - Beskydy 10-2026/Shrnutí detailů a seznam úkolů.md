@@ -114,4 +114,4 @@ Několik pasáží (začátek nahrávky a část o hodnocení „vás 3“) je v
 
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Kroky a plán (přepis)|Kroky a plán]]
 
-Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+Celkový přehled akce: [[Finální souhrn|Finální souhrn]]

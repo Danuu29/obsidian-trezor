@@ -226,4 +226,4 @@ Mám to převést do dokumentu (Claude Doc), který můžeš sdílet s kluky př
 
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/IDP - proces (přepis)|IDP - proces]]
 
-Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+Celkový přehled akce: [[Finální souhrn|Finální souhrn]]

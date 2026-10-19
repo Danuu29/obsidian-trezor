@@ -3,13 +3,16 @@ typ: prepis
 akce: Sigma – výjezd akademie Beskydy
 datum: 2026-10-12
 datum_do: 2026-10-14
-nahravka: "Ostravice"
-souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]]"
-finalni_souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]"
-tags: [prepis, sigma, beskydy-2026]
+nahravka: Ostravice
+souhrn: "[[Game Plane|Game Plane]]"
+finalni_souhrn: "[[Finální souhrn|Finální souhrn]]"
+tags:
+  - prepis
+  - sigma
+  - beskydy-2026
 ---
 
-> [!info] Automatický přepis nahrávky „Ostravice“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]] · [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+> [!info] Automatický přepis nahrávky „Ostravice“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[Game Plane|Game Plane]] · [[Finální souhrn|Finální souhrn]]
 
 Jak jsou ty vize, vize, vize, hodnoty, tak si myslím, že je důležité, a ty jsi tam, Jelko, boval si, že ty to máš teďka zpracovaný kvůli tomu otevření, ne, ty jsi tam, kdy psal, tak si myslím, že tak, jak máme třeba ten slide,
 tak já jsem si třeba dal tady ty osobní hodnoty, jako to jsou pro mě zase jedno v tom představení mě, jako člověka, který jde na ten pohovor s tím sportovním ředitelem, s tím verejním,

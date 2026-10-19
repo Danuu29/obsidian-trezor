@@ -1,0 +1,1491 @@
+---
+typ: prepis
+akce: Online meeting Sigma × Eyeball (Martin Neoral)
+datum: 2026-10-19
+nahravka: Šonov u Nového Města nad Metují 2
+souhrn: "[[2026-10-19 – Eyeball – Martin Neoral|2026-10-19 – Eyeball – Martin Neoral]]"
+tags:
+  - prepis
+  - sigma
+  - eyeball
+---
+
+> [!info] Automatický přepis online meetingu Daniel Franc (SK Sigma Olomouc) × Martin Neoral (Eyeball), 19. 10. 2026. Text je beze změn, místy hodně zkomolený. Uprostřed se hovor přerušil (řádky „...“). Soukromý hovor po skončení schůzky je vynechaný. Zpracovaná poznámka: [[2026-10-19 – Eyeball – Martin Neoral|2026-10-19 – Eyeball – Martin Neoral]]
+
+Uplně v pohodě, úplně v pohodě, já mám času dost, takže je to úplně v klidu.
+Jak se máte?
+Ale jo, řekl bych, že fajn, řekl bych, že fajn.
+Sice se komplikuje teďka počasí, já jsem vášnívej cyklista, takže pro mě už teďka není úplně nejlepší počasí, ale...
+Rozumím, rozumím.
+Zimní spávek do příštího jara předpoklady.
+Jo, to jo, ale já mám rád zimu, takže já jsem jako v pohodě, ale pak když už nemůžu jezdit na kole, tak to jak se to zkomplikuje, tak se to změní na liže, takže to je v klidu.
+Chápu, chápu, rozumím, rozumím, rozumím, super, super.
+Já možná náhodně, že začneme, jenom úplně v rychlosti, se představím Martinou Radámovou na starosti v podstatě celý region, dá se říct,
+Evropy s nějakým větším fokusem na vybraný země, v mým případě je to primárně střední, východní a jižní Evropa, Balkán hodně.
+S tím, že ale samozřejmě z nějaké, řekněme, vyšší pozice mám pod sebou i kluky, co v podstatě se starají o trhy v rámci Beneluxu, Skandinávě a podobně.
+A v podstatě ta nějaká mohle pozice souvisí, dá se říct, s kompletní komunikací z kluby, ať už na úrovni scoutingu, anebo na úrovni v podstatě té coachingové části platformy,
+nebo té datové, analytické části platformy a tak dále.
+Takže tím, že samozřejmě, že upůsobení ve fotbovarem a celkově ve sportovním prostředí je celoživotní mášek, to je klesný,
+a zohledem na to, že já jsem v podstatě studoval, můžu jsem být studovaný právník, tak mám na starozřejmě částečně právní agendu Vibolu, zase pro kvůli v latinská americe.
+Takže to je jenom taky nějaký intro, abych se na úrovni představil.
+Jinak, jestli to pro vás bude v pohodě, bude absolutně OK, když mě budete přišel slova přesním jménem, klidně vím, že to jít tyka, nemám s tím vůbec problém.
+Tak to já budu taky rád, myslím, že to je pro obě strany jednodušší, takže nabízím to samý.
+Super, tak děkuju moc krát, děkuju moc krát.
+A jinak dané teda ohledně jenom, abych se vrátil ještě k tomu minulýmu týdnu a mluvám se za menší,
+asi pravděpodobně technické komplikace v souvislosti s tou masterclass, co jsme měli.
+Nebyli jste jako klub jediní, i kolegové ze Slovanu se rozvadli, ale to už všimě jeden polský klub, že si jim nešlo připojit.
+To znamená kolega, už co to řešil po technické stránce, ale v podstatě vygeneroval link, kdy ta masterclass je k dispozici v podstatě online.
+Takže já to byl dnešku, nás dílim vše, takže jednoduše přes dneš se na to dostaneš a v podstatě můžeš to vzlídnout.
+Skvělý. Skvělý. Tak já děkuji za úvod. Já si taky jako krátce jenom představím sebe a taky mám takovou širší paletu toho, co dělám.
+Takže to je hezký, že mám na stejný vlně. Já jsem celoživotní primárně teda fotbalista.
+Měl jsem možnost si projít fotbalem ve spoustě různých pozic, včetně na českým fotbalem svazu jsem se věnol dlouho vzdělávání.
+Pak jsem tam nějak měl možnost chvíli se věnovat jakoby analytice, jak videoanalytice, tak jsem měl nastrosti jako ještě za pana Psotky tehdy tam, když jakoby vznikalo nějaké analytické oddělení,
+ale řekněme, že jsme byli v bodu ne ani nula, ale jako v nějakým minus jedna, že jsme se dostávali vůbec na to, abychom se jako k analytice dostali.
+Ale teďka momentálně jakoby už se čtvrtým rokem věnují čistě jenom jakoby primárně datový analytice teda a to jednak jakoby ve firmě Jarmel,
+která v Čechách nějakým způsobem se věnuje jako řekněme sportovní datový analytice napříč jakoby, ale ne fotbalem jenom, ale jako napříč sportama.
+Řekl bych, že jsme taková jako největší firma jako analytická, čistě analytická v Čechách.
+A teďka už to bude vlastně skoro rok, je to 8 měsíců, 10 měsíců, co jsem jakoby nasygmě a mám na starosti, řekněme jako celou jako analytiku nasygmě zkrátka.
+Ale my jako by, jako když říkám analytiku, tak je to opravdu jako napříč analytikou, že my se jako nevěnujeme pouze jenom jako nějakým jako herním věcem.
+A tak ale jako čistě jako vlastně veškerý té analytice od spánku, hodnocení různých hráčů a takže jako by jdem opravdu napříč analytikou jako celou.
+A teďka tím, že hodně jako začínáme pracovat na individuálním rozvoji hráčů a začali jsme spolupracovat s FIFou na,
+vlastně jako by FIF má už za sebou takový pilotní program v Čechách s několika kluby, kdy je jako by mentorujou nějakým způsobem.
+Tak my jsme v tom projektu teďka zapojení jako by nově a jeden z pilířů, který tam jako budeme řešit je individuální rozvoj hráčů.
+A já jako by pro mě je strašně důležitý v tom individuálním rozvoji jako by ta složka prostě ta herní, minimálně jako by ten popis herní,
+protože my budeme hráče hodnotit jako by z několika úrovní a jedna z nich je jako expertní pohled trenérů,
+ale pak já bych prostě chtěl jako by tam dodat ty tvrdý data, který, když se jako by podívám napříč tím spektrem,
+tak prostě se mi strašně líbí, jak to děláte jako vy, protože to, že zasáhnete u nás jako by nejenom tu elitní soutěž tý sedmnáctky a devatenáctky,
+ale prostě jsou, že ho děláte i patnáctku a tak, tak pro mě to je jako strašně atraktivní a co jsem měl možnost se podívat,
+jaký ty data jako by děláte, tak jako by pro nás absolutně jako dostačující pro to, aby nám to dalo zpětnou vazbu prostě pro hráče a tak,
+takže to byl jako by i ten důvod, že když mě Michal Hrubý říkal jako by, že je ta možnost se s váma spojit,
+tak jsem jako by hnedka na to jako by naskočil, abych jako by mohl od tebe získat co nejvíc jako možných informací,
+co by bylo možný třeba, no. A pak je samozřejmě ta druhá věc a to je to, že vedle mě hnedka v kanclu sedí jako by kolega ze scoutingu
+a který jako si myslím, že funguje velmi dobře a samozřejmě pro SIGMu začíná být čím dál tím víc jako atraktivnější
+scoutinky jako i mimo Českou republiku, tak to je samozřejmě jako by ta druhá věc, kde by třeba bylo možný jako by pro nás
+jako čerpat, protože prostě velký množství dat pro nás už dneska není jako by problém, no.
+Super, super, super, skvělý, skvělý. Dané, jenom teda, jestli jsem správně pokopil z Ibolem s náma jako s produktem a podobně,
+já teď nemám na své straně otevřenou admin část, ty už máš ze SIGMu přístup do platformy, je to tak?
+Super, super, čili přemýšlel jsem jenom, jak to pojmuju, kde si nějak odskrečetí, popisovat, co děláme, neděláme,
+což si s tím už obeznámený, s tou platformou, víš, plus, minus, prostě co, co bude a tak dál. Skvělý, díky moc, díky moc za info.
+Jednoznačně jako z hlediska, já jenom když to prostě nějak uvedu nebo rozeberu a zhrnu i jak si nastínil ten scouting,
+což já jsem třeba s Michalem, opakovaně jsme se o tom, ale jako ve velmi, velmi základních publicech a s takým velmi jako hrubým nástřelem bavili,
+tak pro ten úplný obrázek na tvé straně, jak eyeball pracuje nebo co máme, nemáme, tak v podstatě eyeball,
+když si představíme nějakou pomyslnou pyramidku, kdy nahoru já umístím eyeball, tak ho rozdělim na dvě části,
+na scoutingovou a na tu coachingovou datově analytickou část. V podstatě, co se týče té scoutingové části,
+jsem rád, že zmínil, že už jde tady to v podstatě zahraniční cestou,
+protože to vždycky souvisí s nastavením té scoutingové strategie na straně toho klubu.
+Samozřejmě nemá smysl prostě do klubu tlačit scoutingovou část platformy,
+pokud prostě ta strategie toho klubu jde úplně jiným směrem,
+než třeba ta scoutingová část té platformy je učená.
+V tuto chvíli v podstatě eyeballdy začínal někdy v roce 2020.
+2021 jsme měli podepsaný první partnerský spolupráce,
+tak v podstatě z hlediska scoutingu jsme do značné míry cítili,
+že je obrovský gap mezi v podstatě grassroots a seniorským fotbalem.
+Když to prostě platformy, který dneska poskytují podklady ze seniorských soutěží,
+jejich celá řada, můžeme jmenovat vicecore a tak dále,
+jejím špíce není to jenom vicecore.
+Na druhou stranu ale, ten gap nebo ta mezera byla právě v tom mezičlenu.
+A my jsme chtěli právě tou cestou tohle převzít jako naší hlavní domén
+nebo parketu a věnovat se hlavně mládežnickému fotbalu,
+protože samozřejmě fotbal nám to ukazuje, jak my říkáme,
+s oblibou, football is getting younger day by day.
+A v podstatě ten, kdo na to je schopný reagovat,
+tak ten získá konkurenční výhodu na tom trhu.
+Ať už ve výsledcích, ať už prostě v nějaké ekonomice,
+financích a tak dále.
+Proto to cílení iBallu a vůbec ta filozofie iBallu od prvopočátku
+je mířená primárně na mládežnický fotbal.
+Samozřejmě s ohledem na FIFA, regulace a tak dále,
+musíme být schopní v podstatě těm klubům dát maximum,
+což znamená, že v teritoriích nebo v regionech,
+kde narážíme na nějaké FIFA z hlediska transferu v Ráču,
+tak tam samozřejmě poklíváme i seniorské soutěže.
+Ta situace ale není například prostě v Evropě.
+Je samozřejmě třeba v Africe, nebo je zrovna v Latinské Americe a tak dále,
+kde pro mládežnických soutěží máme i seniorský soutěž.
+Je to zase jednoduše z důvodu toho,
+z důvodu toho, že když bude, já nevím, zlý baník,
+kdy kdokoliv mít zájem, přivíst hráče,
+který ho bude chtít, řekněme, v kratším času
+se ointegrovat směrem do prvního týmu.
+To znamená, že prostě nedává smysl v ten moment být
+fokusovaní na soutěžu 16, prostě v Gambii,
+na druhou stranu, když je klub, který má spíš tu dlouhodobější vizi
+nebo tu dlouhodobější perspektivu a začne si čekovat z toho hráče.
+Už právě v tom mládežnickým věku, třeba v Nigérii,
+nebo prostě tam, kde narážíme na Fifarek,
+z hlediska dřívejšího transferu hráči do Evropy,
+tak pro ně dává smysl toho hráče si čekovat už po tu dobu
+těch dalších sezon a přivíst si ho pak prostě v tom věku.
+Jasně.
+Pokud samozřejmě nejsou schopni vytvořit všechny ty ostatní podmínky,
+na který klade Fifa důraz s tom, aby si toho hráče třeba přivedli dřív.
+A pak samozřejmě s tím, z hlediska toho developmentu,
+pracují dlouhodobě směrem, pochopitelně ve výsledku,
+s integrací do prvního týmu a tak dále a tak dále.
+Čili to obrosto je jenom nějaký takový o zřejmění
+nebo o přiblížení té scoutingové části.
+Když jsme začínali, tak jsme začínali v roce...
+Kolik máme času? Já jenom nechci tě zbrnit.
+Jsem neomezený, jsem úplně v pohodě.
+Super, super.
+Bedvanás pro děti do školky.
+Ok, ok, to zvláším.
+Když jsme v podstatě začínali, tak my jsme,
+ačkoliv prostě česká firma, tak začínali jsme
+z hlediska velikosti trgu ve Francii a právě v Africe.
+V Nigérii a pak se to postupně rozšiřovalo dál.
+A bylo to samozřejmě, říkám, jedna věc.
+Velikost trhu, druhá věc.
+Prostě ve výsledku je zatím všim biznis,
+to znamená nějaký biznisový potenciál a podobně.
+Postupně to rostlo,
+protože samozřejmě schutí rostejší zem
+a kluby, kteří začaly iBall využívat pro scoutingové účely,
+tak samozřejmě na nás tlačili a jdeme do dalších zemí,
+do dalších zemí, do dalších zemí.
+Dneska a nebo po nějaké necelé pětileté existenci má ukrytí ve 42 zemích.
+S tím, že co se týče nějaké té expanžní činnosti,
+to znamená, když jdeme na nový trh, jdeme otevřít nový trh,
+tak jak jsem říkal, vždycky ten fokus je na ty mládežnícké kategorie
+a to už musí říct, že díky tomu se nám ta expanze daří abnormálně úspěšně,
+protože ty kluby jsou tomu otevřený a jsou rádi,
+že prostě můžou s váma spolupracovat, protože my v podstatě do těch klubů
+a do těch akademií v rámci té spolupráce, tak jak do Sydney,
+přinášíme ten coachingový tůl, to znamená ten datový analitický tůl,
+tu druhou část platformy, kterou ty kluby samozřejmě vítají z otevřenou náručí.
+Z hlediska toho, který kategorie, co je 100% stojí za zmínku,
+který ty kategorie my pokrýváme na těch jednotlivých trzích,
+tak to je přímo ovlivněno poptátkou ze strany scoutingu.
+To znamená, že my, když budeme vědět ze strany našich klientů,
+že chtějí v Polsku mít dostupnost na, řekněme jenom,
+Centrální New Yorkské ligy, to znamená U15, 17, 19,
+ale nezajímá je už regionální soutěže a tak dále,
+16, 18 kategorii a podobně, tak samozřejmě z toho našeho pohledu
+nedává smysl tu expanzi tlačit pro těchto nižší soutěží,
+protože my víme, že na té druhé straně o to nebude zájem.
+Čili to ovlivňuje to, které soutěže per tu danou zemi
+my máme na té scoutinguvé části platformy.
+A v České republice je to třeba, protože v České republice
+z hlediska expanze padlo rozhodnutí prostě na nejvyšší žákoské
+a dorostenecké soutěže, bez ohledu na to,
+že prostě 15, 14 je člení regionálně, nehrá to roli.
+Brali jsme to prostě z hlediska nějaké hierarchie soutěží.
+A stejně tak samozřejmě sednáctka a devatenáctka.
+A s takovým, řekněme, půl záměrem i Čefele a Musclefele,
+protože v podstatě primárně samozřejmě od těch top klubů,
+protože víme, že prostě v těch rezervách se obehrávají hráči,
+kteří můžou mít potenciál, můžou být zajímavý z hlediska scoutingu.
+To je teda nějaké přiblížení tohohle.
+Co se týče třeba eyeballe, troufnu si říct číslo jedna na světě,
+z hlediska síly pokrytí hodně v Africe, hodně v Latinské Americe,
+protože v podstatě tenhle region žádný jiný náš kompetitor,
+když to řeknu, nepokrývá v takovém rozsouva měřítku, jak mít,
+a nemá to pokrytí, které mají třeba, já nevím, by scout a tak dále,
+tak z hlediska té scoutinguvé relevance je výrazně nížší.
+To znamená, že my máme jako vyloženě prostě ty topový huby, talent huby,
+když to řeknu prostě v regionu hodně Afriky,
+protože tam jsme začali, říkám jako není,
+troufnu si říct, že dneska není žádná platforma,
+která by nám mohla konkurovat s hlediska síly scoutinguvého pokrytí v Africe.
+Ve Evropě fokus na mládežnické soutěže.
+Samozřejmě ano, dneska už vise scout se snaží prostě prostě
+prostě prostě prostupovat do těch mládežnických kategorií a tak dále.
+Na druhou stranu ono to souvisí s nastavením nějakého business modelu,
+který na straně scoutingu iScoutu je úplně jiný, než je u nás.
+Čili to si myslím, že je taky rozdíl.
+Čili tohle je jenom nějaký, já jsem chtěl tak ozřejmít,
+nebo se to, jak v podstatě to funguje.
+A co se týče na té datovanické nebo coachingové části,
+tak v podstatě to můžeš teď vidět násikně,
+máte tu platformu k využití.
+Já jsem zmínil ty soutěže, které třeba pro nás z hlediska scoutingu
+zajímavé z toho důvodu my ty soutěži zpracováváme.
+A v podstatě tohle všechno se děje na základě nějaké
+prostě barter spolupráce v tom smyslu,
+že my poskytujeme platformu, poskytujeme analýzy.
+Vy samozřejmě poskytujete ten content,
+to znamená ten videomateriál a tak dále.
+S tím, že ale jak jsem zmínil ten fokus na určitý soutěže,
+to neznamená, že my do toho daného klubu nemůžeme iBall
+v podstatě implementovat, když to řeknu i do ostatních kategorií.
+Vy když přijdete a řeknete, že chceme od U13 až po B a tak dále,
+není problém, ale pak je to klasicky placená služba.
+Tak jak iBall, využívají stovky, možná tisíce dneska klubů napříc světem,
+prostě hrající druhé, třetí soutěže a tak dále.
+Ať už pro synerský tým nebo prostě pro mládež,
+není žádný problém.
+I v tomhle oleju se ruměl, já třeba můžu říct, že v Polsku,
+jak je Loria, Bialištok, co je náš partnerský klub,
+stejně tak jako by v Čechách, tak využívá iBall ještě pro rezervní týma 16.
+Korona, Kelče pro tři kategorie navíc,
+protože říkám v tom Polsku, máme 15, 11, 19,
+Korona to má pro tři kategorie navíc,
+Katovice to mají pro nějaký lid, nevím zvláště přesně,
+pro který, myslím, že taky rezervu tam mají,
+taky nějakou 16 nebo 18.
+Jo, čili tohle to je, ta data je analitická,
+ale coachingová část, kterou vy máte k využití,
+tak pro ty kluby, kterými neoslovíme,
+z hlediska toho free of charge partnershipu,
+tak ty samozřejmě ten iBall využívají normálně
+klasickou placenou cestou, když to řeknu cena zápas,
+dají nějaký počet zápasů, co chtějí analizovat za sezonu,
+my jim dáme přístup do platformy,
+zaplatí a mají v podstatě analizovaný zápasy.
+S tím, že teďka ještě jsme v nějaké fázi
+z hlediska vývoje toho,
+že jsme vydali novou verzi
+té datové analitické coachingové části platformy,
+co vy využíváte,
+která je mnohem z hlediska řešení robustnější
+a bude umožňovat přidávání dalších a dalších funkcionalit,
+které máme v podstatě v té vývové pipeline
+a na kterých se pracuje v podstatě kontinuálně,
+protože zase, když někdo se nás zeptá,
+dejte mi pár důvodů do sdílů mezi vámi a Wisecoutem,
+je to třeba to, že mi prostě na denní bázi
+neustále ten produkt vyvíjíme.
+Když to ty feedbacky,
+co já získávám z klubů,
+třeba směrem k Wisecoutů,
+tak to je prostě, co se jednou vytesalo do kamena
+a od té doby se to nezměnilo až do dnešku a tak dále.
+Ta naše výza nebo ta naše filozofie je ta,
+že prostě my ten produkt stavíme na základě toho, co vy chcete.
+My to nevyvíjíme,
+ať bůl pro nás, pro sebe,
+a my jsme z toho měli nějaké uspokojení.
+Je to prostě pro kluby
+a ty kluby musí říct, co prostě potřebují.
+Z tohoto důvodu se udělala ta nová robustnější verze
+té coachingové datové analitické části,
+na kterou už ji využívají, už ji využívají třeba řeknu kluby v Korvatsku
+a v podstatě všechny kluby, který poplatí za ten servis,
+tak ty ji využívají v tuto chvíli.
+Co se týče partnerských klubů,
+to znamená vás v České republice třeba řeknu ještě Sparta, Slavě, Teplice, Bohemka,
+Mladá Boleslav, Paník a tak dále,
+tak vy všichni budete na tu novou část coachingové platformy
+přesunutí odhadem závěrem letošního roku,
+protože samozřejmě to souvisí s nějakým meržováním dat,
+přesunutím těch dat z té stávající verze na tu novou,
+což samozřejmě je kapacitně dost náročný
+a nechcem v tom nikde udělat chybu,
+proto tohle z toho probíhá.
+Ono už se to děje v podstatě, zatím to není samozřejmě vidět.
+A ta nová část pak bude vizuálně vypadat,
+nechci říct jinak než ta, na kterou jste teďka zvyklí,
+ona bude jako dost hodná z hodniska třeba toho,
+když si zobrazíte gamepage daného zápasu,
+tak to jak vidíte video, jak si můžete hrát z hlediska tvorby klipů,
+vyfiltrovat si ty eventy jednotlivých,
+vytvořit si ten finální klip,
+i z hlediska vizualizace těch statistik,
+nebo i rozsahu těch dat, které vidíte z toho daného zápasu,
+těch statistických dat z toho daného zápasu,
+tak to všechno vypadá jako velmi zhodně.
+I ta část těch celkových dat, statistik za celou dobu,
+v podstatě existence toho hráčského profilu na platformě,
+vypadá zhodně.
+Co tam je ale na míc,
+tak samozřejmě na pozadí, na tom back-endu,
+my to máme v podstatě z hlediska nějaké architektury připraveno tak,
+že na to můžeme nabalovat další funkcionality.
+Když to na té stávající verzi,
+tam už to dobře možné nebylo.
+Když jsme chtěli něco vyvinout a přidat,
+tak nám to zase vytvářelo technické problémy
+na jiné části té platformy a podobně.
+To znamená, že jsme potřebovali udělat,
+když to řeknu robustnější řešení,
+které nám právě bude umožňovat přidávat další funkcionality.
+A jednou z nich, co jsme v podstatě implementovali,
+tak je to, že vy budete mít tady v této nové coachingové části
+takovou vlastní, bych řekl, dashboardu.
+To znamená, že budete mít možnost si třeba zápasy uploadovat samostatně.
+Budete si mít možnost vytvářet určitou vlastní,
+bych řekl, library všech těch zápasů atd.
+A samozřejmě ruku v ruce s tím jde pak i vizualizace toho,
+jak třeba v té vaší dashboardě,
+jak třeba ta platforma je využívaná ze strany analytiků,
+kdo jakou aktivitu, kde strávil na té platformě.
+Máme teďka v podstatě, už jsme dokončili psychometrics,
+psychometrics, pomožte nejčesky, behaviorální metriky.
+To znamená, že jedna z dalších feature, která bude na té platformě,
+tak bude, pracovat jsme na tom s mentálním coachem Borta,
+která je teďka v širším týmu iBallu a v podstatě bude vám říkat chování hráče,
+když, já nevím, netrfí prázdnou bránu nebo něco takového.
+To je jedna funkcionalita.
+Další funkcionalita, fyzické metriky, ty už jsou v běhu.
+Já si dokonce i myslím, že jsem vám možná teďka už v rámci takového testování
+přiřadil na nějaký zápas, abyste dostali i výstup fyzických metrik.
+Jo, chluce říkali, že něco tam bylo.
+Jo, tohle to bude možný.
+Bude možná telestration, zase nevím, jak bych to řekl český,
+malování v podstatě, malování, něco na styl elektronické tušky,
+když to tak jako zkrátím.
+Bude tam určitý i za využití AI reporting,
+i nějaký AI coaching mentoring by tam měl být a tak dále.
+Jakoby těch feature, těch funkcionalit, které už jsou ve vývoji,
+některé už jsou před dokončením, některé jsou naplánované
+na první kvartal příštího roku, dvojku kvartal příštího roku.
+Tak ty právě budou k dispozici na té nové části té platformy.
+Řeknu zcela otevřeně,
+napřímo drtivá většina z nich budou placené na dory.
+To, co v podstatě vy máte teď, to zůstává zachováno,
+což je to core toho všeho v podstatě,
+protože aby mohly být psychometrics,
+aby mohly být physical metrics a tak dále a ty další featurey,
+tak předpoklad toho je to, že je ten balík těch základních dat.
+To znamená, že v podstatě to, co vy máte teď,
+bez toho prostě nejde udělat z tý další přidaný metriky
+nebo prostě funkcionality a tak dále.
+Čili to pak bude samozřejmě záležet na rozhodnutí klubu.
+Ano, budeme mít zájem prostě mít pro, já nevím,
+čtrnáctku, patnáctku i fyzický metriky.
+OK, já vám přestavím nějakou cenu, když řeknete,
+jo jdeme do toho, dostanete k dispozici i tohleto.
+Ale nebude to jako žádnou podmínkou toho, že musíte, nemusíte.
+Je to čistě prostě by bylo na vašem rozhodnutí.
+A chtěl jsem v této souvislosti říct ještě jednu věc,
+a ta mi teď plně vypadla z hlavy.
+Ale každopádně tohle stojí ten další vývoj
+nebo ten další postup, kam to bude směřovat.
+A samozřejmě, že jo, samozřejmě ještě, co je taková,
+to hodně pro ty kluby, který ať už jde o privátní akademie
+anebo o kluby z nižších soutěží, který prostě chtějí se taky posunout dál,
+chtějí i to prostředí pro ty hráče zatraktivní a tak podobně.
+Tak zase filozofie nebo naše směřování je to,
+že my chceme ten produkt poskytnout celé té komunitě.
+To znamená nejenom trenérům, analytikům, ale i hráčům.
+A v ideálním případě tam, kde je tomu, když řekl,
+prostředí otevřeno, nastavením vlava a tak dále, tak i rodičům.
+Protože já třeba vám můžu říct, že my jsme,
+my jsme tuhle z tu novou část té platformy,
+jsme první trh, kde jsme to spustili, byla Severní Amerika.
+Protože v rámci této nové části platformy
+budete moct poskytnout hráčům i rodičům
+přístup do mobilní aplikace iBallu.
+Jasně.
+Kde v rámci té mobilní aplikace iBallu,
+jak hráči, tak rodiče,
+budou mít možnost v podstatě vidět všechny zápasy
+a vidět i ty statistiky těch hráčů.
+A v součástí té nové verze platformy
+je i Virtual Lackeroom, v podstatě virtuální šatna
+postřednictvím Čebož.
+Vy budete moct s tím hráčem,
+vy z platformy, směrem do mobilní aplikace hráče,
+anebo rodiče, s nima komunikovat.
+To znamená, že v rámci určitě
+takového virtuální šatny, jak to nazýváme,
+vy budete mít možnost třeba vytvořit klip
+Martin Neora o sutkání
+proti paníků, já nevím, hlavíčkový souboje,
+ten klip nazdílet přímo z té platformy
+do té mobilní aplikace tomu hráči,
+což teď jako možný není.
+To znamená, že ten hráč obdrží notifikaci,
+že vy jste mu nazdíleli klip,
+on si ho bude moct okamžitě zobrazit,
+vy budete mít možnost tomu hodit i určitou note,
+nebo prostě poznánku, co třeba bylo z hlediska
+na té věkonnosti, bylo špatně, co by ji mělo zlepšit,
+nebo naopak, prostě ho chcete motivovat,
+jo, super práce a tak dále.
+A kromě toho, že bude možnost to nazdílet tomu hráči,
+tak čistě jako option vy si můžete vybrat,
+že to nazdílíte i rodiči toho hráče.
+A důvod, proč samozřejmě jdeme i touhle cestou,
+je to, že v klubech, kde třeba ten klub pracuje
+s omezeným budžetem, ale chce ten klub rozvíjet,
+chce přiníst ty data, chce zatraktivní to prostředí pro ty hráče,
+potaž mu samozřejmě zatraktivní ten klub jako takový
+a zároveň dát nějakou další value těm rodičům,
+tak samozřejmě, a to je důvod, proč jsem zmínil
+Severní Ameriku, kluby napřímo tohle odprezentují rodičům
+a ve výsledku ty rodiče jsou ti, kteří platí za ty data.
+Jo, protože prostě jim to dává absolutně smysl,
+protože prostě chtějí, aby, chtějí to vidět,
+když to úplně zkrátím a laicky řečeno uvedu,
+tak chtějí to vidět, chtějí vidět ty zápasy, chtějí vidět ty statistiky,
+ale zároveň je řada z nich, kteří prostě chtějí jako opravdu
+i posunout ten klub, kde to jejich děcko hraje, když řeknu.
+A úplně běžně se stává to, říkám v té Americe,
+to běží na plné obrátky, ve smyslu toho,
+že zkrátka řekne se OK, aby jsme mohli pro naši šestnáctkou kategorii
+využít ze všim všudy tuhle platformu,
+abyste mohli to všechno vidět, abyste viděli ty statistiky atd.
+Částka je taková maková.
+Za dítě platíte roční fíčko XY,
+kterou mi připočteme, já nevím, plácnu 10 EUR na hráče
+a dostanete tohle tohle navíc.
+A děje se to úplně bez jakéhokoliv problému,
+bez jakéhokoliv nějakého nuceného tlaku na ty kluby
+nebo na ty rodiče, protože oni tu value vidí
+a dává jim to jako smysl i k touhle cestou.
+A s ohledem na to i právě v této nové verzi
+je integrovaná virtuální peněženka.
+To znamená, že v podstatě rodič pokud získá přístup
+z vaší strany, ze strany klubu,
+tak bude mít možnost v podstatě nabít tu virtuální peněženku,
+kdy peníze se vymění za tokeny a tokeny se pak spotřebovají
+na té analýzy, na fyzické metriky, psychometrics a tak dále a tak dále.
+A tímto způsobem v podstatě je to namýšlené.
+A tohle to je všechno, co se bavíme, co ta stávající verze
+té coachingové části absolutně jako neumožňuje,
+protože to je mnohem menší řešení.
+Takže tak, no tak to je jenom tak.
+A ještě k tomu dodám jednu věc.
+Jak jsem říkal, že z hlediska té placené služby
+tato coachingová datově analytická část je v podstatě k dispozici pro všechny,
+protože to je to, co my chceme.
+My chceme tu platformu, když to řeknu, nemít pouze pro elitní kluby,
+jako je Sigma a tak dále.
+Ale de facto, když to řeknu, já pocházím ze zářího,
+bude mít září, prostě zájem tu platformu vyvžít, není problém.
+Můžete, protože ten přístup do té platformy jako takovej bude zdarma.
+To znamená, že ten profil toho klubu bude možno vytvořit zdarma.
+Klub zdarma bude moct uploadovat zápasy na tu platformu,
+vytvářet si nějakou prostě virtuální, řekněme, knihovnu utkání.
+Ale pokud se rozhodne mít, já nevím, 10 zápasů placených,
+tak od toho jsou tyhle nástroje a může si prostě prostřednictvím té platformy
+ty analýzy zakoupit.
+A co navíc ještě, integrovaná fíčura,
+v podstatě, zase hledám ten český ekvivalent,
+chci můj tým nebo chci můj klub dát viditelně na scout,
+být viditelný na scoutingu.
+V podstatě, zástupce toho klubu, zástupce závřela zatrhne políčko
+a v ten moment všechno, co oni uploadují na tu coachingovou část,
+bude viditelnou i na té scoutingové část.
+To znamená, že všechny pro kluby, který využívají eyeball,
+pro scoutingový účely, tak krom toho, že uvidí ty elitní akademie,
+který vidí dneska, tak uvidí všechno, co přijde i z této části automaticky,
+když to řeknu. Bez toho, aniž my bysme dělali jakoukoliv,
+bych řekl, expanžní činnost po nižších soutěžích a tak dále.
+To je super.
+Takže to je taková vize, to je tak, jak to máme namyšleno,
+nebo tak, jak to funguje.
+To teda musím říct, že je velký.
+To je obří projekt a vůbec posun.
+Teda to je jako obrovský, no.
+A vy jste schopni udělat případně tady, když jsi se bavil o 12-13,
+i když jsou jako, když hrajou třeba na tu půlku řiště,
+tak vy jste schopni i z toho menšího rozměru řiště?
+To bych musel, standardně my jdeme 11-11.
+Nechci to vyloučit, nechci to vyloučit.
+Ono takhle, ten uploading těch videí na tu novou část té platformy je jedno,
+jestli to je trénink nebo jestli hrají prostě na polovinu řiště.
+To je vždycky možné.
+A vzhlediska té analýzy jsme vždycky šli na 11-11.
+Musel bych interně ověřit, jestli jsme třeba schopni to dát na ten menší počet.
+Počet tam jde o to, že samozřejmě, jak to určitě chápeš,
+tam souvisí to samozřejmě s nějakou deskripcí těch jednotlivých metrik a tak dále.
+Protože pokud máme nějak nadefinovaný, co já vím, medium range passes,
+když hrají na střední vzdálenost, tak ty odpovídají té definici prostě na celý řiště.
+A v momentě, kdyby my jsme použili jenom tu polovinu řiště,
+tak to budou nečesný data.
+Ale na tom to nestojí.
+Já jako úplně nejprimárnější záměr, který bych určitě v tuhle chvíli měl,
+tak mně by se strašně líbilo, kdyby se nám podařilo
+prostě 100% odatovat od čtrnátky do devatenáctky ty hráče.
+To je takový můj velký cíl, který bych chtěl.
+Že teď nejsem jistý, jaký data má nebo nemá B,
+ale pokud, že já nevím, jak to vlastně jako sčefilo tady v současný době,
+nebo tou třetí ligou jako je, ale tak to jsou další data,
+které by byly určitě důležité taky.
+Nehledě na to, že příští rok se rušejí osmnáctky,
+takže možná vznikne ještě nějaký jako vytěžovací další tým.
+Takže prostě my řekněme celou tu strukturu tý mládeže,
+do kterých spadá i to B, tak mít jako odatovanou.
+A pak samozřejmě, jestli je možnost nějak jako se připojit k API,
+jak případně jako by vašich dat.
+Je to rozhodně možný, s tím, že ale v podstatě dneska je to tak,
+že ta API je navázaná na v podstatě ten danej trh.
+To znamená, že když, já nevím, přijde Slávě a řekne,
+že chce získat jako API svých zápasů,
+tak my jsme nuceni jim prostě prodat celý ten trh, když řeknu.
+Ne jenom zápasy Slávě.
+A zároveň to API v tuto chvíli s tou novou verzií by to mělo být,
+pokud se napletu, to já bych tě ještě potvrdil,
+možný přes tu coachingovou část,
+v tuto chvíli to API je možný získat jenom přes tu scoutingovou část.
+To znamená, že první předpoklad pro to, abyste mohli získat API,
+mít přístup na tu scoutingovou část.
+Což ale je samozřejmě už spopletněný přístup,
+vdle toho trhu, který vy si vyberete.
+Samozřejmě vy, když přijdete, když my jste přišli s tím,
+chceme využít iBall pro scouting, řekněme,
+a teď plásnu prostě, já nevím, iBall, z Nigeria,
+kameru, řekněme.
+OK, částka XY.
+Ale současně bychom chtěli API našich hráčů.
+Jo, já samozřejmě, kdybych šel v souladu s nějakými interními pravidlami,
+měl bych vám říct OK, tady je Česká republika za cenu XY,
+k těm africkým zemím a prostředím si jim toho, my vám dáme API.
+Jo, ale dovedu si představit, že bych to byl schopný vymyslet tak,
+že bychom Českou republiku nespoplatnili,
+aby byste mohli získat přístup k API vašim zápasům,
+ale, a to je taky hodně důležité zmínit,
+to API samostatné je taky spoplatněné,
+protože my to API vnímáme jako core, jako alfauna.
+No i jasně, to chápu.
+A jedna věc je přístup na tu platformu,
+a třeba jeden ze spolumajitelů iBallu říkal,
+jako to je super ten přístup a tak dále,
+ale v podstatě tu hodnotu přináší právě to API.
+No ale jako hele, já tohle to všechno chápu
+a jakoby já jsem s tím jako úplně jako v pohodě.
+Vím jako přesně tu politiku, jak jsi zmiňoval na začátku,
+má třeba ten Vice Scout, která jako pro mě je absolutně jako nepřijatelná.
+Ta cenová a business politika Vice Scoutu je pro mě jako nepřijatelná
+a proto to je jeden jako z důvodu, proč já třeba sním
+a o tomhle tom vůbec jako se bavit nechci,
+protože jim je vlastně všechno úplně jedno, jo.
+Zaplatit prostě miliony korun za to, aby jsme měli přístup kamkoliv
+a ještě jako se nebudu bavit o kvalitě jako těch dat jejich.
+Tak to je pro mě jakoby nepřijatelný a proto,
+já to znám i ze strany toho jako svazu, když jsem byl na tom svazu
+a tohle jsem tam řešil, tak prostě tohle to bohužel znám.
+A já jsem mluvil s Honzou Hískem, takže vím, že jste taky nějak jako v kontaktu
+i jako směrem jako do budoucna třeba.
+Takže já myslím, že s Honzou na tohle máme úplně jako stejný názor, jo.
+Takže já tohle to všechno úplně jako chápu a samozřejmě ty jako bys mě mohl říct rámcově,
+nebo bys mě dalo nacenit teda kolik by to stalo,
+protože já si troufám říct, že pro nás jako by bude třeba jako určitě jako atraktivní i ta Afrika, jo.
+Protože pokud se jako nepletu, tak tam kluci jako hodně do Afriky prostě jako furt koukají.
+Já jako otevřeně řeknu, že pro mě to pro mě to není úplně cesta,
+která si myslím, že je úplně jako nejlepší, se do toho teď všichni jako zbláznili,
+ale určitě vím, že se tam jako u nás scoutuje taky
+a že vlastně jako myslím, že kvalitní data tam prostě jako proto nemáme, jo.
+Takže stoprocentně bychom, nebo si troufám říct, že bychom poptávali určitě i tady tu část
+a já bych pak byl jako šťastný, kdybychom k tomu mohli získat to API jako našich hráčů
+nebo prostě ty naší soutěže klidně, pokud by to takhle šlo,
+právě protože já jako by to budu, tím, že my máme nějakou jako aplikaci,
+kde všechny máme jako nabustovaný ty data jako ze všech těch zdrojů,
+tak bych je tam zkrátka jako potřebal dostat taky, abych to nemusel dělat jako jakkoliv jinak
+a nemusel to řešit případně jako by přímo na platformě.
+Takže pro nás to určitě jako zajímavý je a věřím tomu, že pokud to bude nějak jako dostupný pro nás,
+tak jako prostě chápu, že se za to zaplatit musí a já se musím, že to jako i vedení vysvětlit,
+protože pokud prostě něco chceme dělat, tak já prostě chápu, že se za to platí.
+Já jsem s tím úplně v pohodě.
+Jasně, jasně, jasně, super, super, super.
+Jo, určitě, jako jednoznačně se s tím totožňujeme.
+Ono třeba to, co zmiňuješ o té Africe, samozřejmě je to, že jo, je to věc názoru.
+Každej na to může mít prostě pohled rozdílnej.
+S tím ale, že víš co, ono i třeba, jak my to i hodně prezentujeme, ta scoutingová část má v podstatě být určitým nástrojem ke snížování scoutingového rizika.
+To znamená, že prostě, ať už je interní rozhodnutí o tom, jestli jdeme scoutovat Afriku nebo ne jakýkoliv,
+tak ten tool vám minimálně prostě jako klubu pomůže v tom, jako maximálně snížit riziko, který souvisí s tím právě scoutovat,
+já nechci říct naplint v Africe, ale jenom pomocí prostě nějakých, já nevím, referenci ze strany agentů atd.
+a tak dále, nebo doporučení, jo, protože pokud mám možnosti na tom regionu Afriky,
+mi dneska máme 256 akademií tuším tam je a nějaký 85 000 hráčských profilů,
+pokud mám prostě možnosti sednout během odpoledne v kanclu za počítač a projít si prostě zápasy atd.,
+a k tomu se nevyrovná jako zdaleka toho, když poletím prostě na tři týmy do Migérie,
+na nějaký prostě scoutingově vytvořený eventy atd.
+a tam budu v podstatě lovit v domnění toho, že prostě trefím toho správného hráče,
+který ho pak vezmu prostě do lovnouce a podobně.
+Jo.
+To je, to je, jak mi říkáme, prostě použijte ten tůle kosíto jako brutální filtr,
+která má pomoct, abyste si nadefinovali top ten hráčů,
+ale jste tam pak na těch top ten hráčů a na ty se zaměřte.
+Ano, možná to výsledku dopadne tak, že nikoho nepřivedete,
+ale to je, když to otočím, ten myšlenkový pochod,
+tak to je možná ve výsledku dobře, že třeba nikoho nepřivedete, jo,
+protože prostě právě díky tomu materiálu, který na té platformě máte,
+jste se dostali do závěrů, že prostě nestojí nám ten hráč za to,
+abychom ho sem vzali, anebo naopak ano, máme prostě tady 85 000 profilů,
+jsme se dostali prostě, já nevím, k top 20 a pojďme se zaměřit teď na těch top 20
+a ano, tam pak dává smysl lejte do prostě kamerunu a tak dále,
+se na ně podívat a tak podobně, jo, čili, čili.
+A určitě, a co se týče nějaké té cenové, cenové,
+jednak teda, jak zmínil jsi ten Weistout, tak to je přesně ten feedback,
+který my z klubů získáváme na denní báze, jo, a řada těch klubů k nám přichází,
+jednak samozřejmě skrz to, že už mají, že už přemýšlej správně v tom smyslu,
+že pokud nebudou reagovat na to, jak ten fotbal se mění zle,
+nic na toho tradingu těch hráčů a tak dále,
+tak zaspí dobu a pak samozřejmě bude problém, jo,
+proto prostě řada těch klubů už najelo na to,
+chceme opravdu identifikovat ten talent, co nejdřív je to možný,
+aby ten talent co nejdřív jsme mohli přijít k nám do klubu a pracovat na něm,
+protože prostě pokud počkáme do té pozdější stage,
+tak samozřejmě ten rád už získává nějakou cenu a už je to složitější všechno.
+Tak to je jedna věc a druhá věc je přesně to, co ty zmínil,
+zohledně těch cen a řekl bych i ohledně,
+a na to my si dost klademe úraz i ohledně nějakým stylu,
+způsobů a formy komunikace zlých vicepelů s klubama.
+Protože prostě u nás to není tak,
+že na méně pozici sedí klasický, když to řeknu obchodák,
+který prostě přijde, tady ti hodí nějakou cenovou kalkulaci,
+berne, nezajímáš mě.
+My takhle se pracuje, my máme úplně,
+proto taky na mé řídli sedím, troufnu si víc já,
+který v podstatě jsem prošel z hlediska nějakého kariéry atd.
+X, Y nejí má možná někdy zajímavějšíma pozicema,
+ale tím, že je ta vášení v ten sport a věřím tomu, co děláme,
+a věřím tomu, že to děláme dobře,
+tak to se pak troufnu si odráží na té komunikaci směrem těm klubům.
+A touhletou cestou my chceme jít.
+A třeba Honzul, jak zmínil,
+tak samozřejmě to je pochopitelně náš nějaký největší,
+asi bych řekl, tah a tlak i na to,
+abysme s Fatscherem od tříštího roku v podstatě,
+že ten projekt udělali my,
+ale když to řeknu kompletně,
+převzali celý mládežnícký fotbal v České republice.
+Vypadalo to, bylo to na spadnutí už letos,
+bohužel, a zase se dostaneme k Weisskoutu,
+jestli jsme dostali nějaký info od Honzy,
+ale bohužel to dopadlo tak,
+že v podstatě člověk z Weisskoutu v České republice,
+všichni víme, kdo to je,
+tak de facto postavil Fatscher do pozice,
+že buď všechno,
+anebo, protože zase chápu,
+že Fatscher pro národělák potřebuje mít přístup na národní týmy,
+na seniorský národní týmy,
+což my nemáme,
+a Weisskout postavil Fatscher v podstatě do pozice,
+že buď máme všechno,
+a nebo my vám nedáme národělky.
+A zohledem na to,
+že bylo místrovství světa,
+že konicla spoluvání,
+nikdo se tomu moc nevěnoval,
+tak nebylo čas úplně
+to jednání natahovat
+z hlediska nějakého,
+pojďme se o tom bavit,
+a bohužel ten svaz to podepsal na jednu sezonu,
+ještě s tím Weisskoutem,
+ale záleženým přečkem z Honzo Leteka,
+ale jsme prostě v komunikaci,
+že uděláme maximum pro to,
+abychom to nachystali o 27 dál.
+A to, co jsme třeba jenom pro tvoje info se bavili,
+tak bylo to, že bychom měli v podstatě...
+Diskutovala se ta u sednáctka, devatenáctka,
+my jsme nabízeli z naší strany
+za super zvýhodněných podmínek
+i právě tu štránsku, patnáctku,
+díky tomu, že v podstatě
+my ji už dneska zpracováme.
+To znamená, že my jsme říkali,
+podívejte se, tady je celkovej počet zápasů,
+kterých se odehrá v těchto soutěžích
+za sezonu,
+ale my ji už dneska,
+třeba já nevím, plácnu,
+60% těch zápasů máme zpracovány.
+A my v tom budeme pokračovat dál,
+protože třeba slávy, baňka,
+tak dále jsou naše partnerské kluby,
+pro které my to tak jako tak děláme,
+a dělám budem. To znamená,
+pojďte se domluvit na doplacení
+jenom té zbývající části,
+a to, co je tady, to, co my už děláme,
+tak nebudeme ji nijak čaržovat.
+Ze strany svazů bylo spíš
+ten tlak na ty sednáctky, devatenáctky,
+ale věřím, že
+pokud by se nám podařilo domluvit,
+takže my jsme našli cestu i na tu čtrnáctku, patnáctku,
+a zároveň
+i msotvalo,
+čofalo, to znamená, že i ty,
+i v podstatě ty rezervy,
+a i
+ženská lega tam byla
+v nějaké té ženské soutěže,
+to byl nějakej ten rozsad,
+to je spolupráce, co se diskutovala.
+Tím, že zase s Aldou Křečkem bych řekl, že se známe velmi dobře,
+a to samé s Honzou jsme ve velmi intenzivních komunikačních kanálech,
+tak tady já se určitě budu ze svý strany snažit o to taky,
+aby se to půjšovalo tímhle směrem.
+To budeme samozřejmě,
+to bych byl extrémně rád,
+protože
+zcela otevřeně
+jedině ten feedback od vás,
+od klubů, nám pomůže.
+Oni sice,
+zase, že jo,
+on za to sám řekl,
+prostě slávě řekne, my chceme iBOL.
+A bohužel
+prostě to...
+Ale já znám bohužel,
+bohužel znám tu, a teď já tomu ani nebudu říkat politiku,
+ale to, co se děje za těma smlouvama
+a jak to funguje,
+ono to nejsou, to není jediná,
+jedinej takovej případ, že to je jako vajskaut, jo.
+Ono takovéhle jako lidí, tam bohužel
+zháčkovaných je jako víc
+na tom svazu a to je,
+to prostě, no to je šílený.
+Takže já ty praktiky bohužel jako znám,
+protože jsem sám byl
+účastených,
+ale
+věřím, že toto, věřím, že tohle to by mohlo
+jako ve jménu fotbalu klapnout, no.
+Doufejme.
+A teď jsme se jako přerušili.
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+
+
+Z práce tím, když hodně záleží klub od klubu, i bych řekl scout od skauta, přístup od přístupu.
+Protože máš scouty ze špičkovej Evropské klubu, který ti řekne, já nepotřebuji vidět data toho hráče za poslední rok a půl.
+Mně stačí vidět za posledních pět zápasů a na tom já si dělám své rozhodnutí.
+Na druhou stranu máš scouta, který přijde a začne se doptávat na zápasy toho hráče tři roky zpětně.
+Což třeba my nemáme třeba jenom skrz toho, že ten hráč na platformě začal tři roky.
+Já se na to dívám jako datový analytik a pro mě ten kontext té historie je strašně důležitý.
+Protože my prostě máme jednou, my jdeme step by step, ale jednou naším cílem přesně je predikovat u hráčů.
+To je jejich nějaký vývoj.
+A třeba v tom scoutingu, ale k tomu dojdeme, to ještě možná někdy dál, ale když já bych měl tu historii jejich, tak já se přece jsem schopen velmi dobře podívat na to, jak on se zatím vyvíjí a když ho porovnám s jinýma hráčema, tak já jsem schopen v budoucnu predikovat to, jestli ten hráč dosáhne nějaký úrovně, kterou chci nebo ne.
+Takže pro mě tohle to jsou, no jenom, že to je těžký, já to vidím jako s trenérama u nás, oni zatím moc ty trenéři v tom kontextu přemýšlet neuměj a je těžký je to naučit.
+Ono jako řada z nich, no jak to říkáš, no neumí, já nechci úplně použít to, že ani nechce, ale někdy z té komunikace s některými prostředmi klubami nebo s trenérama, zvlášť třeba když já nevím, jezdím po klubech, ale teď je úplně jedno, jaká je velikost toho klubu a tak dále, tak prostě přijedeš do menšího klubu, kde bys čekal, že ne, že by byl nějakýho,
+toho dlučí tomu, ale že to nastavení prostě nebude ještě třeba na to, kdy pojďme říct data a jsi jako super milo překvapený, že zrovna je tam jako tým lidí, kteří, i když prostě jdou ty děcka trenovat po práci, tak ale prostě jsou do toho zapálení tak, že i třeba o tom ví mnohem víc, než ty, když přijedeš prostě do semiprofesionálního klubu, kde bys čekal, že prostě už to tomu bude směřovat a tam byl úplně prostě obráceně zatím.
+No to je...
+Super. Super. Super. Super.
+Načrpnout nějaký scénáře toho, co jsme se bavili.
+Bavili jsme se prostě o té datové anonitice, bavili jsme se o tom scoutingu, o tom API a tak dále.
+A mohl bych, mohl bych samozřejmě, přemýšlím jako nahlás v tom smyslu, že pokud třeba, nevím, vy byste zvážili scouting na straně klubu, řekli, že jste půjdem do těchto, těchto zemí, tak OK, já vám tomu budu schopný dát prostě API, či ne za celý český trh, čistě prostě za signu, za úplně jinou částu, než prostě stojí API pro celý český trh.
+Bez toho, aniž bychom dělali nějaké závěry ano, ne, nebo ne, nebo jenom nějaké načrpnutí nějakých možných scénářů, aby jsme si od něčeho mohli odražit dál, aby třeba ty na tvé straně si mohli představit, co jsi schopný pak třeba interně diskutovat nebo prezentovat a tak dále.
+A jinak z hlediska té scoutingové části platformy, já ti můžu ukázat v rychlosti jenom, jak to vypadá.
+Jo, určitě, to bude super.
+A to je dost podobně ono, jak to vidíš v podstatě od toho, co já, když na té scoutingové části platformy otevřu zápas a tak dále, tak to je jako deset, nebo jedna ku jedné deset z desetí to stejný, co ty vidíš na té coachingové části platformy.
+Jo, tedy rozdíl samozřejmě je ten, že na tom scoutingu ty vidíš, řeknu, Českou republiku, nebo vidíš prostě Korvacu a tak dále, nevidíš čistě jenom jako Sigmu, ale i ty ostatní.
+Jo.
+Já ti jenom ukážu pro představu, jak to vypadá a já samozřejmě, když ti k tomu, k té scoutingové části a i k té nové coachingové části, nám posílám materiály, prezentace a tak dále.
+Super.
+A pak třeba klidně se k tomu ještě, než byste o tom bavili třeba interně, já nevím, jakou formu prostě interní komunikace nebo prezentace máte a tak dále, kdybyste k tomu měli jakýkoliv dotaz,
+co bylo potřeba ještě zpovědět, tak stačí dát kdykoliv vědět, můžeme skočit na kone.
+Hele, tohle u nás je dobrý, to, že já jako řekněme, jsem teďka v takový pozici, že já se přímo zodpovídám primárně jako Michalu Hrubýmu, jako řediteli rozvoje a jako vedení.
+To znamená, že ono je nebude ani, já ani nebudu muset tolik jako prezentovat, jako že budu prostě řešit cenu a proč to chceme, jo.
+Takže to naštěstí v tomhle mám jako jednodušší, že oni věří tomu, že pokud já jsem o tom přesvědčenej, tak a přesvědčím je, takže do toho jako půjdem.
+Jo, jo, super, super, super. Já jenom ti v rychlosti ukážu, jenom musím nazdílet.
+Tohle uvidíš, co sdílim.
+Jo.
+Tohle je samozřejmě ta coachingová část té platformy. To, co v podstatě víte, kdy využíváte na Signě.
+Já to mám na Lil otevřený, protože je jeden z prvních partnerských klubů, když jsme začínali a máme s něma domluvu, že v podstatě jeden z jejich profilů můžeme využívat pro prezentace.
+Já jenom, než se překlapnu na tu scoutingovou část, tak já jsem ti chtěl jenom tady v rychlosti ukázat, kde si myslím, že jak jsem říkal, že jsem vám tam taky dal na vyzkoušení nějaký ty, nějaký ty fyzický metriky.
+Doufám, že jsem to přiradil vám, nevím, že jsem dal nějaký zápas Slavy a mám pocit, že jsem dával i vám.
+A já myslím, že tady zkusím otevřít profil.
+Profil.
+Já s tím vůbec neumím pracovat, když to je v té češtině, protože my jsme měli jenom angličtinu, ještě do nějakého, bych řekl, tak srpna.
+A v tom jsme vydali asi sedm mutací jasnkových. A já to mám prostě už v hlavě naučený, všechno prostě v té angličtině, tak to přemýšlím.
+Ale to klidně, jako jestli si to chceš mít v angličtině, tak já jsem s tím v pohodě.
+Já pak ten scouting dám do angličtině, protože já bych zase musel odhlásit a ten jasný si vybíráš v té login page.
+Já spíš jenom jsem ti chtěl ukázat, já jsem optavěl profil hráče v rámci LIL.
+A v rámci toho profilu, tam je overview, games, performance, events, v rámci events v podstatě je možnost vytvářet klipy napříč zápasemi,
+ale v rámci rozvoj, já to všim, že v angličtině se znamenáme development, je to moc možný,
+tak je v podstatě herní profil a fyzický data, kde pod těma fyzickýma datama on tady to zrovna nemá, tady ten hráč.
+Mně se asi nepřece vakla stránka ani, já vidím furt to.
+Jo, tak to je, ty vidíš to, super, to je prostě Teams, výdrž, výdrž.
+Já nevím proč, ale i když nastavím, aby bylo vidět všechno v rámci Teamsů,
+na určitý podstránky, mě to přitom sdílení nevezme.
+A nemáš Maca?
+Ne, ne, ne.
+Že nám s Applem vždycky ty Microsofti nástroje ty spoluprace, ale prostě nechtějí.
+Já vím, že tam s tím to, že to hapruje. Teď ten profil vidíš.
+Jo, jo, jo.
+Jo, super, no jenom, že já jsem výdrž, tak já si musím ještě otevřít nějakého jiného hráče,
+jestli náhodou toho jiného neuvídíme ty metriky.
+Vteřinku, já zkusím to hledat.
+No, asi to teď jako schvál nedovedám, ale já jenom ti ukážu, já jenom ti ukážu,
+a já jenom ti ukážu, já jenom ti ukážu.
+Co je to mít?
+Myslím, že ještě jednoho hráče si tady otevří, jestli náhodou ne.
+Ale nevidím to tady, nevadí, nevadí.
+Ty vidíš teda, ty vidíš, co teď vidíš?
+Teďka vidím zase ten tým.
+Přehled týmu.
+Přehled týmu.
+Vydrž, že já to přesdílim, protože já tady jsem samozřejmě
+v mezi dobří si otevřel dalších sedm pod stránek.
+Tak já to přesdílim.
+Přehled tým.
+a odpůsobам
+vytvěr
+vytvěr
+práci
+докумynace
+a
+být
+Super, zrovna se mi podařilo teď otevřít hráček, kde to bude vytvořit.
+Já jsem proklikl na jméno hráče z mého týmu, řekněme z Lil, v vašem případě to bude Sigma.
+V té části rozvoj je herní profil, tady by se měly vyskytovat behaviorální data,
+jak jsem říkal, to co třeba souvisí s chováním toho hráče v určitých herních situacích a tak dále,
+z hlediska třeba panel language a tak podobně. Fyzické data jsou v podstatě k dispozici pod touhle záložkou.
+Ty tam uvidíš, tuším, psychometrics by mělo být a je možnost, a teď já to zase ty nevidíš.
+Já musím jenom odebřít manželce, ona se mě vrátila a já mám zamčena.
+Pohodě, jasně, jasně.
+Pardon, já jsem vzpěn.
+V pohodě, v pohodě. Já co jsem ukazoval v podstatě tady pod tou částí fyzické data,
+tady pod tím daným hráčem vidím, že tady mám reporty k určitým zápasu.
+To znamená, že já můžu přes tu ikonku očička nebo eyeballu si zobrazit ten report,
+kde uvidím fyzické data toho daného hráče ze zápasu, anebo si v podstatě to stáhnout do PDF-ka.
+To je nějaká forma prostě toho, co bude k dispozici na té nové verzi.
+A pod tím herním profilem tam budou typy HPH vyorální metriky,
+kdy, jak jsem říkal ti, to bude říkat třeba to, jak ten hráč reaguje v těch situacích atd.
+Já jsem to chtěl tím ukázat, kde se to dá najít nebo kde se to bude dát dohledat,
+ale na té nové části té platformy to zase bude vizuálně trošičku jinak vypadat,
+ale bude to taky pod tím herním profilem toho daného hráče.
+Dobrá, já se přehlásím na ten scouting vteřinku.
+Překladnout. Vidíš teď tu login page?
+Jo, jo, jo.
+Jo, super.
+jo, že.
+Nechci, víš, třiřižte rečet Sonje nece nebuje k지고ky.
+Jaja, super.
+Jo, já třeba, já ti jenom ukážu názorně, v podstatě tohle je scoutingová část platformy po přihlášení, tohle je homepage té scoutingové části, já ti ukážu pod záložkou té vlaječky, nebo té jedné vlaječky, tak když to rozkliknu, tak v podstatě tohle ti říká naše pokrytí ve zemích Evropy, kde v podstatě dneska jsme.
+Když půjdu do Afriky, tohle jsou všechny země v podstatě v rámci Afriky, Alžicka se bude otvírat brzy po nízko, v rámci Latam, na co jsme měli teď tu masterclass, tak Argentino, Brazily, Kolumbia, Uruguay, Akvádor, bude otevřený brzo Mexiko, který máme ale pod Severní Amerikou a máme nějaký národě, jaký třeba, nevím, Korvatsko má v podstatě všichni mládeš,
+všichni národě, jaký na platformě a tak dále. A teďka probíhají expanze v rámci v rámci Ázie.
+A jak jsem zmiňoval, že jedna forma té visibility těch klubů pro tu scoutingovou klientelu je ta Elite,
+to znamená v podstatě všichni ty partnerský kluby napříc světem, tak s tou novou coachingovou částí té platformy,
+jak jsem říkal, že si svýbou je, že tam v podstatě je integrovaný tlačítko, dej můj tým visible na scouting,
+tak v ten moment, pokud já jsem scoutingový klient iBallu, tak kromu toho, že platím za přístup třeba do kamerům,
+gambě a tak dále, tak zdarma ještě dostanu všechno to, co se děje na té coachingové části u těch klubů,
+který si vybrali, že chtějí být visible na scoutingu a jednoduše překlapnu na Discover a v podstatě se mi zobrazí
+v podstatě země, který už odkud si kluby dali, už svou visible na scoutingu a jak jsem říkal,
+my jsme začali s tím v Severní Americe, v podstatě kluby, co teďka zatím využívají tu novou,
+protože my jsme s ní začali, tuším, to bylo začátkem září, takže jako zatím mi řekl tak desítka klubů v rámci Evropy,
+co to využívají hodněji, v Kanadě, v Americe a tak dále, tak tady už vidí, že v podstatě v momentě,
+kdy klub nějakej z Ameriky nebo klub z Čech, amatérskej klub z Čech, řekněme, se rozhodne být visible na scoutingu,
+tak v té momenti tady přibyjde Česká republika a v podstatě ten klub je automaticky viditelný na té scoutingové části.
+Čili já, když budu prostě scout Liverpoolu, tak automaticky k tomu, co mám pod elite, za co ten klub platí,
+tak součástí toho dostanu zdarma v podstatě tohleto a za tuhle stučást my nechceme v podstatě čaržovat ten scouting,
+protože zaprvé to nedává logiku, protože prostě oni ten fokus mají v tom prvopočátku trošičku někde jinde,
+ale my zase do nich pušujeme to, aby v podstatě čekovali i to, co je na té discover části,
+protože nikdy nevíš, kde ten talent objevá, a za tu visibilitu za tuhle část v podstatě platí ty kluby,
+které chtějí být visible pro ten scouting. Čili a naším úkolem je samozřejmě to tlačit do těch profi klubů,
+aby čekovali i tuhle stučást, a zase my na naší straně, samozřejmě na tom backendu a podobně,
+nebo v nějakém naším admin prostředí vidíme tu aktivitu těch klubů, jestli jdou na ten discover,
+jestli nejdou, kde potřebujeme zatlačit, kde potřebujeme jim říct, pojďte se tady podívat,
+nebo jim třeba hodit nějakej marketingovej, když to řeknu podklad, aby jsme je namotivovali k tomu a tak dále,
+o tom, že je zase další strana, další strana mince. A když ti jenom v rychlosti,
+v podstatě já nevím, řeknu třeba v rámci té Afriky, jak jsme se bavili, já vyberu všechny země v rámci Afriky,
+já nevím, jestli jsem to měl něco, neměl jsem nic z Evropy zaškrtnutý, jo, mám 17 zemí v rámci Afriky,
+tak se ti to změní prostě podle toho, co si je v zemi, si vybudeš nám scouting.
+Latest news part, já tě provedu jenom tou homepage v rychlosti,
+Latest news part v podstatě super úležitá část té scoutingové část platformy,
+protože tady v podstatě my sdílíme nějaký jednak naše knowledge,
+souvisící s těma jednotlivýma trhama a informujeme scouting o tom, co se děje, kam dát oko,
+na co se zaměřit, aby jsme nějakým způsobem usnadnili tu práci scoutům v klubech a tak dále.
+Třeba, já nevím, must watch games, jo, typicky prostě já a moji kolegové na přícvětém
+vybíráme po každém víkendu zápasy z mládežnických kategorií,
+který považujeme ze scoutingového hlediska za zajímavý,
+to znamená, jo, tady třeba vidíš u 14 z Francie, jo, kolega vybrat prostě tyto zápasy.
+Cílem je, aby jsme zase usnadnili tu práci v tom, že ty nemusíš jít prostě per kluby,
+dohledávat toho, filtrovat a tak dále, ale abysme ti dali nějakej ten hint,
+když řeknu nějakej tento strčení, se jí třeba podívat na tento zápas,
+to, jestli ten scoutů využije nebo nevyužije, že samozřejmě jakoby na něm, jo.
+Pak, co tady dál dáváme, tak jsou třeba scoutingový reporty na hráče, jo,
+to znamená, že prostě vybereme, vytipujeme nějakýho hráče,
+který se nám jedlí zajímavě a připravíme na něj scoutingový report,
+to znamená přímo s propojením na profil toho hráče na platformě, jo,
+s popisem toho hráče, odkezy na nějaký videa, na nějaký zápasy a tak dále zase, jo,
+ten scout může jít na to hráče, se podívat nemusí.
+Je to prostě taková, bych řekl, prostřednictvím těch ladies news,
+dáváme nějakou takovou pomocnou ruku tomu scoutingu v těch klubech.
+Nebo já nevím, byly teď každou kolapy do nároďáků,
+tak když třeba, když jsme tady, když jsme měli ten latán,
+tak zkusím, jsme tady dávali toším urubajský nároďák,
+krásně byl vítěc.
+Nejem, já tady otevřu Kolumbii třeba,
+otevřu kolumbijskou nominaci U20 do národního týmu,
+vidíš prostě v podstatě hráče, jména hráčů a okamžitě vedle toho,
+všichni ti hráči, kteří jsou na jejich bolu,
+tak s propojením na jich profil.
+Jo, to znamená, že prostě asi otevřu ten hráčský profil,
+vidím ten hráčský profil, vidím jeho zápasy a tak dále.
+Čili zase nějaký prostě taková nápomocná růcha, bych řekl.
+Players of the Week, systém na základě algoritmů,
+ti vyhodí prostě nejúspěšnější hráče,
+jsou klidulo víkendů na základě, já nevím, třeba střelenej kohoru a podobně.
+Tohle je spíš takový zatraktivnění.
+Naproti tomu Suggested Games a Players to Watch,
+tato část, stejně tak jako tato část, je připravená náma manuálně,
+to znamená, že my zase vybíráme zápasy, které ze scoutingového pohledu bereme za zajímavé.
+Jo, zase, scout může, nemusí to využít, je to zase prostě nějaké ulehčení té práce Players to Watch,
+zápasy, které my bereme za zajímavé ze scoutingového pohledu,
+na který by stálo za to se zaměřit a tak podobně,
+aby jsme usnadnili tu práci scoutingu.
+V rámci Search Club, Search Players, já jsem minulou středu prezentoval Afriku
+a byli jsme někde kolem 256, teďka je 281,
+to znamená, že kolegové tam podepsali další kluby
+a v podstatě dnešku v té Africe 281 klubů skoro 90 000 hráčských profilů.
+Čili tohle střetí v podstatě dává info o tom, jaký je pokrytí v rámci toho daného regionu nebo té dané země.
+Když bych klikl na View Clubs, tak se mi zobrazí všechny kluby,
+View Player, zobrazí se všichni hráči.
+Ladies News to je automaticky na základě algoritmu vyplivnutý,
+zápasy na tu homepage z posledního uploadingu.
+My Eyeball to je nějaká forma tvýho vlastnímu dashboardu,
+kde v podstatě ty si můžeš ukládat všechno, co děláš na té platformě
+a projeví se ti tady.
+To znamená, že když se odhlásíš, přihlásíš,
+tak pak pokračuješ v tom, kde jsi skončil.
+Váže se to a děje se to formou této Eyeball ikonky,
+jestli vidíš vedle těch klubů.
+Já teďka mám 16 klubů v mých oblíbených, řekněme,
+nebo v mých, kterých sleduju.
+Když si vyberu tento klub, kliknu na ikonku,
+tak mi vyskočí popup window, že klub byl vozenej do mých favorites.
+V podstatě, když si refreshnu stránku a ze scrollu dolů,
+tak budu mít 17 klubů.
+A to stejný funguje s Teams, to je myšleno s kategoriemi,
+stejně tak s hráčema, kdy já si můžu u hráčského profilu kliknout na ikonku Eyeball,
+protože se prostě na toho hráče chci pak zaměřit,
+a stejně tak, když sleduju zápas a budu se na ten zápas těch vrátit, pak znovu.
+Samozřejmě tohle je dobré, z hlediska toho, když si třeba v rámci scoutingu vytvářím školivisty hráčů,
+na který se chci zaměřit.
+A další propojenost třeba ukládání těch hráčských profilů se děje i přes My Shadow Teams,
+kdy já si otevřu můj profil přes výkonku, a vlastně to, co jsem ti ukázal tady dole, ten dashboard tady,
+tak já ho si můžu otevřít i tady, a když si budu chtít udělat nějakou formaci,
+která prostě je v nějaké mé úvaze, tak si otevřu My Shadow Teams,
+otevře se mi ten dashboard tady, taky, jo, v této lince,
+a teď si třeba budu chtít nastavit Sigma 4.4.2, Create New,
+a teď si můžu hrát prostě zkládání těch hráčských profilů,
+který jsem si uložil do toho MyPlayer,
+to znamená, že já jsem si scoutoval tady DOSA z Ivory Coast,
+a prostě budu si ho chtít hodit zrovna útočníka,
+budu si ho chtít hodit prostě do té dané pozice, jo,
+a teď si s tím můžu prostě hrát,
+můžu si ho sem sem, a tak dále, a můžu si v podstatě sestavovat tu formaci,
+podle toho, jak uvažuji, nebo jak přemýšlíme, a tak dále.
+A samozřejmě, že když půjdeš do MyPlayers,
+tak tady vidíš ten shortlist těch hráčů,
+to znamená, že v podstatě vidíš ty vytipovaný hráče,
+můžeš ty hráče i hodnotit v rámci prostě toho daného zápasu,
+jak ti ukážu za chvíličku, kde jak.
+Čili tohle je nějaká ta vlastní dashboarda, která je tady.
+Tady je pak dole přehledu komplet list těch klubů,
+který ale já dostanu i proklikem na tuhle záložku.
+Tady vidím všechny v podstatě kluby ze všech těch zemí.
+Vidíš, že v podstatě jich je celkově 281 těch klubů.
+Jedna těch klubů, jak říkám, z hlediska scoutingu,
+z hlediska relevance těch klubů.
+Tohle, co jsou všechno, dá se říct, špičkový akademie, vděkanej zemí.
+Pro zjednodušení třeba, nevím, vyberu Nigerii, Submit Filters.
+Tady třeba, nevím, co mě vezme, okotřeba Beyond Limits.
+To je jedna z nejlepší prostě akademie vůbec v Africe.
+Když budu chtít vidět Beyond Limits, kliknu na jejich profil
+a v podstatě od teď je to už hodně podobné tomu, co ty vidíš na té coachingové části.
+Vidíš nějaký popis z té akademie kontaktních budajek klubů.
+To znamená, já když budu mít zájem o hráče z Beyond Limits,
+úplně jednoduše kliknu na kontaktních budajek klubů
+a okamžitě jdu do interakce s tím klubem.
+Samozřejmě, kdyby se stalo, že ten klub třeba neodpovídá
+nebo něco, jsem tady já, nebo je tady kolega, co je přijím v Africe,
+jednoduše vás prostě propojí.
+To znamená, že když si vám nemíte vzájem o hráče z Beyond Limits,
+okamžitě máte kontakt na zástupce Beyond Limits.
+A můžete s nimi prostě do interakce, ohledně prostě hráče.
+Tady když to rozkliknu, tak třeba u Beyond Limits vidíme,
+že máme 17-19 senior tým.
+Je to třeba tohle typické z důvodu právě FIFA regulí,
+protože prostě podívám se na U19, kdy vím, že už hráče z U19 můžu přivízt do Evropy
+a zaměřím se na něj, vezmu do Evropy dánu prostor v rezervě,
+uvidíme, jak se adaptuje a tak dále.
+Z nějaké vířího, samozřejmě v ideálním případě, dostat do prvního týmu.
+Když se budu chcít podívat na zápas, třeba U19 kategorie,
+jednoduše, úplně teď už to stejné v podstatě, co znáš z té coachingové části.
+Otevřu si ten daný zápas a vidím v podstatě to dané,
+já samozřejmě tím, že mám ty mobilní data,
+to je to trošičku pouhajší.
+V pohodě.
+Vteřínku.
+Já bych se zkusil přehodit na normální připojené.
+Dobrý, já jsem vybral tady tento.
+Jo, otevřu si ten daný zápas,
+tady vidím nějaké prostě zhrnutí toho daného zápasu.
+A pak už si s tím můžu hrát,
+ať už na té videodatové části,
+nebo v rámci Data Insights úplně stejným způsobem.
+Jak v podstatě znáš z coachingové části,
+můžu vás to.
+Já procházat i nebudu,
+protože tohle jsou všechno featurey,
+které ty znáš.
+Co je třeba tady navíc,
+je právě ta možnost toho hráče hodnotit.
+To znamená, že já třeba, já nevím,
+hrát 16, o Gili, o Gili,
+bude v nějakém mým zájemu.
+Přes tlačítko plus,
+jeho výkonu s tom daném zápase,
+a i potenciální výkon.
+Za jeho třeba vnímám nebo vidím,
+můžu si k tomu dát nějakou svou note,
+pro oč a tak dále,
+a když kliknu na Save,
+tak v podstatě tady vidíš,
+i this player will appear in my players.
+To znamená, že když já si ho uložím,
+tak v podstatě toho hráče,
+toho hráče,
+player rate has been saved,
+tak toho hráče pak najdu v této části
+pod my players.
+můžu vidět i to hodnocení,
+který jsem dal a tak dále,
+a uvidíš ho předhodně v tom shortlistu.
+To znamená, že pak vidíš všechny hráče,
+který jsi v podstatě vybral,
+vyfiltroval a tak podob.
+Já jsem klikl na profil toho daného hráče,
+ale to už jas ty nevidíš.
+Děkuji týc.
+Zkusím, zkusím.
+Tady, já to zkusím přesdílet ještě jednou.
+Nevidíš ten profil.
+Ne, ne, ne.
+Ale tohle už není nic novýho,
+co bys neviděl předtím,
+protože to ty vidíš už na vaší straně.
+Máš prostě profil daného hráče,
+i prostředním tady tlačítka,
+si ho můžu přijít do Shadow Teams.
+Vidím v podstatě, mám v podstatě
+kompletně vyplněnej profil,
+když se na něj budu chtít,
+pak podívat znovu, kliknu na její klopku iBall,
+hráč se mi uloží.
+Vidím v podstatě statistiky toho hráče.
+Vidím, že tady ten hráč už má na iBall 60 zápasů.
+Přes 2700 minut.
+Tady vidím list zápasů,
+vidím tu kariérní historii toho hráče.
+Můžu jít se podívat do
+dat toho hráče,
+jaké jsou data.
+Budu mít možnost coming soon
+si toho hráče i srovnat,
+dva tři hráčských profily vedle sebe.
+V rámci development nevím, jestli srovnat tento hráč.
+Tady má
+nějaké už ty nový metriky,
+nevím, jestli nějaké fyzické metriky.
+Tady nemá, protože prostě to nemá ten dva cený.
+Tady nejde vidět.
+Jo, ale v podstatě
+přes sklap si vyberu
+tu danou zemi,
+která mě zajímá.
+Podle toho pak jdu cílit na ten klub
+nebo na ty daný hráče.
+Přes klet profil samozřejmě tohle
+z hlediska dát scoutingu
+a podobně.
+Z třeba vyhřit do toho všeho.
+Prostě tady vidíš všechny hráče,
+vidíš všechny země.
+Samozřejmě já si tady můžu navolit.
+Byť mám celý třeba
+africký bundle zaplacený,
+tak ale dnes se fokusu třeba jenom na Nigéry.
+Tak si tady vyberu čistě jenom
+prostě Nigéry.
+Dám si pryč všechny ostatní země.
+Můžu si vybrat,
+jakou chci kategorii
+vyfiltrovat.
+Tady tento filtr pracuje spíš s takovými biodatami,
+abych řekl.
+Mám u toho hráče pozici,
+budu fokusovat na určitou pozici,
+výšku váhu, potvrdím,
+systém jim vyfiltruje, co jsem si vybral.
+Další filtr, sloupce.
+Máme jméno,
+klubová příslušnost,
+tým a tak dále,
+ale já si můžu ty sloupce upravit,
+jakkoliv chci.
+Máme nějaký přednastavený,
+který se ti mění podle pozice,
+kterou si vybereš,
+ale já si to samozřejmě můžu
+roli, manuálně, tak jak chci.
+Já dám třeba dopryčetnout toho,
+ale bude mě zajímat třeba přesnost nahrávek,
+passes, key passes, forward passes,
+a dám třeba minutes plate
+a dám apply column selections
+a vidíš, že chci ti to změnit,
+vlastně podle to, co jsem si nastavil.
+A samozřejmě
+procenta
+ti říkají nějakou úspěšnost
+postavení toho hráče v porovnání
+s ostatníma,
+top 20, middle 20,
+tmavě červená,
+tmavě zelená,
+šedá, samozřejmě tmavě zelená,
+top performance,
+výkonnost,
+to je na následované metrice.
+můžete tam zobrazit hráče,
+já nevím,
+procentově z nejvyšší přesností nahrávek,
+tady vidíš, že prostě to máme
+random seřazený,
+od v podstatě
+těch horších,
+po nějakou úměrnou výkonnost,
+po ty lepší,
+které jsou,
+z hlediska procent,
+já si nastavím třetí filtr,
+vyberu si passes accuracy,
+dám 80-100%,
+když kliknu na submit filters,
+tak mi to zobrazí ty hráče
+v rámci těch top 20%,
+když si je kupnice řadí
+od nejlepšího po nejhoršího
+v rámci těch top 20%,
+když tyhle šipečky kliknou
+u systémy,
+to se řadí od nejlepších
+po ty horší.
+Samozřejmě,
+můžeme se ptát,
+jaká je relevance pro mě,
+když někdo má
+bez zápas a někdo má
+2000 minut.
+Jednoduše půjdu sem
+a tady si nastavím
+tu minutáž,
+kterou chci minimálně zobrazit,
+to znamená,
+že minimálně 450 minut.
+Teď vidím,
+že prostě nemám tady
+nikoho mít než 450 minut.
+A už ten vzorek,
+už ta relevance
+je pro mě jiná než.
+A samozřejmě si to můžu
+i z té horní hranice nastavit,
+snížit.
+Prostě já nevím,
+musím sledovat 400-600 minut
+a tak dále.
+Záleží prostě,
+co mě bude zajímat.
+Tady tahle část
+player profiles,
+výhledávání hráčů
+přes filtry
+a tak dále,
+přes všechny
+ty tři filtry.
+Můžu říct,
+že na té scoutingové části
+je extrémně používanou
+částí platformy.
+A pak samozřejmě
+ten scouting,
+co to využívá,
+jde vysledovat
+ten videomateriál,
+jde se podívat
+na profil toho hráče,
+už si hraje s tím,
+jak se mu ten hráč
+v rámci Shadow Teams
+hodí do té formace,
+kterou má třeba v hlavě,
+jak třeba vypadá
+v rámci toho hráčského
+shortlistu
+v porovnání s těmi
+ostatními hráčmi a tak podobně.
+Jo, čili to je tohlenstvo.
+A v části National Leaks
+v podstatě vidíš
+za všechny země,
+jaký nejvyšší soutěže,
+nebo jaký soutěže
+v té dané zemi máme.
+Já třeba jenom rozkliknu
+Českou republiku
+ze zajímavosti
+U14, U15, U17, U19
+a ČFL,
+protože Mladá Voleslav, Loko, Praha,
+kdo tam ještě byl,
+Mladá Voleslav, Loko,
+tuším možná Bohemka
+a jestli Teplice,
+rezervaci se nepletu,
+tak ti měli i v podstatě
+i třetí ligu.
+Jo, čili tohle to jsou,
+tohle, nevím,
+přehodím nás třeba
+Slovensko,
+U19, U16, U17.
+Na Slovensku to máme
+v rámci Výruze
+přímo ze Svazem.
+Tam máme spolupráce
+přímo ze Svazem.
+Ale taky ti můžu říct,
+že třeba řada klubů,
+enak teďka jsem v komunikaci
+s Dunajskou Stredou,
+Košice, Trenčín,
+zvažují využití iBallu
+i pro čtráctky,
+na patnáctky,
+protože prostě chtějí
+mít všechno pod jednou střechou
+a jsou zbuklení s tím produktem.
+Takže tak,
+Chorvatsko,
+tam taky máme spolupráci
+přímo ze Svazem,
+tam máme prostě
+třináct, patnáct, sednáct, devatenáct
+a nově a ještě tam je i seniorská soutěž,
+ale nově tam je ještě,
+to tady zatím chybí v tom update
+i u 18 a u 16,
+protože o nim udělají pilotní projekt,
+celostátní u 16 a u 18 soutěže v Podvodsku.
+Čili tohle je v podstatě
+ta scoutingová část platformy.
+Říkám, jako je to o tom,
+si navolit tu zemi,
+kterou ten klub chce scoutovat,
+nebo země, trhy, regiony,
+je to záleží a pak prostě samozřejmě
+jako tyto do velké míry
+znáš z té coachingové části,
+protože ono po otevření toho profilu
+toho klubu nebo toho zápasu
+už se toková jako velmi, velmi podobně.
+Samozřejmě ta výroda tady je to,
+že na té straně těch hráckých profilů
+ty vidíš všechno v podstatě,
+když ten klub má jenom tu coachingovou část,
+tak vidíš v podstatě jenom svoje hráčky.
+Jasně.
+Takže to je ten scouting.
+Hele, to je skivelý.
+Tohle si myslím,
+že se kolegům našim může líbit
+hodně i když koukám na to,
+které soutěže tam jsou.
+To je perfektní.
+Takže to určitě budu rád za,
+když by si mě dal i cuninu tady na to,
+abych to mohl předníst,
+protože to si myslím,
+že nebude těžký u nás někoho do tohohle natchnout.
+Jako je to, víš co,
+pokud, vcela upřímně,
+pokud prostě není klub,
+kde to,
+a to já nemyslím špatně,
+ale kde to nastavení
+hládný,
+hládný,
+jak bych to nazval,
+není od A po Z,
+proti tomu.
+Není zaseknutý 15 let zpátky,
+když to zaseknu v louky.
+Tak ten, kdo to trošku vnímá,
+a kdo vnímá i to,
+jak ten fotbal se vyvíjí,
+tak tohle jste okamžitě
+je přesně tu,
+které chceš.
+A je to jít,
+když to řeknu,
+ty výsledky,
+nebo ta využitelnost
+na té scoutingové části,
+všechny kluby
+jednoho klubu,
+protože kolega
+podepsal minulej týden,
+ten jeden z těch dvou,
+se vám chybili,
+všechny kluby v Premier League,
+v Serii A 87% klubů,
+La Liga 90% klubů,
+Bundesliga to stejný.
+A samozřejmě i kluby
+z nižších soutěží,
+nebo z top evropské květky,
+protože víš, že v tom je ten potenciál.
+Takže tak,
+to je eyeball.
+To je hezký,
+protože já jsem ten obrázek neměl takhle velkej,
+tak to je prostě perfektní
+a budu za tu cenu určitě rád
+a co nejdřív to nějak tady u nás pak vyřešit,
+aby jsme případně to mohli posunout dál.
+Já jsem si to jako nadšený,
+mě se to líbí
+a tohle budu určitě se snažit tlačit hodně.
+Fakt se mi tak líbí.
+Super, rád to slyším.
+Já říkám, já připravím,
+já si to nějak taky porovnám
+na té straně v hlavě,
+jak mi dávalo smysl jít dál
+a spíš bych v té první fázi
+ti poslal
+nějaký třeba 2-3 nožný scénáře
+nebo něco takového.
+Určitě.
+A připojil bych ti k tomu
+i prezentace
+a současně i ceny,
+jak se pohybují,
+aby ty jsi třeba věděl,
+jak to,
+jak to už bych řekl,
+obrušovat na vaší straně
+vyskat toho, co by dávalo smysl využít,
+abychom se třeba dostali
+nějaké vzájemné komunikaci
+v té finální podobě.
+Toho, co by prostě pro vás dávalo smysl.
+Jo, no určitě.
+To je úplně ideální postup
+a to je super.
+Na to se fakt těším.
+Spělý. A požuji ti dneska ještě link
+na tu masterclass.
+Perfekt, mrknu na to.
+A my jsme měli mimochodem ještě
+součástí těch prezentací
+v té scoutingovej části.
+Já nevím, jestli jsem to na WhatsAppu
+v tom minulém týdnu zmiňoval,
+ale my jsme, letos tohle už byla čtvrtá masterclass
+na, tahleta teda
+na Latam,
+předchozí dvě, jedna byla na Španělsko
+a další dvě na
+země západní Afriky.
+Jo, já ti,
+v té prezentaci jsou ty linky,
+ale samozřejmě já ti pošlu
+i ty ostatní.
+A rozhodně doporučuji se na to podívat,
+protože prostě vám to dá
+zase bych řekl trošku
+lepší,
+větší povědomí o tom trhu,
+jak tam scoutovat, jak tam cíl je
+a tak dále.
+Je to hodně cenej pomocná ruka, bych řekl
+pro scoutingově udělení.
+No a to je super,
+jako to se mi líbí moc,
+to věřím, že jako využijem hodně,
+nebo že se na to kulci jako mrknou
+a já taky rád, to se přiučím.
+Super, byli jsme.
+No tak fajn.
+pro děti.
+Super.
+Pomlouvám se, že to trvalo trošku díle.
+Tak jsem chtěl, víš co, spíš ti jako
+poskytnout ten celý obrázek,
+protože jedině tak pak je člověk
+schopný to navnímat všichno, no.
+Hele, úplně jako, úplně v pohodě.
+Já děkuji za tvůj čas naopak a jako jsem moc rád
+a jako těším se na to.
+Těším se na to.
+Takže.
+Děkuji ještě jednou, jsme v kontaktu.
+Připravím pošlu a dáme si pak.
+Perfekt. Tak fajn.
+Chceš mít za to, nejrát jsem tě poznal.
+Děkuji se, ahoj.
+Děkuji se, ahoj.

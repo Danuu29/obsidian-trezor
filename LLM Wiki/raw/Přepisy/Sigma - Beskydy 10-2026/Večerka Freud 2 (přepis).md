@@ -3,13 +3,16 @@ typ: prepis
 akce: Sigma – výjezd akademie Beskydy
 datum: 2026-10-12
 datum_do: 2026-10-14
-nahravka: "Večerka Freud 2"
-souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]]"
-finalni_souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]"
-tags: [prepis, sigma, beskydy-2026]
+nahravka: Večerka Freud 2
+souhrn: "[[Game Plane|Game Plane]]"
+finalni_souhrn: "[[Finální souhrn|Finální souhrn]]"
+tags:
+  - prepis
+  - sigma
+  - beskydy-2026
 ---
 
-> [!info] Automatický přepis nahrávky „Večerka Freud 2“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]] · [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+> [!info] Automatický přepis nahrávky „Večerka Freud 2“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[Game Plane|Game Plane]] · [[Finální souhrn|Finální souhrn]]
 
 Já si představuji to, co jste tak říkali, dělat cítu vývodu, protože pořád si myslím, že mapa je něco, co ty chceš využít k tomu, aby se dostal prostě k tomu cílu, to znamená volk.
 To znamená, abys měl jako dobře postavený jiříště, tady to máme hlavně spolu ten zivy, to znamená, měl ty hráči v nějakých pozicích, kteří na sebe můžou nalažovat a spolu fungovat.

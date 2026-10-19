@@ -108,4 +108,4 @@ Mám z toho udělat dokument, který můžeš sdílet s ostatními?
 
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Struktura týmů (přepis)|Struktura týmů]]
 
-Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+Celkový přehled akce: [[Finální souhrn|Finální souhrn]]

@@ -3,13 +3,16 @@ typ: prepis
 akce: Sigma – výjezd akademie Beskydy
 datum: 2026-10-12
 datum_do: 2026-10-14
-nahravka: "Večerka Freud 3"
-souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]]"
-finalni_souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]"
-tags: [prepis, sigma, beskydy-2026]
+nahravka: Večerka Freud 3
+souhrn: "[[Game Plane|Game Plane]]"
+finalni_souhrn: "[[Finální souhrn|Finální souhrn]]"
+tags:
+  - prepis
+  - sigma
+  - beskydy-2026
 ---
 
-> [!info] Automatický přepis nahrávky „Večerka Freud 3“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Game Plane|Game Plane]] · [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+> [!info] Automatický přepis nahrávky „Večerka Freud 3“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[Game Plane|Game Plane]] · [[Finální souhrn|Finální souhrn]]
 
 To nechutí, kdyby v prejku, přechodů, a budeme ty hráče hledat úplně nějak, jak si množ se pesejí.
 Atletico, když se vydělá v tom bloku, čtyři čtyři dva, píč a nechutný úplně, když na to došlo dokázali mi držet balón, ale prostě nedostal se zvoník a věděli, že oni nějak dostat pouniční, k tomu jako dojvěli.

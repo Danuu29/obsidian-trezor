@@ -3,13 +3,16 @@ typ: prepis
 akce: Sigma – výjezd akademie Beskydy
 datum: 2026-10-12
 datum_do: 2026-10-14
-nahravka: "Kroky a plán"
-souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]]"
-finalni_souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]"
-tags: [prepis, sigma, beskydy-2026]
+nahravka: Kroky a plán
+souhrn: "[[Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]]"
+finalni_souhrn: "[[Finální souhrn|Finální souhrn]]"
+tags:
+  - prepis
+  - sigma
+  - beskydy-2026
 ---
 
-> [!info] Automatický přepis nahrávky „Kroky a plán“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]] · [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+> [!info] Automatický přepis nahrávky „Kroky a plán“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[Shrnutí detailů a seznam úkolů|Shrnutí detailů a seznam úkolů]] · [[Finální souhrn|Finální souhrn]]
 
 Tady máme tady kluhotní kalábesníci a druhý ním než klasnicí, než než než než než než než než než než než než než než než než než než než.
 Říkajte vám pojdu dvě, ročky do toho než si chci jednou vzduch kapitulu doplnění.

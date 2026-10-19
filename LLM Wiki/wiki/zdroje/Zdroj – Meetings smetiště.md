@@ -7,7 +7,7 @@ aktualizovano: 2026-10-15
 ---
 # Zdroj – Meetings smetiště
 
-Vlastní poznámky Danů z meetingu 12.–14. 10. 2026 (výjezd akademie) a z navazujících porad. Neformální „odkladiště“ – obsahově se kryje s [[Zdroj – Porady akademie (podzim 2026)]], ale obsahuje navíc konkrétní požadavky na Yarmill. Zdroj: [[SK Sigma Olomouc/Meetins/Meetings - smetiště|Meetings - smetiště]].
+Vlastní poznámky Danů z meetingu 12.–14. 10. 2026 (výjezd akademie) a z navazujících porad. Neformální „odkladiště“ – obsahově se kryje s [[Zdroj – Porady akademie (podzim 2026)]], ale obsahuje navíc konkrétní požadavky na Yarmill. Zdroj: [[SK Sigma Olomouc/Meetings/Meetings - smetiště|Meetings - smetiště]].
 
 ## Hlavní obsah
 

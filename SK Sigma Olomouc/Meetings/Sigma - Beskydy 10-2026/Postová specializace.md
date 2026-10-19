@@ -195,4 +195,4 @@ Chceš to převést do dokumentu, se kterým můžeš dál pracovat nebo ho nasd
 
 - [[LLM Wiki/raw/Přepisy/Sigma - Beskydy 10-2026/Postové specializace (přepis)|Postové specializace]]
 
-Celkový přehled akce: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+Celkový přehled akce: [[Finální souhrn|Finální souhrn]]

@@ -3,13 +3,16 @@ typ: prepis
 akce: Sigma – výjezd akademie Beskydy
 datum: 2026-10-12
 datum_do: 2026-10-14
-nahravka: "IDP - rozvoj hráče"
-souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Individuální rozvojový plán hráčů - systém|Individuální rozvojový plán hráčů - systém]]"
-finalni_souhrn: "[[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]"
-tags: [prepis, sigma, beskydy-2026]
+nahravka: IDP - rozvoj hráče
+souhrn: "[[Individuální rozvojový plán hráčů - systém|Individuální rozvojový plán hráčů - systém]]"
+finalni_souhrn: "[[Finální souhrn|Finální souhrn]]"
+tags:
+  - prepis
+  - sigma
+  - beskydy-2026
 ---
 
-> [!info] Automatický přepis nahrávky „IDP - rozvoj hráče“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Individuální rozvojový plán hráčů - systém|Individuální rozvojový plán hráčů - systém]] · [[SK Sigma Olomouc/Meetins/Sigma - Beskydy 10-2026/Finální souhrn|Finální souhrn]]
+> [!info] Automatický přepis nahrávky „IDP - rozvoj hráče“ (výjezd akademie SK Sigma Olomouc, Beskydy, 12.–14. 10. 2026). Text je beze změn, místy hodně zkomolený. Zpracované poznámky: [[Individuální rozvojový plán hráčů - systém|Individuální rozvojový plán hráčů - systém]] · [[Finální souhrn|Finální souhrn]]
 
 Vole, jako kdyby až po nějakou devatenáctku teďka, ale vole vlastně jako kdyby pokud nevidíme, já vole, když si vezmeme Bčko, tak já nevidím rozděl s tím, jestli je na křidle uvíča nebo všetce, ty vole, jako.
 Není tam ročně.
