@@ -27,7 +27,6 @@ kanban-plugin: board
 	- detailní hodnocení hráče
 	- postavit tabular v návaznosti na Wyscout = jedna tabulka
 	- závislost na EyeBall
-- [ ] Přípravka Inbody
 
 
 ## Čeká
@@ -70,6 +69,7 @@ kanban-plugin: board
 ## Hotovo
 
 **Complete**
+- [x] Přípravka Inbody
 
 
 
