@@ -52,10 +52,6 @@ kanban-plugin: board
 	- termín
 	- projít si s nimi jejich agendy
 	- ukázat jim nějaké zajímavosti
-- [ ] **Eye ball** #meeting 
-	- možnosti spolupráce
-	- analýza více soutěží U14 - U19
-	- API přístup
 
 
 ## Čekám na odpověď
@@ -69,13 +65,20 @@ kanban-plugin: board
 ## Hotovo
 
 **Complete**
+
+
+***
+
+## Archive
+
+- [x] **Eye ball** #meeting 
+	- možnosti spolupráce
+	- analýza více soutěží U14 - U19
+	- API přístup
 - [x] Přípravka Inbody
-
-
-
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,true,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[true,false,true,false,false,false]}
 ```
 %%
