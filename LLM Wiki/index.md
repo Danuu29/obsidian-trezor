@@ -1,6 +1,6 @@
 ---
 typ: index
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Index LLM Wiki
 
@@ -39,6 +39,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Opta]] – event data (F24), xG; dnes Stats Perform (s Prozone)
 - [[Brentford a FC Midtjylland]] – Benhamovy kluby řízené daty – vzor
 - [[Impect]] – packingová data (Reinartz, Hegeler)
+- [[Klinika sportovní medicíny]] – Sportovní medicína a.s., BALUO FTK UP; PROFI CPET test (Mgr. M. Maráček)
 - [[21st Club]] – strategické konzultace pro vedení klubů (Chaudhuri, Wooster, Ankersen)
 
 ## Koncepty
@@ -101,6 +102,11 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Osobnostní profily hráčů]] – čtyři barvy (Midtjylland), Reiss, Tuchel
 - [[Strategie menšího klubu]] – Fosbury přístup, mzdy vs. přestupy, pyramida klubů, 21st Club
 
+### Kondice a vytrvalostní trénink (osobní)
+
+- [[CPET a laktátové schody]] – protokol, VO₂max, prahy, RER, úskalí strmé rampy a LT4 vs. MLSS
+- [[Tréninkové zóny a prahy]] – Danovy zóny Z1–Z5 (tep + W), řízení podle wattů, struktura týdne
+
 ### Kádr, styl a trenéři (The Numbers Game)
 
 - [[Teorie slabého článku (O-ring)]] – nejslabší hráč rozhoduje víc než hvězda; 5 možností, co s ním; Köhlerův efekt
@@ -139,6 +145,7 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 - [[Aplikace – Analýza audio trenéra]] – AI analýza koučinku z přepisu · vývoj
 - [[Aplikace – Strategická aplikace]] – klubová znalostní aplikace · nápad
 - [[Analytické balíčky Yarmill]] – Bronze / Silver / Gold / Skauting
+- [[Osobní cyklistický trénink]] – příprava na jaro 2027 podle CPET zón, kontrolní test 12/2026 · v provozu
 - [[Druhý mozek – LLM Wiki]] – tato wiki jako projekt: stav, dělba práce podle CODE · v provozu
 
 ## Zdroje
@@ -160,5 +167,6 @@ Katalog všech stránek wiki. LLM ho čte jako první při každém dotazu a akt
 | [[Zdroj – The Numbers Game]] | `LLM Wiki/raw/The Numbers Game (Anderson, Sally 2013).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – Pořiďte si druhý mozek]] | `LLM Wiki/raw/Pořiďte si druhý mozek (Forte 2023).pdf` (kniha) | 2026-10-15 |
 | [[Zdroj – Persuading with Data]] | `LLM Wiki/raw/Persuading with Data (Kazakoff 2022).pdf` (kniha) | 2026-10-15 |
+| [[Zdroj – Zátěžový test CPET 2026-09-21]] | `Osobní rozvoj/Kondice/Zátěžové testy/` (poznámka) + `LLM Wiki/raw/Zátěžové testy/` (2 PDF) | 2026-10-19 |
 
 Neingestováno: `Apple Notes/Sigma Olomouc ⚽/` (duplikáty), `Markdown – tahák.md`, `_Přehled úprav.md`, PDF a obrázky v `Apple Notes/` (zatím jen odkazované – kandidáti na samostatný ingest: *4.0 Kondiční koncepce*, *DATOVÉ PARAMETRY POSTŮ*, *Analýza koučinku Lausman*).

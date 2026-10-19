@@ -2,7 +2,7 @@
 typ: koncept
 tags: [testovani, vald, normy, prevence]
 zdroje: ["[[Zdroj – Analytická témata Sigma]]"]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Silové testy a normy
 
@@ -50,4 +50,4 @@ Skoky: CMJ ≥ 35 cm, CMJA ≥ 40 cm, CMJ SL ≥ 25 cm (asymetrie ≤ 20 %), Hop
 
 ## Souvislosti
 
-[[Thresholdy a benchmarky]] · [[Vstupní diagnostika hráče]] · [[Fyzické benchmarky]] (FIFA)
+[[Thresholdy a benchmarky]] · [[Vstupní diagnostika hráče]] · [[Fyzické benchmarky]] (FIFA) · [[CPET a laktátové schody]] (vytrvalostní laboratorní diagnostika)

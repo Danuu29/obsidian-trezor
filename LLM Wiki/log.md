@@ -77,3 +77,14 @@ Chronologický, append-only záznam. Formát hlavičky: `## [RRRR-MM-DD] typ | n
 - Údržba: Danů přesunul `Diskuze a meetingy` do `Meetings/` – odkazy přepsal Obsidian, opravena `cesta:` u [[Zdroj – Porady akademie (podzim 2026)]] a index. Smazány prázdné/nerelevantní poznámky *Beskydy – meeting managementu* a *_Přehled úprav* (wiki na ně neodkazovala).
 - Základ pro detekci změn (stav vaultu, který wiki pokrývá):
 - git: 8732be2
+
+## [2026-10-19] ingest | Zátěžový test CPET 2026-09-21
+
+- Zdroj: Danova poznámka `Osobní rozvoj/Kondice/Zátěžové testy/Zátěžový test CPET 2026-09-21.md` (živá, hlavní zdroj) + 2 PDF z Kliniky sportovní medicíny uložené do `raw/Zátěžové testy/` (slovní vyhodnocení 3 s.; data dech po dechu a 9 grafů 7 s., interpretace označena „NÁVRH“). Klíčová čísla poznámky ověřena proti PDF.
+- **První zdroj o Danově vlastním tréninku** – nová oblast kondice / vytrvalostní trénink.
+- Nové: [[Zdroj – Zátěžový test CPET 2026-09-21]]; koncepty [[CPET a laktátové schody]], [[Tréninkové zóny a prahy]]; entita [[Klinika sportovní medicíny]]; projekt [[Osobní cyklistický trénink]].
+- Aktualizováno: Thresholdy a benchmarky, GPS metriky a zatížení, Silové testy a normy, Vstupní diagnostika hráče, VIF Cycling team (doplněna sekce Souvislosti), Rozpory, Otevřené otázky, Přehled wiki (nahrazena věta „osobní trénink zatím nemá zdroje“), index.
+- Rozpory (→ [[Rozpory a nesrovnalosti]]): anaerobní práh ~240 W (klinika) vs. FTP/MLSS 225–235 W (doplňující rozbor); max. 450 W z rampy vs. MAP ~300–320 W. Rozhodnuto Danům: platí zóny kliniky.
+- Soukromí: z PDF nepřeneseno datum narození ani další osobní údaje; jde o Danovy vlastní údaje (pravidlo o zdraví se týká hráčů/závodnic).
+- Ingest bez úvodní diskuse o důrazech (Danů poznámku už napsal a zadal „ulož jako zdroj“); důraz na zóny, rozhodnutí a milníky.
+- git: 406624f

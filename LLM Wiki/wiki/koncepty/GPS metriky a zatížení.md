@@ -2,7 +2,7 @@
 typ: koncept
 tags: [gps, zatizeni, kondice]
 zdroje: ["[[Zdroj – Znalosti]]", "[[Zdroj – Yarmill poznámky]]", "[[Zdroj – Úkoly]]", "[[Zdroj – Soccermatics]]"]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # GPS metriky a zatížení
 
@@ -39,4 +39,4 @@ Při 3 dnech mezi zápasy měl tým PL stejné běžecké objemy, ale **nižší
 
 ## Souvislosti
 
-[[Denní připravenost a wellness]] · [[SkillCorner]] (tracking z videa jako doplněk GPS) · [[Karta hráče – koncept]]
+[[Denní připravenost a wellness]] · [[SkillCorner]] (tracking z videa jako doplněk GPS) · [[Karta hráče – koncept]] · [[Tréninkové zóny a prahy]] (individuální zóny z laboratorního testu – vytrvalostní obdoba)

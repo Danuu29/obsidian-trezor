@@ -1,7 +1,7 @@
 ---
 typ: synteza
 tags: [otazky, todo]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Otevřené otázky
 
@@ -85,6 +85,13 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Zapisovat očekávání před zásahy (tréninkový blok, posila, změna trenéra), aby šlo výsledek férově komunikovat? → [[Audience Confusion Matrix]]
 - Které návrhy z knihy prioritizovat? → [[Persuading with Data – návrhy pro Sigmu]]
 
+## Osobní trénink (z CPET testu)
+
+- Sedí W zóny kliniky s testem na trenažéru (po příchodu wattmetru, ~konec října 2026)? → [[Tréninkové zóny a prahy]]
+- Je skutečný prahový výkon ~240 W (klinika), nebo 225–235 W (rozbor)? → [[Rozpory a nesrovnalosti]]
+- Půjde kontrolní CPET (14.–20. 12. 2026) s pomalejší rampou 25–30 W/min a za stejných podmínek? → [[CPET a laktátové schody]]
+- Jak zní finální, ověřená interpretace kliniky (výstup je „NÁVRH“)? → [[Klinika sportovní medicíny]]
+
 ## Náměty k průzkumu (pro web / literaturu)
 
 - EWMA vs. ACWR pro sledování zátěže
@@ -108,4 +115,5 @@ Sběrné místo nevyřešených otázek napříč wiki (detail vždy na odkazova
 - Tiago Forte: *The PARA Method* (2023) a Sönke Ahrens: *Jak si dělat chytré poznámky* (zettelkasten) – kandidáti na ingest, srovnání s LLM wiki
 - Karpathyho vzor „LLM wiki“ – původní popis a zkušenosti dalších uživatelů (dělba práce člověk/LLM v krocích CODE)
 - Vizualizace nejistoty pro netechnické publikum (Hullman, Kay) – jak ukázat trenérům intervaly u xG a testů
+- Kardiální drift a řízení podle wattů vs. tepu; MLSS vs. LT4 u hobby cyklistů; vliv strmosti rampy na VO₂max a MAP
 - Barbara Minto: *The Pyramid Principle* a Cole Nussbaumer Knaflic: *Storytelling with Data* – kandidáti na ingest (zdroje, ze kterých Persuading with Data vychází)

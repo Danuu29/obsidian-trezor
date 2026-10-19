@@ -1,7 +1,7 @@
 ---
 typ: synteza
 tags: [prehled, moc]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Přehled wiki
 
@@ -46,7 +46,9 @@ Napříč vším platí [[Principy vizualizace a reportingu]] („trenéři cht�
 
 ## Mimo fotbal
 
-[[VIF Cycling team]] – hodnocení závodnic. Osobní trénink zatím ve wiki nemá zdroje – přibude ingestem.
+[[VIF Cycling team]] – hodnocení závodnic.
+
+**Osobní kondice a trénink na kole** – od 19. 10. 2026 z [[Zdroj – Zátěžový test CPET 2026-09-21]]: [[CPET a laktátové schody]], [[Tréninkové zóny a prahy]], [[Klinika sportovní medicíny]] a projekt [[Osobní cyklistický trénink]] (jaro 2027, kontrolní CPET v prosinci). Spojnice s fotbalem: individuální zóny jsou stejný princip jako [[Thresholdy a benchmarky]]. Hlavní zjištění: velký „motor“ (VO₂max 58,6), rezerva ve výkonu na prazích.
 
 **Práce se znalostmi a osobní efektivita** – od 15. 10. 2026 z [[Zdroj – Pořiďte si druhý mozek]] (Forte): [[Metoda CODE]], [[Zaznamenávání a oblíbené problémy]], [[PARA – organizace podle akčnosti]], [[Postupná sumarizace]], [[Dílčí balíčky a znovuvyužití práce]], [[Divergence a konvergence]], [[Revize a návyky druhého mozku]]. Je to zároveň **metodický rámec této wiki** ([[Druhý mozek – LLM Wiki]]: Danů zaznamenává a vyjadřuje, LLM uspořádává a zhušťuje) a zdroj pracovních návyků pro datové oddělení (checklisty projektů, MVP aplikací, knihovna šablon) → [[Druhý mozek – návrhy pro wiki a práci]]. Hlavní napětí: kniha radí zhušťovat až při použití a ukládat málo, wiki kompiluje celé zdroje předem.
 

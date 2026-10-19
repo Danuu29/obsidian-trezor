@@ -1,8 +1,8 @@
 ---
 typ: koncept
 tags: [normy, benchmarky, reporting]
-zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Persuading with Data]]"]
-aktualizovano: 2026-10-15
+zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Znalosti]]", "[[Zdroj – Porady akademie (podzim 2026)]]", "[[Zdroj – Persuading with Data]]", "[[Zdroj – Zátěžový test CPET 2026-09-21]]"]
+aktualizovano: 2026-10-19
 ---
 # Thresholdy a benchmarky
 
@@ -14,6 +14,7 @@ Opakující se princip napříč Sigmou: **neukazovat čísla, ale vztah k norm�
 - **Skautské thresholdy** ze SkillCorner podle postu (Páťovy thresholdy; PDF *DATOVÉ PARAMETRY POSTOVĚ SKILLCORNER*) → [[Skauting – proces a reporting]]
 - **Silové normy** VALD a InBody → [[Silové testy a normy]]
 - **Benchmarky podle pozice a věku** pro IDP (např. stoper: max. rychlost, akcelerace na 3 krocích, otáčení; desítka: silná noha ≥ 7, slabá ≥ 5) → [[Postové profily]]
+- **Individuální tréninkové zóny** z laboratorního testu (tep/watty vůči vlastním prahům) – mimo fotbal, Danův trénink na kole → [[Tréninkové zóny a prahy]]
 - Srovnání s topem: top 3 zápasy, průměr TOP 5 lig, top data na pozicích.
 
 ## Princip (syntéza)
@@ -26,4 +27,4 @@ Teoretická opora principu: každý graf je srovnání, a když publiku neukáž
 
 ## Souvislosti
 
-[[Fyzické benchmarky]] (FIFA) · [[Gap analýza]] · [[Principy vizualizace a reportingu]] · [[Data-ink ratio a vizuální hierarchie]]
+[[Fyzické benchmarky]] (FIFA) · [[Gap analýza]] · [[Principy vizualizace a reportingu]] · [[Data-ink ratio a vizuální hierarchie]] · [[Tréninkové zóny a prahy]]

@@ -2,7 +2,7 @@
 typ: koncept
 tags: [diagnostika, prestupy, testovani]
 zdroje: ["[[Zdroj – Analytická témata Sigma]]", "[[Zdroj – Meetings smetiště]]", "[[Zdroj – Úkoly]]", "[[Zdroj – Football Hackers]]"]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Vstupní diagnostika hráče
 
@@ -22,4 +22,4 @@ Jeden „papír“ se vším důležitým pro rozhodnutí **koupit / nekoupit** 
 
 ## Souvislosti
 
-[[Silové testy a normy]] · [[Thresholdy a benchmarky]] · [[Skauting – proces a reporting]] · [[Kognitivní trénink]] (kognitivní testy) · [[Kognitivní zkreslení v hodnocení]]
+[[Silové testy a normy]] · [[Thresholdy a benchmarky]] · [[Skauting – proces a reporting]] · [[Kognitivní trénink]] (kognitivní testy) · [[Kognitivní zkreslení v hodnocení]] · [[CPET a laktátové schody]] (možný doplněk vytrvalostní diagnostiky)

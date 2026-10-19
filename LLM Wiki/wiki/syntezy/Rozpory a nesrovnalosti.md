@@ -1,7 +1,7 @@
 ---
 typ: synteza
 tags: [rozpory, kontrola]
-aktualizovano: 2026-10-15
+aktualizovano: 2026-10-19
 ---
 # Rozpory a nesrovnalosti
 
@@ -42,3 +42,14 @@ Zdroj: [[SK Sigma Olomouc/Analytická témata/Předsezóní testování|Předsez
 - **Zkušenost trenéra:** [[Zdroj – Football Hackers]] (Heidel, Mainz): „zkušenost je přeceňovaná“ vs. [[Zdroj – The Numbers Game]] (Bridgewater, Kahn & Goodall 2009): zkušenější trenéři a bývalí reprezentanti jsou v průměru efektivnější, hlavně se silnějším kádrem. *Možné vysvětlení (návrh):* u menšího klubu bez hvězd je výhoda zkušenosti menší. → [[Vliv trenéra a jeho výměna]], [[Strategie menšího klubu]]
 - **Hodnota standardek / rohů:** [[Zdroj – Football Hackers]]: standardky jako levná výhoda, do které se vyplatí investovat trénink vs. [[Zdroj – The Numbers Game]]: průměrný roh má po započtení rizika protiútoku skoro nulovou hodnotu, lepší může být krátká rozehrávka. Čísla si neodporují (~45–50 rohů na gól v obou zdrojích), liší se doporučení. Rozhodnout na datech Sigmy. → [[Standardní situace – analýza]]
 - **Kapacita pracovní paměti:** Danůva poznámka [[Apple Notes/Yarmill/Vizualizace dat|Vizualizace dat]] / [[Principy vizualizace a reportingu]]: „7 ± 2, reálně 2–3 prvky“ vs. [[Zdroj – Persuading with Data]]: „3–4 chunky“ (Cowan 2001). Drobnost – kniha sama uvádí, že měření je obtížné a závisí na tom, jak se informace „chunkují“. Prakticky: ve skupině / na grafu max. 3 věci. → [[Vnímání grafů – preattentivní atributy a Gestalt]]
+
+## Osobní trénink – prahy z CPET – [[Tréninkové zóny a prahy]]
+
+Zdroj: [[Zdroj – Zátěžový test CPET 2026-09-21]] (zpráva kliniky vs. doplňující rozbor dat od Claude)
+
+| Položka | Klinika | Doplňující rozbor (*návrh*) |
+|---|---|---|
+| Anaerobní práh / FTP | ~235–240 W, 178 tep (laktát 4,0) | MLSS/FTP ~225–235 W (240 W nebyl ustálený stav) |
+| Max. výkon | 450 W = 6,52 W/kg (rampa) | MAP ~300–320 W, 5min výkon ~310–340 W (rampa ~90–95 W/min) |
+
+**Rozhodnuto (Danů):** trénink se řídí zónami kliniky, rozbor je jen kontext. Ověřit kontrolním CPET (prosinec 2026) a daty z wattmetru.
