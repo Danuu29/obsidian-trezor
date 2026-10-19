@@ -809,3 +809,9 @@ Akutní dodělání
 - Potřebuji, aby jednoznačně bral v potaz Metadata - zdá se mi, že ve svých analýzách je nezohledňuje 
 - Zisky míče - není možné usuzovat, že je slabinou, že se získá menší procento ve středu hřiště - pokud se neporovává celkový počet míčů a z toho zisků. Protože jen z procenta to nelze říct. Protože soupeři nemusí hrát středm, ale více po kraji, takže mají více zisků na kraji. Tento údaj je zcela zásadní brát v kontextu 
 - Ještě více jít do prolnutí silných a slabých stránek obou týmů a hlavně hráčů na pozicích proti sobě. Je potřeba vytěživ více z toho, kde využít potenciál a kde eliminovat hrozby
+
+# Rozvoj projektu
+
+- Možnost vybraných dat vyexportovat
+- Napojit Eye ball do skladu dat
+- Najít souvislosti mezi daty
