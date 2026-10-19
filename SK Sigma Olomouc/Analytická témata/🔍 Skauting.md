@@ -57,8 +57,6 @@ Nápady:
 - Přidat srovnání s pozicí
 - Pouze informace jestli je v normě nebo mimo normy
 
-![[DATOVÉ PARAMETRY POSTOVĚ SKILLCORNER.pdf]]
-
 ## Detailní reporting
 
 - Možnost datově porovnat s hráči současného týmu
@@ -123,16 +121,8 @@ Pokud bude mít každý skaut přístup do Yarmila. Co se týče zasílání pro
 
 Týmový přehled skautingu
 
-![[Snímek obrazovky 2026-07-08 v 9.24.57.png]]
-
 - Ten první je vyloženě nějaká hlavní stránka a jak to mám já rozdělené. Prostě jakoby ročníkově dá se říct U19 - U12 (starší dorost A - mladší žáci B)
 
-![[Snímek obrazovky 2026-07-08 v 9.24.51.png]]
-
 No a pak si najedu na ročník a vlevo mám vlastně lištičku se všema těma ročníkama a takže uplně jednodušše tabulku jakoby postovou 🙂
-
-![[Snímek obrazovky 2026-07-08 v 9.24.45.png]]
-
-![[Snímek obrazovky 2026-07-08 v 9.24.15.png]]
 
 - Ono se to jako nezdá, možná to je kravina, ale je to fakt sto a jedna to mít takhle rozdělené do těch postů víš 🙂 Trenéři taky mají na kanclu na tabuli napsané hráče postově, protože když to máš takhle krásně před sebou, tak je to úplně o něčem jiném ...

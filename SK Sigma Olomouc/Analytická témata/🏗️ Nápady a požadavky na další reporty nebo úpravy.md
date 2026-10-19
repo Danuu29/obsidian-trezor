@@ -8,8 +8,6 @@ apple-notes-id: 62B60FAF-0F85-459E-A00E-217FB5D639C2
 - Dívej, tady jsem popsal jakoby tresholdy v áčku, kde se chceme dostat
 - A chtěl bych jen report aby jsem si rozklikl každého hráče v kategorii u19-b, např. siegl. A ty data buď měl červený — nesplnuje tresholdy pro A, oranžový — dostává se k nim blízko třeba chybí mu 10 % a zelený .. plní
 
-![[DATOVÉ PARAMETRY POSTŮ V ZÁPASE.pdf]]
-
 # Skladiště nápadů na reporting
 
 ## Odatovat cvičení

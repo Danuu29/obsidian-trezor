@@ -105,8 +105,6 @@ Sociální stránka
 
 ## Inspirace PCE
 
-![[4.0 Kondiční koncepce.pdf]]
-
 ## Digitální pas
 
 - Živý organismus, který predikuje budoucnost a ví o hráči víc než on sám

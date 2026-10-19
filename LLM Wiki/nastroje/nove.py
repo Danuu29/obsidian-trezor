@@ -45,10 +45,17 @@ if base:
             path = parts[1]
         if st == "D": deleted.append(path); continue
         changed[path] = st[0]
+# Názvy souborů porovnávat v NFC: macOS může mít na disku NFD, git v NFC.
+# Necommitnutý „nový“ soubor, který je v gitu pod stejným NFC názvem, není nový.
+tracked = {N(p) for p in git("ls-files").splitlines()}
+changed = {N(p): st for p, st in changed.items()}
+deleted = [N(p) for p in deleted]
 for line in git("status", "--porcelain", "-uall").splitlines():
-    st, path = line[:2].strip(), line[3:].strip().strip('"')
+    st, path = line[:2].strip(), N(line[3:].strip().strip('"'))
     if " -> " in path: path = path.split(" -> ")[1]
-    if st == "D": deleted.append(path)
+    if st == "D":
+        if path not in tracked or not os.path.exists(os.path.join(vault, path)): deleted.append(path)
+    elif st == "??" and path in tracked: continue
     else: changed[path] = "A" if st == "??" else "M"
 
 notes = sorted(p for p in changed if not excluded(p) and (p.endswith(".md") or p.endswith(".pdf")))

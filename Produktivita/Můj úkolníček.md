@@ -25,8 +25,10 @@ kanban-plugin: board
 	- projednat dál
 - [ ] **[[SK Sigma Olomouc/Analytická témata/⭐ Hodnocení hráčů| Hodnocení hráčů]]**
 	- detailní hodnocení hráče
-	- postavit tabular v návaznosti na Wyscout = jedna tabulka
-	- závislost na EyeBall
+	- postavit tabular v návaznosti na EyeBall = jedna tabulka
+- [ ] **Rezervační systém**
+	- nasadit
+	- projít a začít používat s Patrikem
 
 
 ## Čeká
@@ -79,6 +81,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,true,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,true,true,true,false]}
 ```
 %%

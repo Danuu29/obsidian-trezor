@@ -11,9 +11,9 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 
 - &nbsp;
 	- [ ] Hodnocení hráče - detailní pohled na techniku, taktiku a mentalitu
-
 	- [ ] Kariérní dotazník
 	- [ ] Kariérní plán
+	- [ ] Přidat přehled herních dat do reportu zápasu stejně jako GPS (GPS i herní data pak k hráči do reportu)
 
 ## Yollanda
 

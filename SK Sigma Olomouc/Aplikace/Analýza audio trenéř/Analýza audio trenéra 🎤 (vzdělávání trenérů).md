@@ -1,9 +1,6 @@
 ---
 apple-notes-id: CFDDEBA0-98BF-412C-92B4-D634BB9942A6
 ---
-![[Slavia_Coach_Talk_Index_Vaclav_Lausman_U19_D2.pdf]]
-
-![[Analyza_koucinku_Vaclav_Lausman_U19_D2.pdf]]
 
 Chci vytvořit aplikaci, která bude sloužit jako analytik pro vyhodnocení způsobů komunikace trenéra v tréninku.
 

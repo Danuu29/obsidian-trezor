@@ -107,3 +107,15 @@ Chronologický, append-only záznam. Formát hlavičky: `## [RRRR-MM-DD] typ | n
 - Rozpory: žádné nové (zóny v deníku = zóny kliniky).
 - Lint: 0 ve všech kategoriích.
 - git: 65caf21
+
+## [2026-10-19] lint | Údržba vaultu (obsidian-notes)
+
+- Wiki lint: 0 ve všech kategoriích.
+- Vault mimo wiki: název `Zátěžový test CPET 2026-09-21.md` převeden z NFD na NFC Unicode (opravuje rozbitý odkaz ze [[Zdroj – Zátěžový test CPET 2026-09-21]] a falešné „[A]“ v `nove.py`).
+- Nová mapa vaultu `MOC.md` (`wiki: ne`) – odkazuje všechny vlastní poznámky mimo wiki; sirotků ve vaultu 9 → 0.
+- Zbývá na Danů: 10 odkazů na přílohy (PDF/PNG) smazané s `Apple Notes/` – v Analytická témata (Future Blue, Nápady a požadavky, Skauting, Yollanda insights) a Analýza audio trenéra; obnovitelné z gitu.
+
+## [2026-10-19] schéma | nove.py porovnává názvy souborů v NFC
+
+- Na pokyn Danů: `nove.py` normalizuje cesty z gitu na NFC a necommitnutý „nový“ soubor, který je v gitu pod stejným NFC názvem, nehlásí. Smazaný soubor hlásí, jen když opravdu na disku chybí. Důvod: macOS může mít názvy s diakritikou na disku v NFD a git je pak vidí jako nové (případ CPET poznámky). Ověřeno testem s dočasně přejmenovaným souborem.
+- Přílohy smazané s `Apple Notes/` Danů nepotřebuje (vše potřebné je přesunuté v Obsidianu).
