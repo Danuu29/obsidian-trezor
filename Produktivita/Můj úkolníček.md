@@ -10,6 +10,9 @@ kanban-plugin: board
 
 ## Aktuální
 
+- [ ] **Rezervační systém**
+	- nasadit
+	- projít a začít používat s Patrikem
 - [ ] **[[SK Sigma Olomouc/Analytická témata/Karta hráče 🎯|Karta hráče]]** #priorita 
 	- udělat kostru
 	- rozmysl
@@ -26,9 +29,6 @@ kanban-plugin: board
 - [ ] **[[SK Sigma Olomouc/Analytická témata/⭐ Hodnocení hráčů| Hodnocení hráčů]]**
 	- detailní hodnocení hráče
 	- postavit tabular v návaznosti na EyeBall = jedna tabulka
-- [ ] **Rezervační systém**
-	- nasadit
-	- projít a začít používat s Patrikem
 
 
 ## Čeká
