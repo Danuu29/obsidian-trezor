@@ -69,6 +69,12 @@ kanban-plugin: board
 **Complete**
 
 
+## Dodělávky
+
+- [ ] Dodělávky
+	- ISO prone v únavovém testu - není trend, je no data hláška
+
+
 ***
 
 ## Archive
@@ -81,6 +87,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,true,true,true,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,true,true,true,false,false]}
 ```
 %%
