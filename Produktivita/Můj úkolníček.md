@@ -10,7 +10,7 @@ kanban-plugin: board
 
 ## Aktuální
 
-- [ ] **Rezervační systém**
+- [ ] **Rezervační systém** #hightPriority
 	- nasadit
 	- projít a začít používat s Patrikem
 - [ ] **[[SK Sigma Olomouc/Analytická témata/Karta hráče 🎯|Karta hráče]]** #priorita 
