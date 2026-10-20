@@ -73,6 +73,7 @@ kanban-plugin: board
 
 - [ ] Dodělávky
 	- ISO prone v únavovém testu - není trend, je no data hláška
+	- u statické síly Viktorka není trend
 
 
 ***
