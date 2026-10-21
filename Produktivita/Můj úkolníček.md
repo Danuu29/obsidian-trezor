@@ -10,6 +10,8 @@ kanban-plugin: board
 
 ## Aktuální
 
+- [ ] Vytíženost Yarmillu
+	- udělat si report
 - [ ] **Rezervační systém** #hightPriority
 	- nasadit
 	- projít a začít používat s Patrikem
