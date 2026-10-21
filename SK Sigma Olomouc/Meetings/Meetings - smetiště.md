@@ -1,7 +1,11 @@
 ---
 apple-notes-id: 3B72092F-DA27-4A0D-8969-7A5EA9FD225F
 ---
-## Meeting 12. - 14. 10. 2026
+# Meeting 21. 10. 2026
+- 
+
+
+# Meeting 12. - 14. 10. 2026
 
 ### Kariérní plán
 
