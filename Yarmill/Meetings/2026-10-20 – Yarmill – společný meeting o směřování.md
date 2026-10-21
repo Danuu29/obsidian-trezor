@@ -3,7 +3,7 @@ typ: meeting
 datum: 2026-10-20
 nazev: Yarmill – společný meeting o směřování
 misto: společné setkání celého týmu Yarmillu (neformální, večer)
-ucastnici: [celý tým Yarmillu – mimo jiné Danů, Tomáš (?), Tonda (?), Anička/Aniška, Adam, Honza, Aleš, Oskárek]
+ucastnici: [celý tým Yarmillu – mimo jiné Danů, Tomáš (?), Tonda (?), Anička, Adam, Honza, Aleš, Oskárek]
 oblast: Yarmill
 temata: [produktové směřování, roadmapa, AI, Yollanda, čísla firmy, fotbal, Sigma, centralizace svazů, diskrétnost, proaktivní upozornění, marketing, Instagram, B2C, integrace, data sportovců a soukromí]
 tags: [meeting, yarmill, produkt, strategie]
@@ -15,16 +15,16 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 # Yarmill – společný meeting o směřování
 
 > [!summary] Shrnutí
-> Společné setkání celého Yarmillu, které mělo otevřít „poločasové review“ produktového směřování: jaké mají být mantinely, co v Yarmillu ve střednědobém horizontu dělat a co ne, a jak se postavit k tomu, co se teď děje s AI. Detailní debatu o roadmapě si pak vezme produktový tým (hlavně Aniška), tady šlo o volný brainstorm. Zazněla čísla firmy (ARR zhruba 8,4 mil. Kč z licencí, útrata za AI stoupla z ~3 tis. na ~37–38 tis. Kč měsíčně, Sigma je po ~10 měsících 6. největší klient all-time). Danů popsal, jak funguje Sigma (Yarmill jako jediná datová páteř, ~300 aktivních uživatelů, ale jeho model „člověka v klubu“ nejde škálovat). Hlavní produktové linie: trenéři chtějí, aby systém **hlídal za ně** (proaktivní upozornění, personalizovaná úvodní stránka), Yollanda má umět **výstupy** (PDF, PowerPoint, Excel) a Yarmill se má stát **hubem**, do kterého si „kutilové“ s AI posílají data (MCP, vstup i výstup). Ostrá debata byla o marketingu a Instagramu (sdílitelná fialová mapa aktivity, nedotažená spolupráce s externisty) a o B2C pro hobby sportovce (spíš ne, mezikrok přes kluby a hotové sportovní instance). Druhá nahrávka zachytila večerní debatu o tom, jak nebýt nástrojem dohledu nad sportovci (alkohol, spánek, odpojené hodinky).
+> Společné setkání celého Yarmillu, které mělo otevřít „poločasové review“ produktového směřování: jaké mají být mantinely, co v Yarmillu ve střednědobém horizontu dělat a co ne, a jak se postavit k tomu, co se teď děje s AI. Detailní debatu o roadmapě si pak vezme produktový tým (hlavně Anička), tady šlo o volný brainstorm. Zazněla čísla firmy (ARR zhruba 8,4 mil. Kč z licencí, útrata za AI stoupla z ~3 tis. na ~37–38 tis. Kč měsíčně, Sigma je po ~10 měsících 6. největší klient all-time). Danů popsal, jak funguje Sigma (Yarmill jako jediná datová páteř, ~300 aktivních uživatelů, ale jeho model „člověka v klubu“ nejde škálovat). Hlavní produktové linie: trenéři chtějí, aby systém **hlídal za ně** (proaktivní upozornění, personalizovaná úvodní stránka), Yollanda má umět **výstupy** (PDF, PowerPoint, Excel) a Yarmill se má stát **hubem**, do kterého si „kutilové“ s AI posílají data (MCP, vstup i výstup). Ostrá debata byla o marketingu a Instagramu (sdílitelná fialová mapa aktivity, nedotažená spolupráce s externisty) a o B2C pro hobby sportovce (spíš ne, mezikrok přes kluby a hotové sportovní instance). Druhá nahrávka zachytila večerní debatu o tom, jak nebýt nástrojem dohledu nad sportovci (alkohol, spánek, odpojené hodinky).
 
 ## Kontext a cíl
-- Úvodní slovo (pravděpodobně Tomáš [?]): s Aniškou chystají **poločasové review produktového směřování** – mantinely, co chceme a nechceme dělat. Krok zpátky už se to rýsovalo, pak to odložili jako samostatný projekt, aby „nebyli zaháčkovaní a neskákali na všechno“.
+- Úvodní slovo (pravděpodobně Tomáš [?]): s Aničkou chystají **poločasové review produktového směřování** – mantinely, co chceme a nechceme dělat. Krok zpátky už se to rýsovalo, pak to odložili jako samostatný projekt, aby „nebyli zaháčkovaní a neskákali na všechno“.
 - Spouštěč: „teď se toho děje hrozně moc s AI“ – je čas zreflektovat, jestli roadmapu lehce upravit, nebo na ni mít aspoň názor.
 - Detail se bude řešit v produktovém týmu, tady jen společné „plácání“: co kdo vidí, co používá jinde, na co si dát pozor.
 - Do debaty zahrnout zkušenosti: **Zbrojovka skončila**, fotbal (Viktoria Plzeň – hrozně moc úsilí, podpora od Danů, Vaška, Kryštofa a dalších), **svazy a centralizace** (svaz plavání = ~6 000 lidí, stovky klubů, není reálné, aby svaz řekl „všichni budete používat Yarmill“).
 
 ## Účastníci
-- Celý tým Yarmillu. Z přepisu jsou jasně slyšet: **Danů** (Sigma), **Tomáš (?)** – vedení, otevírá debatu a čte čísla, **Aniška/Anička** – produkt, **Tonda (?)** – vedení, pro něj je marketing „citlivá věc“, **Adam**, **Honza** (data z hodinek, backend), **Aleš** (zobrazení, frontend), **Oskárek** (Instagram), zmíněni externisté **Kýbl** a **Anet** (marketing).
+- Celý tým Yarmillu. Z přepisu jsou jasně slyšet: **Danů** (Sigma), **Tomáš (?)** – vedení, otevírá debatu a čte čísla, **Anička/Anička** – produkt, **Tonda (?)** – vedení, pro něj je marketing „citlivá věc“, **Adam**, **Honza** (data z hodinek, backend), **Aleš** (zobrazení, frontend), **Oskárek** (Instagram), zmíněni externisté **Kýbl** a **Anet** (marketing).
 - Kdo přesně co říkal, z přepisu často nejde poznat. Atribuce s (?) prosím zkontroluj.
 
 ## Průběh po tématech
@@ -81,13 +81,13 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 - **Byznys:** „vydělá to další peníze“, v dalších fázích se bude pokračovat a navyšovat.
 - **Danův týden:** 2 dny přímo na Sigmě (jednu noc tam spí), 1 den dělá věci pro Sigmu z domu, 2 dny ostatní projekty. V neděli plánuje týden, ale Sigma ohlašuje porady na poslední chvíli a on u nich chce být (aspoň online), „nesmí si to nechat utéct“.
 - **Smlouva:** Danů je 100% zaměstnanec Yarmillu. Sigma má smluvně slíbené 3 dny jeho času, ale **platí 2** – třetí den je práce, kterou by Yarmill dodával stejně (konfigurace). „Vždycky se nám vyplatilo být s nimi fér.“
-- **Neškálovatelnost:** nemůžeme mít s každým fotbalovým klubem dalšího Danů. Potřebujeme se z toho naučit, udělat **„yarmillovský balíček pro fotbal“** a na straně klubu mít **championa**, který si to vezme za své, sám chce mít vše v Yarmillu a bude to vysvětlovat. Jinak by to znamenalo další a další lidi do klubů, což zatím nechceme.
+- **Neškálovatelnost:** nemůžeme mít s každým fotbalovým klubem dalšího Danů. Potřebujeme se z toho naučit, udělat **„yarmillovský balíček pro fotbal“** a na straně klubu mít **lídra**, který si to vezme za své, sám chce mít vše v Yarmillu a bude to vysvětlovat. Jinak by to znamenalo další a další lidi do klubů, což zatím nechceme.
 
 ### Biatlon jako srovnání
 - Biatlon platí kontinuálně, je mezi největšími a navíc platí **analytické služby měsíčně** za dedikovaný čas. Tomáš (?) tam nikdy nebyl tak intenzivně jako Danů na Sigmě, takže to trvalo mnohem déle – dlouhé roky se dělo spoustu věcí mimo Yarmill.
 - Teď je čeká **překlopení kontrolních testů SCM**, které jsou pořád v Excelu (podobně u lyžařů).
 - Dnes už ale většina lidí sama tlačí, aby nové věci byly v Yarmillu. Příklad: **Michal** (trenér v SCM Jilemnice): „Než dostanu z laborky laktátovky, utečou tři měsíce. Pak už je to pro mě obsolete. Chci to v Yarmillu a co nejdřív.“
-- Závěr: jsme B2B, ale nemůžeme mít v každém svazu/klubu „jednoho z nás“. Ve **velkých svazech** se champion na úrovni svazu nedostane přes SCM do klubů → zůstává problém centralizace.
+- Závěr: jsme B2B, ale nemůžeme mít v každém svazu/klubu „jednoho z nás“. Ve **velkých svazech** se lídr na úrovni svazu nedostane přes SCM do klubů → zůstává problém centralizace.
 
 ### Diskrétnost: Danů vidí do Plzně i Sigmy
 - Otázka od kolegy: není bizarní, že Danů komunikuje s Plzní, když je vidět, že sedí na Sigmě? Jsou to přímí konkurenti o 2.–3. místo.
@@ -158,12 +158,12 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 - **Promo video / výstup z klubu** (Sigma, Plzeň by k tomu byly ochotné): ukázat, jak to v klubu žije. Lidi říkají, že web je super, ale na sítích nás nenajdou. Organické sdílení. Pocit, že „máme strach to ukázat“.
 - **Napětí kolem Instagramu:**
   - Tonda (?) to vnímá jako extrémně citlivé, protože to bude vidět nejvíc.
-  - Proběhly první pokusy s Oskárkem a Aniškou, poslední příspěvky po dvou feedbackových kolech už byly podle zastánce (?) super.
+  - Proběhly první pokusy s Oskárkem a Aničkou, poslední příspěvky po dvou feedbackových kolech už byly podle zastánce (?) super.
   - Externisté **Kýbl a Anet** se na to „vysrali“, Kýbl se neozval, Anet se třikrát omluvila. Vedení pak přes noc sepsalo strategii samo.
   - Frustrace zastánce (?): „Řekne se, že na to není čas, a pak se dělají lahve a trička.“ Příklad: oslovená závodnice (dva Světové poháry, státnice) poslala fotky a za měsíc a půl se ptala, co bude – nic. Demotivující.
   - Odpověď vedení (?): na strategii Instagramu potřebuje **dvoudenní focus mód** s Claude (deep research nejlepších příkladů – Oatly, Ryanair), zatímco trička a bidony stojí půl hodiny, protože je řeší Anička s Oskárkem. „Není to omluva.“ Původně do toho nechtěl vůbec vstupovat, udělal se tým zodpovědných lidí.
   - Protiargument: ty jsi nám neřekl, co od toho čekáš. Zastánce netušil, že by to mohlo stát na něm.
-  - **Návrh:** „Přimhuř oči a dej nám dva měsíce“ (s Aniškou a Oskárkem), pak to vyhodnotíme. Pravidelný obsah: v pondělí analýza zápasu Sigmy, odjetý Světový pohár.
+  - **Návrh:** „Přimhuř oči a dej nám dva měsíce“ (s Aničkou a Oskárkem), pak to vyhodnotíme. Pravidelný obsah: v pondělí analýza zápasu Sigmy, odjetý Světový pohár.
   - Hlas k rovnováze: nebagatelizovat to, i za zdánlivě jednoduchým marketingem je strategie. Chyběl někdo se širším pohledem. Ale externistka se ptala „pro koho to je“ a my jsme to nebyli schopní říct.
   - Přirovnání s podcastem: rozhovor stojí na moderátorovi, komunikace na jiném (Šimba). „Lidi chtějí, aby to bylo jednou takhle, jednou takhle.“
 
@@ -204,9 +204,9 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 - Dodatek z hlavní nahrávky: v Letohradu jsme to zkoušeli obejít, sportovci se bojí, ale tlak trenérů je tam větší, takže budou nosit. Kdo to chce obcházet, obejde to a se SCM skončí se sportem. Kdo ne (příklad **Matyáš Bauer** – nejvíc tréninků v Yarmillu: 6 371 záznamů, ~17 mil. tréninkových jednotek (?), ~50 000 km), ten se o Yarmill opře. Apple zavedl periodický safety check „kdo vidí tvoje health data“ – inspirace.
 
 ## ✅ Rozhodnuto
-- **Detailní review roadmapy si vezme produktový tým** (Aniška a vedení). Dnešní setkání byl jen otevřený brainstorm.
+- **Detailní review roadmapy si vezme produktový tým** (Anička a vedení). Dnešní setkání byl jen otevřený brainstorm.
 - **Shoda, že AI není hrozba, ale příležitost** – směr hub (vstup i výstup dat, MCP) a chytrá AI uvnitř modulů, ne modul na každou specialitu každého sportu.
-- **Model „člověka v klubu“ (Danů na Sigmě) se nebude replikovat** – cílem je balíček pro fotbal a champion na straně klubu.
+- **Model „člověka v klubu“ (Danů na Sigmě) se nebude replikovat** – cílem je balíček pro fotbal a lídr na straně klubu.
 - Princip **diskrétnosti a čistého svědomí** platí dál (NDA, žádné informace mezi klienty).
 
 ## ❓ Nerozhodnuto / k dalšímu řešení
@@ -215,10 +215,10 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 - **Proaktivní upozornění / personalizovaná úvodní stránka:** jak to uchopit („vůbec si nedokážu představit, jak bychom to měli uchopit“).
 - **Výstupy z Yollandy** (PDF, prezentace, Excel) a ukládání vlastních pohledů.
 - **Řízení přístupů ke sportovcovým datům** (kdo co vidí, skryté komentáře, menstruační cyklus).
-- **Marketing a Instagram:** dostane tým (Aniška, Oskárek, zastánce) dva měsíce volnou ruku? Kdo za to zodpovídá a co se od toho čeká?
+- **Marketing a Instagram:** dostane tým (Anička, Oskárek, zastánce) dva měsíce volnou ruku? Kdo za to zodpovídá a co se od toho čeká?
 - **Sdílitelná mapa aktivity** – kdy ji Honza a Aleš dotáhnou.
 - **B2C vs. hotové instance pro kluby a trenéry** – spíš mezikrok přes kluby, ale bez závěru.
-- **Jak řešit centralizaci velkých svazů** (champion se nedostane do klubů).
+- **Jak řešit centralizaci velkých svazů** (lídr se nedostane do klubů).
 
 ## ⚔️ Rozpory v názorech
 ### Marketing a Instagram
@@ -247,10 +247,10 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 - [ ] Sepsat pro produktový tým zkušenosti ze Sigmy jako podklad k review roadmapy (karta hráče, hodnocení zápasu, fyzio, výstupy, proaktivní upozornění)
 - [ ] Sepsat konkrétní bolest hodnocení zápasů (překlikávání hráčů, opakované datum a kategorie) jako produktový požadavek
 - [ ] Popsat případy ze Sigmy (zraněný hráč bez Whoopu, talent a spánek, nemoc vidět 2 dny dopředu) jako use case pro proaktivní upozornění
-- [ ] Navrhnout, jak by vypadal „balíček Yarmill pro fotbal“ a role championa na straně klubu
+- [ ] Navrhnout, jak by vypadal „balíček Yarmill pro fotbal“ a role lídra na straně klubu
 - [ ] Připravit podklady/data pro pravidelný post „analýza zápasu Sigmy“, pokud se marketing rozjede
 ### Ostatní
-- [ ] Review produktového směřování a mantinelů – **produktový tým (Aniška)**
+- [ ] Review produktového směřování a mantinelů – **produktový tým (Anička)**
 - [ ] Rozhodnout o dvouměsíčním „volném režimu“ pro Instagram – **vedení (Tonda ?)**
 - [ ] Dotáhnout data z hodinek pro sdílitelnou mapu aktivity – **Honza**, zobrazení – **Aleš**
 - [ ] Zvážit výstupy Yollandy (PDF, prezentace) – **Adam (?)**
@@ -285,7 +285,7 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 ## ⚠️ Rizika, obavy, závislosti
 - Rychlost AI: trenéři si udělají vlastní nástroje a Yarmill přestane být flexibilnější alternativou.
 - Hlasití advanced uživatelé sedí na rozhodovacích schůzkách.
-- Model „Danů v klubu“ neškáluje, bez championa klub nepojede.
+- Model „Danů v klubu“ neškáluje, bez lídra klub nepojede.
 - Centralizace velkých svazů – nedostaneme se do klubů.
 - Únik informací mezi konkurenčními klienty by zničil reputaci.
 - Zneužití dat vedením (předseda vidí vše) → sportovci přestanou nosit hodinky a sdílet.
@@ -317,7 +317,7 @@ prepis: "[[LLM Wiki/raw/Přepisy/2026-10-20 – Yarmill – společný meeting o
 ## 🎯 Moje poznámky a doporučené další kroky
 - *Návrh:* proaktivní upozornění a personalizovaná úvodní stránka jsou nejsilnější společný jmenovatel debaty (trenéři, Sigma, biatlon, atletika). Sigma může být pilot – má Whoop, VALD a pravidelné testy.
 - *Návrh:* téma přístupů k datům sportovců (viditelnost, skryté komentáře, safety check) řešit dřív než proaktivní alerty – bez důvěry sportovci přestanou nosit hodinky a alerty nebudou mít data.
-- *Návrh:* sepsat, co na Sigmě dělá Danů jako „champion“, jako šablonu pro fotbalový balíček (Plzeň a další).
+- *Návrh:* sepsat, co na Sigmě dělá Danů jako „lídr“, jako šablonu pro fotbalový balíček (Plzeň a další).
 
 ## Nejasná místa v přepisu
 - Kdo co říkal: úvodní slovo a čísla (Tomáš ?), marketing (Tonda ?, zastánce Instagramu ?), postoj k fotbalu (kritik ?)

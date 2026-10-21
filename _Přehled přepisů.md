@@ -89,7 +89,7 @@ Výjezd akademie Beskydy (12.–14. 10. 2026) má 15 nahrávek a 8 poznámek. Ú
 - 2026-10-20: Sportovci nepropojují hodinky, protože neví, kdo co vidí. Chtějí řídit viditelnost, skryté fyzio komentáře, riziko zneužití dat vedením. Být oporou, ne nástrojem dohledu → [[Yarmill/Meetings/2026-10-20 – Yarmill – společný meeting o směřování|2026-10-20 – Yarmill – společný meeting o směřování]]
 
 ### Sigma jako implementace Yarmillu
-- 2026-10-20: Yarmill jediná datová páteř, ~300 aktivních uživatelů, podpora shora. Model „Danů v klubu“ (3 dny slíbené, 2 placené) neškáluje – potřeba balíček pro fotbal a champion v klubu → [[Yarmill/Meetings/2026-10-20 – Yarmill – společný meeting o směřování|2026-10-20 – Yarmill – společný meeting o směřování]]
+- 2026-10-20: Yarmill jediná datová páteř, ~300 aktivních uživatelů, podpora shora. Model „Danů v klubu“ (3 dny slíbené, 2 placené) neškáluje – potřeba balíček pro fotbal a lídr v klubu → [[Yarmill/Meetings/2026-10-20 – Yarmill – společný meeting o směřování|2026-10-20 – Yarmill – společný meeting o směřování]]
 
 ### Marketing Yarmillu
 - 2026-10-20: Spor o Instagram (nedotažení externisté, „není čas, ale na trička je“), návrh dát týmu 2 měsíce, sdílitelná fialová mapa aktivity, promo video z klubu. B2C pro hobby sportovce spíš ne, mezikrok přes kluby a hotové instance → [[Yarmill/Meetings/2026-10-20 – Yarmill – společný meeting o směřování|2026-10-20 – Yarmill – společný meeting o směřování]]

@@ -19,6 +19,7 @@ Formát: **Správný tvar** – co to je · *jak to přepis typicky zkomolí*
 | Martin Neoral | Eyeball – region Evropa (střední, východní a jižní Evropa, Balkán) | Martin | *Martinou Radámovou* |
 | Ondra (příjmení ?) | (role ?) – Sigma | Ondro, Ondrou | |
 | David (příjmení ?) | (role ?) | | |
+| Anička (příjmení ?) | produkt – Yarmill | Anička | *Aniška, Anízka* |
 | Mgr. Marek Maráček | CPET / zátěžová diagnostika (cyklistika) | Marek | |
 | | | | |
 
