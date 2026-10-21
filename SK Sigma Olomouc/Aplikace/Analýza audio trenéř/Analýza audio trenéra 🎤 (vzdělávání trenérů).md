@@ -1,5 +1,6 @@
 ---
 apple-notes-id: CFDDEBA0-98BF-412C-92B4-D634BB9942A6
+faze: Nasazeno na Render - testování
 ---
 
 Chci vytvořit aplikaci, která bude sloužit jako analytik pro vyhodnocení způsobů komunikace trenéra v tréninku.

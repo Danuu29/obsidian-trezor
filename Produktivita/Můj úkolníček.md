@@ -29,9 +29,10 @@ kanban-plugin: board
 - [ ] **[[SK Sigma Olomouc/Analytická témata/⭐ Hodnocení hráčů| Hodnocení hráčů]]**
 	- detailní hodnocení hráče
 	- postavit tabular v návaznosti na EyeBall = jedna tabulka
-- [ ] Appky 
+- [ ] **Appky** 
 	- udělat si list s aplikacemi 
-	- Nepropojit
+	- Napropojit
+	- Nechat si udělat Claudem přesně jak appky fungují a co umí
 
 
 ## Čeká

@@ -1,5 +1,6 @@
 ---
 apple-notes-id: 3A1A1B54-0C15-4931-9AD4-2DC29423E997
+faze:
 ---
 #app 
 # MOJE VERZE 
