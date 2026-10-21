@@ -88,6 +88,8 @@ kanban-plugin: board
 	- analýza více soutěží U14 - U19
 	- API přístup
 - [x] Přípravka Inbody
+- [x] Skills 
+	- popsat do obsidianu
 
 %% kanban:settings
 ```

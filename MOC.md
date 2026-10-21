@@ -89,6 +89,10 @@ Tréninkový deník a týdny jsou kopie z Claude Docs (needitovat).
 - [[Wish list]]
 - [[✏️Tasky ke zpracování]]
 
+## Claude
+
+- [[Claude – přehled]] – skills, automatizace a projekty v Claude
+
 ## Přepisy a pomůcky
 
 - [[_Přehled přepisů]]
