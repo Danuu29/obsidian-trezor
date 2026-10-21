@@ -4,7 +4,7 @@ faze: Nasazeno na Render - testování
 odzkaz: https://coaching-analytics-1o5g.onrender.com/dashboard
 ---
 
-Chci vytvořit aplikaci, která bude sloužit jako analytik pro vyhodnocení způsobů komunikace trenéra v tréninku.
+Chci vytvořit aplikaci, která bude sloužit jako analytik pro vyhodnocení způsobů ko[m]()unikace trenéra v tréninku.
 
 ## Jak by měla aplikace fungovat:
 
