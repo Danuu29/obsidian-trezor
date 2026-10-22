@@ -16,6 +16,7 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 	- [ ] Přidat přehled herních dat do reportu zápasu stejně jako GPS (GPS i herní data pak k hráči do reportu)
 	- [ ] SkillCorner, Wyscout, EyeBall - Projekt herních dat (slovníky, souvislosti, atd...)
 	- [ ] Přidat RTP protokol - (Capka 22.10.2026 - testování nyní jako PERFORMANCE = musíme změnit)
+	- [ ] Potřebuji nějak pomáhat připomínat push
 
 ## Yollanda
 
