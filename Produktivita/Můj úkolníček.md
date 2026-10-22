@@ -19,8 +19,6 @@ kanban-plugin: board
 	- udělat kostru
 	- rozmysl
 	- začít budovat
-- [ ] **Úpravy kinezio**
-	- doupravit a dotáhnout do koce
 - [ ] **[[SK Sigma Olomouc/Aplikace/Analýza audio trenéř/Analýza audio trenéra 🎤 (vzdělávání trenérů)|Analýza audio trenéra]]**
 	- Literatura
 	- Metadata – mazaní a výběr více zdrojů
@@ -73,6 +71,8 @@ kanban-plugin: board
 ## Hotovo
 
 **Complete**
+- [x] **Úpravy kinezio**
+	- doupravit a dotáhnout do koce
 
 
 ## Dodělávky

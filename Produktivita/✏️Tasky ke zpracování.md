@@ -26,7 +26,7 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 ## GPS úpravy
 
 - &nbsp;
-	- [ ] Udělat report s přehledem z předešlého dne ACWR z GPS
+	- [x] Udělat report s přehledem z předešlého dne ACWR z GPS
 	- [ ] Udělat typ zobrazení (trasholdy, individuální referenční hodnota)
 	- [ ] Upozornění v návaznosti na trasholdy
 	- [ ] Parametry za minutu (filtr)

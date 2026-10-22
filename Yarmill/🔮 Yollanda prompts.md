@@ -1,0 +1,4 @@
+
+# Ke zpracovaní 
+
+# Používané
