@@ -77,9 +77,6 @@ kanban-plugin: board
 
 ## Dodělávky
 
-- [ ] Dodělávky
-	- ISO prone v únavovém testu - není trend, je no data hláška
-	- u statické síly Viktorka není trend
 
 
 ***
@@ -93,6 +90,9 @@ kanban-plugin: board
 - [x] Přípravka Inbody
 - [x] Skills 
 	- popsat do obsidianu
+- [x] Dodělávky
+	- ISO prone v únavovém testu - není trend, je no data hláška
+	- u statické síly Viktorka není trend
 
 %% kanban:settings
 ```
