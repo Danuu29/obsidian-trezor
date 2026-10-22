@@ -10,9 +10,9 @@ kanban-plugin: board
 
 ## Aktuální
 
-- [ ] Vytíženost Yarmillu
-	- udělat si report
-- [ ] **Rezervační systém** #hightPriority
+- [ ] [[Přehled agend]]
+	- dodělat report
+- [ ] [[Rezervační systém 🗓️]]
 	- nasadit
 	- projít a začít používat s Patrikem
 - [ ] **[[SK Sigma Olomouc/Analytická témata/Karta hráče 🎯|Karta hráče]]** #priorita 
