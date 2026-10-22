@@ -3,10 +3,7 @@
 kanban-plugin: board
 
 ---
-
 ## Inbox 📥
-
-
 
 ## Aktuální
 
