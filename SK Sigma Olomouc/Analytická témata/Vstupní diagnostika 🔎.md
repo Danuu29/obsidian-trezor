@@ -2,7 +2,8 @@
 apple-notes-id: 4CD31057-FC8A-498B-89D9-1B79E8E6BD5E
 ---
 - Slouží proto, abychom na jeden papír dostali veškeré důležité informace proto jestli koupit/nekoupit
-
+- Porovnání v rámci jeho kategorie, popřípadě stejné pozice
+- Jednoduché porovnání s výsledkem jak na tom hráč je
 ## SÍLA - Testování VALD
 
 - Je stejné jako performance?

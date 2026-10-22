@@ -27,3 +27,6 @@
 - Koncepce klubu - vymyslet jak udělat nějaké udělátko (bude radit trenérům na základě koncepce)
 # Insights
 - upozornění na to co se s hráčem děje (pozor tloustne)
+
+# Ostatní
+- Mentální dotazníky (RFA Marta B. - do Yarmillu - nechat si nesdílet)

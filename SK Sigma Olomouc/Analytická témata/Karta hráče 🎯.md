@@ -23,7 +23,7 @@ temata:
 - VALD - performance testy
 - InBody
 - Kineziologický rozbor
-
+- Benchmarky - běžecká data podle požadavku (v kartě hráče zohlednit)
 ### Psychika
 ### Životní styl
 - Spánková hygiena z Whoopu

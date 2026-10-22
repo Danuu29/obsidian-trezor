@@ -6,7 +6,6 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 - &nbsp;
 	- [ ] Dát info že nejsou data kompletní oproti termínově
 	- [ ] Hráči mimo klub - kolik odehráli, odtrénovali, atd.. (evidence, abychom měli informace)
-
 ## Sigma
 
 - &nbsp;
@@ -17,12 +16,10 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 	- [ ] SkillCorner, Wyscout, EyeBall - Projekt herních dat (slovníky, souvislosti, atd...)
 	- [ ] Přidat RTP protokol - (Capka 22.10.2026 - testování nyní jako PERFORMANCE = musíme změnit)
 	- [ ] Potřebuji nějak pomáhat připomínat push
-
 ## Yollanda
 
 - &nbsp;
 	- [ ] Doplnit informace pro lepší strukturu (InBody - atd..)
-
 ## GPS úpravy
 
 - &nbsp;
@@ -31,14 +28,12 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 	- [ ] Upozornění v návaznosti na trasholdy
 	- [ ] Parametry za minutu (filtr)
 	- [ ] Projít s Pátou tagování - k čemu je to dobré, vysvětlit technické řešení
-
 ## Sigma dokumenty
 
 - &nbsp;
 	- [ ] Postavit strukturu dokumentů
 	- [ ] Donahrát dokumenty (Páťa metodika, koncepce, IDP,…)
 	- [ ] Vyřešit bezpečnost
-
 ## Aplikace
 
 - &nbsp;
@@ -46,7 +41,6 @@ apple-notes-id: BFE7D5FD-BD22-4BD2-AE08-DE0C21C0CA54
 	- [ ] Standardní situace do přípravy na soupeře
 	- [ ] Detailně popsat data Skill Corner a Wyscout + vytvořit metadata
 	- [ ] V rámci aplikace příprava na zápas - možnost dělat skautské reporty (Patrik - trasholdy - + informace na základě metodiky)
-
 ## Wellness
 
 - [ ] Zařadit do dotazníků, že hráče něco bolí (kotník, kolena, třísla, zadní strana stehna, ostatní)
