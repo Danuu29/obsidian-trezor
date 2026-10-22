@@ -15,6 +15,10 @@ kanban-plugin: board
 	- paměť, instrukce, soubory, kontext
 - [ ] **Opakovaní činnosti**
 	- zapisovat si co dělám rutinně, automatizovat
+- [ ] **Appky** 
+	- udělat si list s aplikacemi 
+	- Napropojit
+	- Nechat si udělat Claudem přesně jak appky fungují a co umí
 
 
 

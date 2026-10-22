@@ -3,7 +3,10 @@
 kanban-plugin: board
 
 ---
+
 ## Inbox 📥
+
+
 
 ## Aktuální
 
@@ -26,15 +29,10 @@ kanban-plugin: board
 - [ ] **[[SK Sigma Olomouc/Analytická témata/⭐ Hodnocení hráčů| Hodnocení hráčů]]**
 	- detailní hodnocení hráče
 	- postavit tabular v návaznosti na EyeBall = jedna tabulka
-- [ ] **Appky** 
-	- udělat si list s aplikacemi 
-	- Napropojit
-	- Nechat si udělat Claudem přesně jak appky fungují a co umí
 
 
 ## Čeká
 
-- [ ] **[[Apple Notes/Sigma Olomouc ⚽/Rezervační systém 🗓️|Rezervační systém 🗓️]]**
 - [ ] **GPS – individuální**
 	- upravit referenční hodnotu na trashodly
 	- Tagovnsi atd.. probrat s patou

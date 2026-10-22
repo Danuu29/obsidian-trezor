@@ -1,27 +1,7 @@
 ---
 apple-notes-id: 3B72092F-DA27-4A0D-8969-7A5EA9FD225F
 ---
-### Fizyo
 
-- Balanc - u balance dát jen jednu otázku na balanc a přidat neustojí 4 možnost
-- Yollanda - skupiny podle stejného problému
-- Yollanda Insights
-- V preventivním testu - stav ze zdravotního modulu
-
-- Zdravotní modul - chci se podívat na zprávu nebo snímek - chci náhled ne stáhnout
-- Chci udělat export ze zdravotního modulu
-- Yollanda - zranění a nemoc informace aby ona měla a dokázala s tím pracovat pro analýze
-- Yollanda nevidí totiž vůbec, že hráč byl zraněný
-- Interpretace dat Fyzio - co je tam důležité, normy a rozdíly (zkusit ji dat)
-
-- Nootebook LM - nahrát tam data Fyzio rekondiční plán
-
-### Koncepce
-
-- Nahrát do NotebookuLM koncepci
-- upozornění na to co se s hráčem děje (pozor tloustne)
-- Benchmarky - běžecká data podle požadavku (v kartě hráče zohlednit)
-- dotazník pro hráče
 
 ### Poznámky z meetingu:
 

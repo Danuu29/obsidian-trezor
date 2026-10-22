@@ -85,9 +85,9 @@ Tréninkový deník a týdny jsou kopie z Claude Docs (needitovat).
 
 ## Produktivita
 
-- [[Můj úkolníček]]
+- [[1_Můj úkolníček]]
 - [[Wish list]]
-- [[✏️Tasky ke zpracování]]
+- [[2_Tasky ke zpracování]]
 
 ## Claude
 
