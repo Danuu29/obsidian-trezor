@@ -11,13 +11,13 @@ tags:
 
 ## Formátování textu
 
-| Napíšete | Výsledek | Zkratka |
-|---|---|---|
-| `**tučně**` | **tučně** | Cmd + B |
-| `*kurzíva*` | *kurzíva* | Cmd + I |
-| `~~přeškrtnuto~~` | ~~přeškrtnuto~~ | |
-| `==zvýraznění==` | ==zvýraznění== | |
-| `` `kód` `` | `kód` | |
+| Napíšete          | Výsledek        | Zkratka |
+| ----------------- | --------------- | ------- |
+| `**tučně**`       | **tučně**       | Cmd + B |
+| `*kurzíva*`       | *kurzíva*       | Cmd + I |
+| `~~přeškrtnuto~~` | ~~přeškrtnuto~~ |         |
+| `==zvýraznění==`  | ==zvýraznění==  |         |
+| `` `kód` ``       | `kód`           |         |
 
 ## Nadpisy
 
